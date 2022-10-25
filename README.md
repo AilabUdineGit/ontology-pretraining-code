@@ -86,4 +86,3 @@ python3 main.py --dataset=$dataset \
     --batch_size 128 \
     --accumulation 2
 ```
-
