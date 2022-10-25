@@ -1,6 +1,10 @@
-# Models execution
+# Ontology Pretraining code
 
-## PubMedBERT
+This code could produce some errors. The updated version will be released soon.
+
+## Models execution
+
+### PubMedBERT
 
 ```bash
 $model="pubmedbert"
@@ -20,7 +24,7 @@ python test.py --model $model \
 
 ```
 
-## GPT-2
+### GPT-2
 
 ```bash
 $model="gpt2_pre(30)"
@@ -39,9 +43,9 @@ python test.py --model $model \
     --outpath "../$output_folder/pubmedbert_ft"
 ```
 
-## Sci5
+### Sci5
 
-### Execution fine-tuning (+ test)
+#### Execution fine-tuning (+ test)
 
 ```bash
 $model="razent/SciFive-base-Pubmed"
@@ -82,3 +86,4 @@ python3 main.py --dataset=$dataset \
     --batch_size 128 \
     --accumulation 2
 ```
+
