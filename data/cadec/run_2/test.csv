@@ -1,0 +1,2353 @@
+,ae,term,term_code,samp_id,term_llt_or_pt
+0,tingling in fingers,paraesthesia,10035067,LIPITOR.230,pins and needles
+1,foggy-headedness,mental impairment,10027371,LIPITOR.230,mental dullness
+2,sleeplessness,insomnia,10022437,LIPITOR.230,insomnia
+3,light headed,dizziness,10024492,VOLTAREN.6,lightheadedness
+4,face has felt numb,hypoaesthesia,10029833,VOLTAREN.6,numbness facial
+5,diarreah,diarrhoea,10012735,LIPITOR.836,diarrhoea
+6,muscle aches & pains,myalgia,10028411,LIPITOR.836,myalgia
+7,fatigue,fatigue,10016256,LIPITOR.836,fatigue
+8,starting to upset my stomach,abdominal pain upper,10042076,ARTHROTEC.8,stomach ache
+9,back pain,back pain,10003993,LIPITOR.88,backache
+10,stuffy nose,nasal congestion,10028735,LIPITOR.88,nasal congestion
+11,aches in hands,pain in extremity,10033430,LIPITOR.88,pain in hand
+12,chest pains,chest pain,10008479,LIPITOR.88,chest pain
+13,chest discomfort,chest discomfort,10008469,LIPITOR.88,chest discomfort
+14,tingling hands,paraesthesia,10035067,LIPITOR.88,pins and needles
+15,weakness in legs,muscular weakness,10047868,LIPITOR.88,weakness of limbs
+16,difficulty breathing,dyspnoea,10012791,LIPITOR.88,difficulty breathing
+17,muscle soreness,myalgia,10028411,LIPITOR.326,myalgia
+18,weight gain,weight increased,10047896,LIPITOR.326,weight gain
+19,blisterey rash on my arms,dermatitis bullous,10006569,LIPITOR.987,bullous rash
+20,blisterey rash on my legs,dermatitis bullous,10006569,LIPITOR.987,bullous rash
+21,joint pain,arthralgia,10003239,LIPITOR.987,arthralgia
+22,short term memory loss,memory impairment,10068446,LIPITOR.987,short-term memory impairment
+23,fatigue,fatigue,10016256,LIPITOR.987,fatigue
+24,muscle pain,myalgia,10028411,LIPITOR.987,myalgia
+25,vision became blurry,vision blurred,10005888,LIPITOR.987,blurring of vision
+26,memory loss,amnesia,10001949,LIPITOR.398,amnesia
+27,hair thinning,alopecia,10019045,LIPITOR.398,hair loss
+28,tiredness,fatigue,10043890,LIPITOR.398,tiredness
+29,moody,mood swings,10027952,LIPITOR.398,mood variable
+30,muscle aches,myalgia,10028411,LIPITOR.398,myalgia
+31,anxiety,anxiety,10002855,LIPITOR.605,anxiety
+32,thoughts about suicide,suicidal ideation,10042458,LIPITOR.605,suicidal ideation
+33,severe muscle pain,myalgia,10028411,LIPITOR.605,myalgia
+34,malaise,malaise,10025482,LIPITOR.605,malaise
+35,exhaustion,fatigue,10015667,LIPITOR.605,exhaustion
+36,severe depression,depression,10012378,LIPITOR.605,depression
+37,severe muscle pain,pain,10033371,LIPITOR.605,pain
+38,depressed,depression,10012378,LIPITOR.605,depression
+39,rectal bleed,rectal haemorrhage,10055842,ARTHROTEC.107,haemorrhage rectal
+40,extremely sick,malaise,10018135,ARTHROTEC.107,generally unwell
+41,tight throat,throat tightness,10043528,LIPITOR.518,throat tightness
+42,bladder infection,cystitis,10011781,LIPITOR.518,cystitis
+43,kidneys hurt,renal pain,10038490,LIPITOR.518,renal pain
+44,black outs,loss of consciousness,10004982,LIPITOR.518,blackout
+45,could not walk,gait disturbance,10047810,LIPITOR.632,walking difficulty
+46,muscle pain,myalgia,10028411,LIPITOR.632,myalgia
+47,joint pain,arthralgia,10003239,LIPITOR.632,arthralgia
+48,headaches,headache,10019211,LIPITOR.207,headache
+49,charley horse in my side,muscle spasms,10063952,LIPITOR.207,charley horse
+50,charley horses in the abdomen,muscle spasms,10063952,LIPITOR.207,charley horse
+51,vertigo,vertigo,10047340,LIPITOR.207,vertigo
+52,charley horse in one or both breasts,muscle spasms,10063952,LIPITOR.207,charley horse
+53,charley horses in feet,muscle spasms,10063952,LIPITOR.207,charley horse
+54,charley horses in sides,muscle spasms,10063952,LIPITOR.207,charley horse
+55,memory loss,amnesia,10001949,LIPITOR.207,amnesia
+56,charley horses in shoulders,muscle spasms,10063952,LIPITOR.207,charley horse
+57,charley horses in breasts,muscle spasms,10063952,LIPITOR.207,charley horse
+58,charley horses in abdomen,muscle spasms,10063952,LIPITOR.207,charley horse
+59,charley horses in legs,muscle spasms,10063952,LIPITOR.207,charley horse
+60,charley horses in calves,muscle spasms,10063952,LIPITOR.207,charley horse
+61,muscle weakness in plantar muscle,muscular weakness,10047868,LIPITOR.322,weakness of limbs
+62,muscle weakness in ankle,muscular weakness,10047868,LIPITOR.322,weakness of limbs
+63,muscle weakness in back,muscular weakness,10028350,LIPITOR.322,muscle weakness
+64,very intense muscle pain with burning from the middle of my back and around my ribs to the center of my chest,myalgia,10036097,LIPITOR.562,polymyalgia
+65,intense muscle pain with intense burning in my arms,myalgia,10028411,LIPITOR.562,myalgia
+66,intense muscle pain with intense burning in my neck,pain,10033386,LIPITOR.562,pain burning
+67,intense muscle pain with intense burning in my legs,pain,10033386,LIPITOR.562,pain burning
+68,intense muscle pain with intense burning in my legs,myalgia,10028411,LIPITOR.562,myalgia
+69,intense muscle pain with intense burning in my neck,myalgia,10028411,LIPITOR.562,myalgia
+70,intense muscle pain with intense burning in my arms,pain,10033386,LIPITOR.562,pain burning
+71,muscle pains,myalgia,10028411,LIPITOR.562,myalgia
+72,slip in vision,visual impairment,10047571,LIPITOR.566,visual impairment
+73,weakness in thighs,muscular weakness,10047868,LIPITOR.566,weakness of limbs
+74,not as sharp mentally,mental impairment,10027371,LIPITOR.566,mental dullness
+75,soreness in thighs,pain in extremity,10048973,LIPITOR.566,pain in thigh
+76,extreme muscle weakness,muscular weakness,10028350,LIPITOR.566,muscle weakness
+77,diahrea,diarrhoea,10012735,ARTHROTEC.65,diarrhoea
+78,vaginal bleeding,vaginal haemorrhage,10046883,ARTHROTEC.65,vaginal bleeding
+79,sweats,hyperhidrosis,10042661,ARTHROTEC.65,sweating
+80,jaundins,jaundice,10023126,ARTHROTEC.65,jaundice
+81,hot flashes,flushing,10016825,ARTHROTEC.65,flushing
+82,gut-renching abdominal pain,abdominal pain,10033374,ARTHROTEC.65,pain abdominal
+83,constipation,constipation,10010774,ARTHROTEC.65,constipation
+84,gut-renching abdominal pain,pain,10033371,ARTHROTEC.65,pain
+85,achilles peritendonitis,tendonitis,10000441,LIPITOR.858,achilles tendonitis
+86,stiffness,musculoskeletal stiffness,10042045,LIPITOR.858,stiffness
+87,my gait was like someone who could barely walk,myocardial infarction,10028596,LIPITOR.858,myocardial infarction
+88,sore fingers,pain in extremity,10033428,LIPITOR.858,pain in fingers
+89,sore knees,arthralgia,10023477,LIPITOR.858,knee pain
+90,sore ankles,arthralgia,10033379,LIPITOR.858,pain ankle
+91,no energy,asthenia,10024862,LIPITOR.129,loss of energy
+92,dysfunctional bowel,functional gastrointestinal disorder,10006051,LIPITOR.129,bowel dysfunction
+93,joint pains,arthralgia,10003239,LIPITOR.129,arthralgia
+94,depression,depression,10012378,LIPITOR.129,depression
+95,fatigue,fatigue,10016256,LIPITOR.129,fatigue
+96,muscle aches,myalgia,10028411,LIPITOR.129,myalgia
+97,severe back spasms,muscle spasms,10067893,LIPITOR.838,back muscle spasms
+98,feeling like i was walking through waist-deep mud,discomfort,10040000,LIPITOR.838,sensation of heaviness
+99,spasms all throughout my legs,muscle spasms,10041408,LIPITOR.838,spasms
+100,weakness in my right arm,muscular weakness,10047868,LIPITOR.838,weakness of limbs
+101,intense pain in my knees,pain,10033371,LIPITOR.838,pain
+102,extreme anxiety,anxiety,10002855,LIPITOR.838,anxiety
+103,i simply could not walk,gait inability,10049278,LIPITOR.838,unable to walk
+104,intense pain in my knees,arthralgia,10023477,LIPITOR.838,knee pain
+105,super dry skin,dry skin,10013786,LIPITOR.334,dry skin
+106,lack of concentration,disturbance in attention,10010248,LIPITOR.334,concentration ability impaired
+107,pain,pain,10033371,LIPITOR.334,pain
+108,night sweats,night sweats,10029410,LIPITOR.334,night sweats
+109,depression,depression,10012378,LIPITOR.334,depression
+110,hurt,pain,10033371,LIPITOR.334,pain
+111,muscle pain,myalgia,10028411,LIPITOR.334,myalgia
+112,upset stomach,abdominal discomfort,10046318,VOLTAREN-XR.22,upset stomach
+113,strokes,cerebrovascular accident,10008190,VOLTAREN-XR.22,cerebrovascular accident
+114,heart attacks,myocardial infarction,10028596,VOLTAREN-XR.22,myocardial infarction
+115,menstrual cramps,dysmenorrhoea,10027323,ARTHROTEC.127,menstrual cramp
+116,sick to stomach,abdominal discomfort,10046318,ARTHROTEC.127,upset stomach
+117,back ache,back pain,10003993,ARTHROTEC.127,backache
+118,sick to my stomach,abdominal discomfort,10046318,ARTHROTEC.127,upset stomach
+119,nausea,nausea,10028813,ARTHROTEC.127,nausea
+120,lower back pain,back pain,10024891,ARTHROTEC.127,low back pain
+121,joint pain,arthralgia,10003239,LIPITOR.775,arthralgia
+122,muscle pain,myalgia,10028411,LIPITOR.775,myalgia
+123,everything hurts,pain,10018074,LIPITOR.833,generalised aching
+124,aches and pains,pain,10018074,LIPITOR.833,generalised aching
+125,muscle soreness,myalgia,10028411,LIPITOR.251,myalgia
+126,weight gain,weight increased,10047896,LIPITOR.251,weight gain
+127,insomnia,insomnia,10022437,LIPITOR.251,insomnia
+128,pins and needles,paraesthesia,10035067,LIPITOR.251,pins and needles
+129,depressed,depression,10012378,LIPITOR.251,depression
+130,tiredness,fatigue,10043890,LIPITOR.251,tiredness
+131,hand feels like it's not mine,derealisation,10012422,LIPITOR.251,derealisation
+132,neck pain,neck pain,10028836,LIPITOR.251,neck pain
+133,truble remembering,memory impairment,10027175,LIPITOR.251,memory impairment
+134,very irritable,irritability,10023000,ARTHROTEC.31,irritable
+135,gerd,flatulence,10016766,ARTHROTEC.31,flatulence
+136,extreme tiredness,fatigue,10016256,ARTHROTEC.31,fatigue
+137,headaches,headache,10019211,ARTHROTEC.31,headache
+138,severe lower abdominal pain/cramping,abdominal pain lower,10024940,ARTHROTEC.31,lower abdominal pain
+139,dry mouth,dry mouth,10013781,ARTHROTEC.31,dry mouth
+140,heartburn in back of throat,dyspepsia,10019326,ARTHROTEC.31,heartburn
+141,pms symptoms,premenstrual syndrome,10036502,ARTHROTEC.31,pre-menstrual tension syndrome
+142,dry mouth,apudoma,10003069,ARTHROTEC.31,apudoma
+143,hunger pangs,abdominal pain upper,10033407,ARTHROTEC.31,pain hunger
+144,moody,mood swings,10027952,LIPITOR.975,mood variable
+145,memory loss,amnesia,10001949,LIPITOR.975,amnesia
+146,dizziness,dizziness,10013573,LIPITOR.975,dizziness
+147,extreme tiredness,fatigue,10016256,LIPITOR.975,fatigue
+148,"muscle aches,",myalgia,10028411,LIPITOR.253,myalgia
+149,fatigue,fatigue,10016256,LIPITOR.253,fatigue
+150,slurred speech,dysarthria,10041053,LIPITOR.253,slurred speech
+151,dry throat/hoarseness,dysphonia,10020201,LIPITOR.253,hoarseness
+152,balance problems,memory impairment,10027175,LIPITOR.253,memory impairment
+153,cold toes and feet,peripheral coldness,10009859,LIPITOR.253,cold feet
+154,memory problems,memory impairment,10027175,LIPITOR.253,memory impairment
+155,cramps,muscle spasms,10028294,LIPITOR.253,muscle cramp
+156,cold hands,peripheral coldness,10009860,LIPITOR.253,cold hands
+157,pain in my arms,pain in extremity,10071701,LIPITOR.246,pain in upper extremities
+158,pain in hands,pain in extremity,10033430,LIPITOR.246,pain in hand
+159,pain in back,back pain,10003993,LIPITOR.246,backache
+160,pain in upper legs,pain in extremity,10048973,LIPITOR.246,pain in thigh
+161,debilitating muscle pain in my back,myalgia,10028411,LIPITOR.746,myalgia
+162,debilitating muscle pain in my arms,myalgia,10028411,LIPITOR.746,myalgia
+163,severe cramping in my legs,muscle spasms,10011301,LIPITOR.746,cramps of lower extremities
+164,severe cramping in my back,muscle spasms,10067893,LIPITOR.746,back muscle spasms
+165,debilitating muscle pain in my legs,myalgia,10051587,LIPITOR.746,myalgia of lower extremities
+166,leg pain,pain in extremity,10033473,LIPITOR.913,pain of lower extremities
+167,shoulder pain,arthralgia,10040617,LIPITOR.913,shoulder pain
+168,severe neck pain,pain,10033371,LIPITOR.913,pain
+169,back pain,back pain,10003993,LIPITOR.913,backache
+170,severe neck pain,neck pain,10028836,LIPITOR.913,neck pain
+171,muscle pain,myalgia,10028411,LIPITOR.913,myalgia
+172,sex drive has decreased,libido decreased,10024419,LIPITOR.968,libido decreased
+173,headaches,headache,10019211,LIPITOR.968,headache
+174,difficulty sleeping,insomnia,10012804,LIPITOR.968,difficulty sleeping
+175,terrible leg cramps,muscle spasms,10011301,LIPITOR.968,cramps of lower extremities
+176,pain in legs,pain in extremity,10033473,LIPITOR.968,pain of lower extremities
+177,pain in feet,pain in extremity,10016974,LIPITOR.968,foot pain
+178,fatigue,fatigue,10016256,LIPITOR.968,fatigue
+179,muscle weakness,muscular weakness,10028350,LIPITOR.291,muscle weakness
+180,dizziness,dizziness,10013573,LIPITOR.291,dizziness
+181,nausea,nausea,10028813,LIPITOR.291,nausea
+182,extreme pain,pain,10033371,LIPITOR.291,pain
+183,can barely walk,gait disturbance,10047810,LIPITOR.291,walking difficulty
+184,diarrhea,diarrhoea,10012735,LIPITOR.291,diarrhoea
+185,could barely move,mobility decreased,10048334,LIPITOR.896,mobility decreased
+186,enlarged liver,hepatomegaly,10019842,LIPITOR.896,hepatomegaly
+187,pain,pain,10033371,LIPITOR.896,pain
+188,muscles had become weak and stressed,muscular weakness,10028350,LIPITOR.896,muscle weakness
+189,severe pain close to my the crotch area,pain,10033371,LIPITOR.896,pain
+190,itchy,pruritus,10023084,LIPITOR.105,itching
+191,watery,lacrimation increased,10047848,LIPITOR.105,watering eyes
+192,crying,crying,10011469,LIPITOR.105,crying
+193,itching,pruritus,10023084,LIPITOR.105,itching
+194,depression,depression,10012378,LIPITOR.105,depression
+195,numbness,hypoaesthesia,10029829,LIPITOR.105,numbness
+196,eyes running,lacrimation increased,10047848,LIPITOR.105,watering eyes
+197,cramps,muscle spasms,10028294,LIPITOR.105,muscle cramp
+198,bloating,abdominal distension,10005265,VOLTAREN-XR.8,bloating
+199,blood in bowel movements,haematochezia,10018836,VOLTAREN-XR.8,haematochezia
+200,stomach upset,abdominal discomfort,10046318,VOLTAREN-XR.8,upset stomach
+201,swelling,swelling,10042674,LIPITOR.196,swelling
+202,unexplained sweating,hyperhidrosis,10042662,LIPITOR.196,sweating abnormal
+203,resting pulse jumped to between 100 and 105,heart rate increased,10037484,LIPITOR.196,pulse rapid
+204,resting pulse had jumped to about 120,heart rate increased,10037484,LIPITOR.196,pulse rapid
+205,pronounced sweating,hyperhidrosis,10042667,LIPITOR.196,sweating increased
+206,leg muscle pain,myalgia,10028411,LIPITOR.196,myalgia
+207,dizziness,dizziness,10013573,LIPITOR.196,dizziness
+208,lack of energy,asthenia,10024862,LIPITOR.196,loss of energy
+209,frequent menstral periods,polymenorrhoea,10036086,ARTHROTEC.72,polymenorrhoea
+210,damaging your muscles,myopathy,10028641,LIPITOR.365,myopathy
+211,joint pain very arthritic,arthralgia,10003239,LIPITOR.365,arthralgia
+212,numbness,hypoaesthesia,10029829,LIPITOR.365,numbness
+213,severe arthritis symptoms in hip joints,osteoarthritis,10065955,LIPITOR.365,hip arthrosis
+214,joint pains,arthralgia,10003239,LIPITOR.365,arthralgia
+215,muscle problems,myopathy,10028641,LIPITOR.365,myopathy
+216,severe arthritis symptoms in knees,osteoarthritis,10031165,LIPITOR.365,osteoarthritis knee
+217,muscle cramps,muscle spasms,10028294,LIPITOR.365,muscle cramp
+218,cannot walk even a short distance due to pain,gait inability,10049278,LIPITOR.856,unable to walk
+219,joint pain in spine,spinal pain,10052060,LIPITOR.856,pain in spine
+220,severe hip pain,pain,10033371,LIPITOR.856,pain
+221,severe hip pain,arthralgia,10033432,LIPITOR.856,pain in hip
+222,hip pain,arthralgia,10033432,LIPITOR.856,pain in hip
+223,exhaustion,fatigue,10015667,LIPITOR.856,exhaustion
+224,legs felt like they had run a marathon,muscle fatigue,10049565,LIPITOR.856,muscle fatigue
+225,joint pain in elbows,arthralgia,10033424,LIPITOR.856,pain in elbow
+226,joint pain in hips,arthralgia,10033432,LIPITOR.856,pain in hip
+227,cannot walk more than 5 yards,gait disturbance,10047810,LIPITOR.856,walking difficulty
+228,pain in hips,arthralgia,10033432,LIPITOR.856,pain in hip
+229,deep bruising,contusion,10006502,LIPITOR.856,bruise
+230,pain in my lower leg,pain in extremity,10033473,LIPITOR.585,pain of lower extremities
+231,swollen legs,peripheral swelling,10042702,LIPITOR.585,swelling of limbs
+232,swollen ankles,joint swelling,10042715,LIPITOR.585,swollen ankles
+233,muscle spasms,muscle spasms,10028294,LIPITOR.344,muscle cramp
+234,joint pain,arthralgia,10003239,LIPITOR.344,arthralgia
+235,spasms,muscle spasms,10041408,LIPITOR.344,spasms
+236,restless,restlessness,10038743,LIPITOR.344,restlessness
+237,very sore and achy joints,arthralgia,10003239,LIPITOR.344,arthralgia
+238,foggy,mental impairment,10027371,LIPITOR.344,mental dullness
+239,mild headache,headache,10019211,LIPITOR.344,headache
+240,muscles quivering,muscle twitching,10028346,LIPITOR.344,muscle twitch
+241,muscle cramps,muscle spasms,10028294,LIPITOR.344,muscle cramp
+242,hard to sleep,insomnia,10012804,LIPITOR.344,difficulty sleeping
+243,gas,flatulence,10016766,LIPITOR.242,flatulence
+244,diaharrea,diarrhoea,10012735,LIPITOR.242,diarrhoea
+245,mood swings,pain in extremity,10033428,LIPITOR.242,pain in fingers
+246,depression,depression,10012378,LIPITOR.242,depression
+247,weight gain,weight increased,10047896,LIPITOR.242,weight gain
+248,depressed,depression,10012378,LIPITOR.242,depression
+249,bloating,abdominal distension,10005265,LIPITOR.242,bloating
+250,obsessively focused on morbid,morbid thoughts,10050464,LIPITOR.242,morbid thoughts
+251,constipation,constipation,10010774,LIPITOR.242,constipation
+252,anxiety,anxiety,10002855,LIPITOR.242,anxiety
+253,aggression,aggression,10001488,LIPITOR.242,aggression
+254,fatigue,fatigue,10016256,LIPITOR.242,fatigue
+255,lonliness,psychiatric symptom,10016341,LIPITOR.242,feeling lonely
+256,depression,depression,10012378,LIPITOR.951,depression
+257,crippling back pain,back pain,10003993,LIPITOR.951,backache
+258,crippling back pain,pain,10033371,LIPITOR.951,pain
+259,knee pain,arthralgia,10023477,LIPITOR.951,knee pain
+260,severe shoulder pain,arthralgia,10040617,LIPITOR.951,shoulder pain
+261,extreme tiredness,fatigue,10016256,LIPITOR.951,fatigue
+262,transient amnesia,amnesia,10027176,LIPITOR.951,memory loss
+263,memory loss,amnesia,10001949,LIPITOR.951,amnesia
+264,loss of balance,balance disorder,10004070,LIPITOR.951,balance difficulty
+265,degenerative back disease,intervertebral disc degeneration,10061246,LIPITOR.951,intervertebral disc degeneration
+266,hard to stay awake,somnolence,10013649,LIPITOR.951,drowsiness
+267,insomnia,insomnia,10022437,LIPITOR.951,insomnia
+268,severe shoulder pain,pain,10033371,LIPITOR.951,pain
+269,loss of memory,amnesia,10001949,LIPITOR.846,amnesia
+270,extreme pain in shoulders,arthralgia,10040617,LIPITOR.846,shoulder pain
+271,extreme pain in shoulders,pain,10033371,LIPITOR.846,pain
+272,weakness,asthenia,10003549,LIPITOR.474,asthenia
+273,parkinsons,parkinson's disease,10061536,LIPITOR.474,parkinson's disease
+274,tremors,tremor,10044565,LIPITOR.474,tremor
+275,shingles,herpes zoster,10019974,LIPITOR.832,herpes zoster
+276,pain in muscles,myalgia,10028411,LIPITOR.19,myalgia
+277,pain in joints,arthralgia,10003239,LIPITOR.19,arthralgia
+278,pain in bottom of feet,pain in extremity,10016974,LIPITOR.19,foot pain
+279,liver damage,liver disorder,10019650,LIPITOR.961,hepatic disease
+280,liver disease,liver disorder,10019650,LIPITOR.961,hepatic disease
+281,leg cramps,muscle spasms,10011301,LIPITOR.961,cramps of lower extremities
+282,mental confusion,confusional state,10010300,LIPITOR.961,confusion
+283,tired all the time,fatigue,10043885,LIPITOR.82,tired all the time
+284,weakness,asthenia,10003549,LIPITOR.82,asthenia
+285,muscle pain,myalgia,10028411,LIPITOR.82,myalgia
+286,vivid nightmares,nightmare,10029414,LIPITOR.82,nightmares
+287,insomnia,insomnia,10022437,LIPITOR.82,insomnia
+288,depression,depression,10012378,LIPITOR.82,depression
+289,nightmares,nightmare,10029414,LIPITOR.221,nightmares
+290,permanent nerve damage,nerve injury,10052897,LIPITOR.221,nerve injury
+291,dry mouth,dry mouth,10013781,LIPITOR.221,dry mouth
+292,falling over,fall,10016178,LIPITOR.221,falling down
+293,spasms,muscle spasms,10041408,LIPITOR.221,spasms
+294,muscle cramps,muscle spasms,10028294,LIPITOR.221,muscle cramp
+295,clumsiness,clumsiness,10009696,LIPITOR.221,clumsiness
+296,weakness in legs,muscular weakness,10047868,LIPITOR.221,weakness of limbs
+297,atrophy,muscle atrophy,10028289,LIPITOR.221,muscle atrophy
+298,foggy mental state,mental impairment,10027371,LIPITOR.221,mental dullness
+299,dry mouth,arachnoiditis,10003073,LIPITOR.221,arachnitis
+300,als,amyotrophic lateral sclerosis,10052889,LIPITOR.221,als
+301,trembling,tremor,10044562,LIPITOR.652,tremble
+302,moodiness,mood swings,10027952,LIPITOR.652,mood variable
+303,insomia,insomnia,10022437,LIPITOR.652,insomnia
+304,fatigue,fatigue,10016256,LIPITOR.652,fatigue
+305,dull headaches,headache,10019211,LIPITOR.652,headache
+306,diziness,dizziness,10013573,LIPITOR.652,dizziness
+307,felt rotton all day long,malaise,10018135,LIPITOR.652,generally unwell
+308,feverish,pyrexia,10016558,LIPITOR.652,fever
+309,nausea,nausea,10028813,LIPITOR.652,nausea
+310,tingly feeling in scalp,paraesthesia,10035067,LIPITOR.652,pins and needles
+311,neck pain,neck pain,10028836,LIPITOR.652,neck pain
+312,tingly feeling in hands,paraesthesia,10035067,LIPITOR.652,pins and needles
+313,general overal weakness,flatulence,10016766,LIPITOR.652,flatulence
+314,sadness,depressed mood,10016364,LIPITOR.652,feeling sad
+315,trouble concentrating,disturbance in attention,10036149,LIPITOR.652,poor concentration
+316,clamy feeling,cold sweat,10009231,LIPITOR.652,clammy
+317,constant hunger,hunger,10016336,LIPITOR.391,feeling hungry
+318,malaise,malaise,10025482,LIPITOR.391,malaise
+319,upset stomach,abdominal discomfort,10046318,LIPITOR.391,upset stomach
+320,exhaustion,fatigue,10015667,LIPITOR.391,exhaustion
+321,diarrhea,diarrhoea,10012735,LIPITOR.683,diarrhoea
+322,joint aches,arthralgia,10003239,LIPITOR.683,arthralgia
+323,muscle pain,myalgia,10028411,LIPITOR.683,myalgia
+324,strained muscles,muscle strain,10050031,LIPITOR.683,muscle strain
+325,pain,pain,10033371,LIPITOR.614,pain
+326,pain around the hipjoints,arthralgia,10033432,LIPITOR.614,pain in hip
+327,pain in my hipjoints,arthralgia,10033432,LIPITOR.614,pain in hip
+328,failed knee joits,arthropathy,10003285,LIPITOR.805,arthropathy
+329,pain in both legs,pain in extremity,10033473,LIPITOR.805,pain of lower extremities
+330,extrem pain in knee joints,pain,10033371,LIPITOR.805,pain
+331,extrem pain in knee joints,arthralgia,10023477,LIPITOR.805,knee pain
+332,unable to stand,dysstasia,10050218,LIPITOR.805,difficulty in standing
+333,pain in the legs,pain in extremity,10033473,LIPITOR.805,pain of lower extremities
+334,tingling in extremities,paraesthesia,10035067,LIPITOR.472,pins and needles
+335,headache,headache,10019211,LIPITOR.472,headache
+336,chronic fatigue,chronic fatigue syndrome,10008874,LIPITOR.472,chronic fatigue syndrome
+337,pain,pain,10033371,LIPITOR.472,pain
+338,muscle pain,myalgia,10028411,LIPITOR.472,myalgia
+339,couldn't exercise or eat,exercise tolerance decreased,10065629,LIPITOR.225,decreased exercise endurance
+340,couldn't exercise or eat,feeding disorder,10069830,LIPITOR.225,unable to eat
+341,loose stools,diarrhoea,10024840,LIPITOR.225,loose stools
+342,bloating,abdominal distension,10005265,LIPITOR.225,bloating
+343,gas,walking disability,10053204,LIPITOR.225,walking disability
+344,stomach cramps,learning disorder,10061265,LIPITOR.225,learning disorder
+345,fatigue,fatigue,10016256,LIPITOR.225,fatigue
+346,just wanted to sleep,hypersomnia,10020765,LIPITOR.225,hypersomnia
+347,pain behind the knee,arthralgia,10023477,LIPITOR.782,knee pain
+348,hematuria,haematuria,10018867,LIPITOR.782,haematuria
+349,pain in back,back pain,10003993,LIPITOR.782,backache
+350,pain in my shoulders,arthralgia,10040617,LIPITOR.619,shoulder pain
+351,pain bad,pain,10033371,LIPITOR.619,pain
+352,terrible pain in shoulders,arthralgia,10040617,LIPITOR.619,shoulder pain
+353,pain,pain,10033371,LIPITOR.619,pain
+354,terrible pain in hips,arthralgia,10033432,LIPITOR.619,pain in hip
+355,pain in my hip,arthralgia,10033432,LIPITOR.619,pain in hip
+356,insommnia,insomnia,10022437,LIPITOR.638,insomnia
+357,sciatic pain,sciatica,10039674,LIPITOR.389,sciatica
+358,dizziness,dizziness,10013573,LIPITOR.389,dizziness
+359,muscle cramps,muscle spasms,10028294,LIPITOR.389,muscle cramp
+360,memory loss,amnesia,10001949,LIPITOR.389,amnesia
+361,muscle spasms,muscle spasms,10028294,LIPITOR.389,muscle cramp
+362,hip pain,arthralgia,10033432,LIPITOR.389,pain in hip
+363,hair loss,alopecia,10019045,LIPITOR.389,hair loss
+364,lack of appetite,decreased appetite,10003028,LIPITOR.389,appetite lost
+365,no enthusaism,decreased interest,10038211,LIPITOR.389,reduced interest in usual activities
+366,extreme tiredness,fatigue,10016256,LIPITOR.389,fatigue
+367,back pain,back pain,10003993,LIPITOR.389,backache
+368,loss of feeling in toes,paraesthesia,10052407,LIPITOR.389,paraesthesia foot
+369,vision problems,visual impairment,10047543,LIPITOR.389,visual disturbance
+370,memory confusion,confusional state,10010300,LIPITOR.357,confusion
+371,memory loss,amnesia,10001949,LIPITOR.357,amnesia
+372,pain,pain,10033371,LIPITOR.357,pain
+373,muscle aches,myalgia,10028411,LIPITOR.357,myalgia
+374,panic attacks,panic attack,10033664,LIPITOR.429,panic attack
+375,anxiety,anxiety,10002855,LIPITOR.429,anxiety
+376,muscular pain,myalgia,10028411,LIPITOR.429,myalgia
+377,arrhythmia,arrhythmia,10007518,LIPITOR.429,cardiac arrhythmia
+378,depression,depression,10012378,LIPITOR.429,depression
+379,wrong with my liver,liver disorder,10019650,ARTHROTEC.95,hepatic disease
+380,diarrhoea,diarrhoea,10012735,ARTHROTEC.95,diarrhoea
+381,swelling feet,peripheral swelling,10042693,ARTHROTEC.95,swelling of feet
+382,blood pressure had gone sky high,blood pressure increased,10021655,ARTHROTEC.95,increased blood pressure
+383,swelling,swelling,10042674,ARTHROTEC.95,swelling
+384,ankles swelling,oedema peripheral,10002546,ARTHROTEC.95,ankle oedema
+385,blurry eyesight,vision blurred,10005886,LIPITOR.270,blurred vision
+386,burning feet,burning sensation,10049854,LIPITOR.270,burning foot
+387,muscle weakness,muscular weakness,10028350,LIPITOR.270,muscle weakness
+388,hair loss,alopecia,10019045,LIPITOR.270,hair loss
+389,painful heels,pain in extremity,10033431,LIPITOR.270,pain in heel
+390,feeling a fragility,self esteem decreased,10050280,LIPITOR.694,self esteem decreased
+391,short term memory loss,memory impairment,10068446,LIPITOR.694,short-term memory impairment
+392,lack of energy,asthenia,10024862,LIPITOR.694,loss of energy
+393,leg pain,pain in extremity,10033473,LIPITOR.694,pain of lower extremities
+394,body cramps,muscle spasms,10028294,LIPITOR.694,muscle cramp
+395,fatigue,fatigue,10016256,LIPITOR.694,fatigue
+396,pain throughout my body,pain,10018074,LIPITOR.694,generalised aching
+397,mental confusion,confusional state,10010300,LIPITOR.694,confusion
+398,growing depression,depression,10012378,LIPITOR.694,depression
+399,peripheral neuropathy,neuropathy peripheral,10034610,LIPITOR.177,peripheral neuropathy nos
+400,paralysis,paralysis,10033799,LIPITOR.177,paralysis
+401,muscle aches and pains,arthralgia,10003239,LIPITOR.950,arthralgia
+402,shortness of breath,dyspnoea,10013968,LIPITOR.950,dyspnoea
+403,a lot grouchier,irritability,10023000,LIPITOR.950,irritable
+404,fatigue,fatigue,10016256,LIPITOR.950,fatigue
+405,extreme fatigue,asthenia,10003549,LIPITOR.950,asthenia
+406,muscle aches and pains,myalgia,10028411,LIPITOR.950,myalgia
+407,stomach discomfort,abdominal pain upper,10042076,LIPITOR.950,stomach ache
+408,hard to breath,dyspnoea,10012791,LIPITOR.640,difficulty breathing
+409,hert from head to my toe,pain,10018074,LIPITOR.640,generalised aching
+410,muscle weakness,muscular weakness,10028350,LIPITOR.622,muscle weakness
+411,depression,depression,10012378,LIPITOR.622,depression
+412,chronic elbow pain in both arms,arthralgia,10033424,LIPITOR.622,pain in elbow
+413,extreme fatigue,asthenia,10003549,LIPITOR.622,asthenia
+414,lower back pain,back pain,10024891,LIPITOR.666,low back pain
+415,stomach cramps,learning disorder,10061265,LIPITOR.666,learning disorder
+416,malaise,malaise,10025482,LIPITOR.666,malaise
+417,muscle pain,myalgia,10028411,LIPITOR.666,myalgia
+418,irritability,irritability,10023000,LIPITOR.666,irritable
+419,flu-symptoms,influenza like illness,10022004,LIPITOR.666,influenza like illness
+420,hunger pangs,abdominal pain upper,10033407,ARTHROTEC.10,pain hunger
+421,unable to lose weight even when on strict diet,weight loss poor,10049116,LIPITOR.643,inability to lose weight
+422,eyesight problems,visual impairment,10047543,LIPITOR.643,visual disturbance
+423,"very, very tired all the time",fatigue,10043890,LIPITOR.643,tiredness
+424,ankles ache so bad,arthralgia,10033379,LIPITOR.643,pain ankle
+425,muscle weakness,muscular weakness,10028350,LIPITOR.643,muscle weakness
+426,diarhea,diarrhoea,10012735,LIPITOR.643,diarrhoea
+427,gas,flatulence,10016766,LIPITOR.643,flatulence
+428,hard to walk,gait disturbance,10047810,LIPITOR.643,walking difficulty
+429,bloating,abdominal distension,10005265,LIPITOR.643,bloating
+430,legs ache so bad,pain in extremity,10033473,LIPITOR.643,pain of lower extremities
+431,pain in almost every muscle,myalgia,10028411,LIPITOR.643,myalgia
+432,hair loss,alopecia,10019045,LIPITOR.643,hair loss
+433,muscle weakness in my left arm,muscular weakness,10047868,LIPITOR.643,weakness of limbs
+434,fatigue,fatigue,10016256,LIPITOR.643,fatigue
+435,blurring eyesight,vision blurred,10005886,LIPITOR.643,blurred vision
+436,painful leg cramps,muscle spasms,10011301,LIPITOR.643,cramps of lower extremities
+437,bladder not to empty as it should,urinary retention,10046555,DICLOFENAC-SODIUM.2,urinary retention
+438,headache,headache,10019211,DICLOFENAC-SODIUM.2,headache
+439,swelling,swelling,10042674,DICLOFENAC-SODIUM.2,swelling
+440,swelling of the legs and feet,peripheral swelling,10042702,DICLOFENAC-SODIUM.2,swelling of limbs
+441,bladder infection,cystitis,10011781,DICLOFENAC-SODIUM.2,cystitis
+442,high blood pressure,hypertension,10005747,DICLOFENAC-SODIUM.2,blood pressure high
+443,palpitations,palpitations,10033557,LIPITOR.574,palpitations
+444,mild panic attack,panic attack,10033664,LIPITOR.574,panic attack
+445,abdominal rash,rash,10037844,LIPITOR.574,rash
+446,calves muscle pain in the,pain in extremity,10033422,LIPITOR.574,pain in calf
+447,neck muscle pain in the,neck pain,10028836,LIPITOR.574,neck pain
+448,general feeling of weakness,flatulence,10016766,LIPITOR.574,flatulence
+449,glutes muscle pain in the,myalgia,10028411,LIPITOR.574,myalgia
+450,thighs muscle pain in the,myalgia,10028411,LIPITOR.574,myalgia
+451,back muscle pain in the,back pain,10003993,LIPITOR.574,backache
+452,depression,depression,10012378,LIPITOR.726,depression
+453,lack of ability to concentrate,disturbance in attention,10010248,LIPITOR.726,concentration ability impaired
+454,lazyness (i don't feel like doing anything),apathy,10023614,LIPITOR.726,lack of motivation
+455,short attention span,attention deficit hyperactivity disorder,10003731,LIPITOR.726,attention deficit disorder
+456,changed my personality,personality change,10034719,LIPITOR.726,personality change
+457,pain,pain,10033371,LIPITOR.811,pain
+458,severe pain,pain,10033371,LIPITOR.811,pain
+459,depression,depression,10012378,LIPITOR.811,depression
+460,flu-like symtoms,influenza like illness,10022004,LIPITOR.811,influenza like illness
+461,muscle pain in legs,myalgia,10051587,LIPITOR.811,myalgia of lower extremities
+462,muscle pain in right hip,arthralgia,10033432,LIPITOR.811,pain in hip
+463,all-over muscle pain,myalgia,10028411,LIPITOR.811,myalgia
+464,heart palpitations,palpitations,10033557,LIPITOR.811,palpitations
+465,pain in my arms,pain in extremity,10071701,LIPITOR.397,pain in upper extremities
+466,severe pain in my limbs,pain,10033371,LIPITOR.450,pain
+467,severe pain in my limbs,pain in extremity,10033473,LIPITOR.450,pain of lower extremities
+468,muscle fatigue,muscle fatigue,10049565,LIPITOR.450,muscle fatigue
+469,poor balance,memory impairment,10027175,LIPITOR.305,memory impairment
+470,very very tired,fatigue,10043890,LIPITOR.305,tiredness
+471,weak muscles,muscular weakness,10028350,LIPITOR.305,muscle weakness
+472,light headed,dizziness,10024492,LIPITOR.492,lightheadedness
+473,headache,headache,10019211,LIPITOR.492,headache
+474,felt flu-like,influenza like illness,10022004,LIPITOR.492,influenza like illness
+475,shouldar ache,arthralgia,10040617,LIPITOR.492,shoulder pain
+476,severe headache,headache,10019211,LIPITOR.492,headache
+477,shaky,tremor,10044565,LIPITOR.492,tremor
+478,neck pain,neck pain,10028836,LIPITOR.492,neck pain
+479,very fatigued,fatigue,10016256,LIPITOR.572,fatigue
+480,head has been twitching,muscle twitching,10045198,LIPITOR.572,twitching
+481,sick to my stomach,abdominal discomfort,10046318,LIPITOR.572,upset stomach
+482,hand tremors,tremor,10044565,LIPITOR.572,tremor
+483,feel like i am in a fog,mental impairment,10027371,LIPITOR.572,mental dullness
+484,pruritus,pruritus,10023094,VOLTAREN.30,itchy skin
+485,skin is so dry,dry skin,10013786,VOLTAREN.30,dry skin
+486,vaginal bleeding,vaginal haemorrhage,10046883,VOLTAREN.30,vaginal bleeding
+487,pruritus ani,anal pruritus,10037089,VOLTAREN.30,pruritus ani
+488,vaginal skin burns,vulvovaginal burning sensation,10050023,VOLTAREN.30,vaginal burning sensation
+489,erithema,erythema,10015150,VOLTAREN.30,erythema
+490,diarrhea,diarrhoea,10012735,VOLTAREN.30,diarrhoea
+491,breast pain,breast pain,10026876,VOLTAREN.30,mastalgia
+492,sweating,hyperhidrosis,10042661,VOLTAREN.30,sweating
+493,charley horses,muscle spasms,10063952,LIPITOR.711,charley horse
+494,back ache,back pain,10003993,LIPITOR.711,backache
+495,lack of appetite,decreased appetite,10003028,LIPITOR.711,appetite lost
+496,neck ache,neck pain,10028836,LIPITOR.711,neck pain
+497,veneer of sadness,depressed mood,10016364,LIPITOR.711,feeling sad
+498,nausea,nausea,10028813,LIPITOR.711,nausea
+499,extreme pain in all my joints,pain,10033371,LIPITOR.698,pain
+500,extreme pain in all my joints,arthralgia,10003239,LIPITOR.698,arthralgia
+501,cannot sleep through the night,middle insomnia,10027590,LIPITOR.748,middle insomnia
+502,aching joints wrists,arthralgia,10048692,LIPITOR.748,wrist pain
+503,aching joints shoulders,arthralgia,10040618,LIPITOR.748,shoulder pain (due joint disorder)
+504,aching joints knees,arthralgia,10023477,LIPITOR.748,knee pain
+505,gas,flatulence,10016766,LIPITOR.748,flatulence
+506,aching joints elbows,arthralgia,10033424,LIPITOR.748,pain in elbow
+507,constipation,constipation,10010774,LIPITOR.159,constipation
+508,fatigued,fatigue,10016256,LIPITOR.159,fatigue
+509,sore,pain,10033371,LIPITOR.159,pain
+510,pain,pain,10033371,LIPITOR.159,pain
+511,can hardly sleep,gait disturbance,10047810,LIPITOR.159,walking difficulty
+512,tingly,paraesthesia,10035067,LIPITOR.159,pins and needles
+513,painful,pain,10033371,LIPITOR.159,pain
+514,ankles started aching,arthralgia,10033379,LIPITOR.339,pain ankle
+515,feet felt like led,discomfort,10040000,LIPITOR.339,sensation of heaviness
+516,ankles seized up,joint stiffness,10002552,LIPITOR.339,ankle stiffness
+517,tingling,paraesthesia,10035067,LIPITOR.339,pins and needles
+518,shuffle when i walk,gait disturbance,10017584,LIPITOR.339,gait shuffling
+519,senistivity in scalp,hyperaesthesia,10020568,LIPITOR.339,hyperaesthesia
+520,over-streesed muscles,muscle fatigue,10049565,LIPITOR.339,muscle fatigue
+521,wrists seized up,joint stiffness,10042041,LIPITOR.339,stiff joint
+522,feet seized up,joint stiffness,10042041,LIPITOR.339,stiff joint
+523,senistivity in the palms and soles of my feet,hyperaesthesia,10020568,LIPITOR.339,hyperaesthesia
+524,hands were nowhere near as strong as they once were,muscular weakness,10065702,LIPITOR.339,weakness in extremity
+525,knees seized up,joint stiffness,10042042,LIPITOR.339,stiff knees
+526,back pain,back pain,10003993,LIPITOR.35,backache
+527,muscle in my angles hurt,arthralgia,10033379,LIPITOR.35,pain ankle
+528,pain,pain,10033371,LIPITOR.35,pain
+529,abdominal pain,abdominal pain,10000081,LIPITOR.35,abdominal pain
+530,joint pain,arthralgia,10003239,LIPITOR.35,arthralgia
+531,joints in my angles hurt,arthralgia,10033379,LIPITOR.35,pain ankle
+532,leg cramps,muscle spasms,10011301,LIPITOR.35,cramps of lower extremities
+533,muscle ache,myalgia,10028411,LIPITOR.35,myalgia
+534,eyesight has changed,visual impairment,10047543,LIPITOR.35,visual disturbance
+535,diarrhea,diarrhoea,10012735,LIPITOR.35,diarrhoea
+536,indigestion,dyspepsia,10021706,LIPITOR.35,indigestion
+537,cant walk,gait inability,10049278,LIPITOR.35,unable to walk
+538,headache,headache,10019211,LIPITOR.35,headache
+539,difficult to concentrate,disturbance in attention,10010250,LIPITOR.193,concentration impairment
+540,developed sore legs,pain in extremity,10033473,LIPITOR.193,pain of lower extremities
+541,sore back,back pain,10003993,LIPITOR.193,backache
+542,symptoms of parkison's disease,parkinsonism,10034010,LIPITOR.193,parkinsonism
+543,tiredness,fatigue,10043890,LIPITOR.193,tiredness
+544,my head was foggy,mental impairment,10027371,LIPITOR.193,mental dullness
+545,toothache,toothache,10044017,LIPITOR.193,tooth ache
+546,extremly bad pains in shoulders,arthralgia,10040617,LIPITOR.773,shoulder pain
+547,extremly bad pains in arms,pain,10033371,LIPITOR.773,pain
+548,extremly bad pains in shoulders,pain,10033371,LIPITOR.773,pain
+549,extremly bad pains in hands,pain,10033371,LIPITOR.773,pain
+550,extremly bad pains in hands,pain in extremity,10019116,LIPITOR.773,hand pain
+551,very bad pains in hands,pain in extremity,10033430,LIPITOR.773,pain in hand
+552,extremly bad pains in arms,pain in extremity,10071701,LIPITOR.773,pain in upper extremities
+553,very bad pains in arms,pain in extremity,10033447,LIPITOR.773,pain in limb
+554,terribe pain,pain,10033371,LIPITOR.773,pain
+555,very bad pains in shoulders,arthralgia,10040617,LIPITOR.773,shoulder pain
+556,pain,pain,10033371,LIPITOR.773,pain
+557,"freezing cold,like arms plunged into freezing water,then burning sensations",feeling of body temperature change,10016335,LIPITOR.773,feeling hot and cold
+558,dificult to stand or walk for too long,dysstasia,10050218,LIPITOR.36,difficulty in standing
+559,hands tender,paraesthesia,10049230,LIPITOR.36,paraesthesia hand
+560,pain on the sole of my feet,pain in extremity,10016974,LIPITOR.36,foot pain
+561,hands tingle,paraesthesia,10049230,LIPITOR.36,paraesthesia hand
+562,forgetful,memory impairment,10017060,LIPITOR.36,forgetfulness
+563,sensitive to sunlight,photosensitivity reaction,10042494,LIPITOR.36,sun sensitivity
+564,tired,fatigue,10043890,LIPITOR.36,tiredness
+565,dificult to stand or walk for too long,gait disturbance,10012794,LIPITOR.36,difficulty in walking
+566,lack libido,libido decreased,10024419,LIPITOR.36,libido decreased
+567,feel hot,feeling hot,10016334,LIPITOR.36,feeling hot
+568,itching of the skin,pruritus,10023094,LIPITOR.754,itchy skin
+569,very elevated liver function tests,liver function test abnormal,10024692,LIPITOR.754,liver function tests abnormal
+570,muscle aches,myalgia,10028411,LIPITOR.754,myalgia
+571,flu like symptoms,influenza like illness,10022004,LIPITOR.754,influenza like illness
+572,right upper quadrant abdominal pain,abdominal pain upper,10033489,LIPITOR.754,pain right upper quadrant
+573,weakness,asthenia,10003549,LIPITOR.754,asthenia
+574,loss of appetite,decreased appetite,10003028,LIPITOR.754,appetite lost
+575,jaundice,jaundice,10023126,LIPITOR.754,jaundice
+576,aching in back,back pain,10003993,LIPITOR.794,backache
+577,aching in legs,pain in extremity,10033473,LIPITOR.794,pain of lower extremities
+578,aching in shoulders,arthralgia,10040618,LIPITOR.794,shoulder pain (due joint disorder)
+579,in legs weakness,muscular weakness,10047868,LIPITOR.794,weakness of limbs
+580,in shoulders weakness,muscular weakness,10065895,LIPITOR.794,muscle weakness upper limb
+581,in back weakness,muscular weakness,10028350,LIPITOR.794,muscle weakness
+582,heavy vaginal bleeding,vaginal haemorrhage,10046883,ARTHROTEC.21,vaginal bleeding
+583,cramps,muscle spasms,10028294,ARTHROTEC.21,muscle cramp
+584,elevated cpk levels,blood creatinine increased,10037825,LIPITOR.265,raised serum creatinine
+585,muscle problems,myopathy,10028641,LIPITOR.265,myopathy
+586,leg pain,pain in extremity,10033473,LIPITOR.402,pain of lower extremities
+587,irritibility,irritability,10023000,LIPITOR.447,irritable
+588,extreme moodiness,mood swings,10027952,LIPITOR.447,mood variable
+589,constipation,constipation,10010774,LIPITOR.447,constipation
+590,anger,anger,10002368,LIPITOR.447,anger
+591,numbness in my shoulder,hypoaesthesia,10029854,LIPITOR.292,numbness of upper extremities
+592,can barely walk,gait disturbance,10047810,LIPITOR.292,walking difficulty
+593,dark urine,chromaturia,10064748,LIPITOR.292,urine colour abnormal
+594,flu like synptoms,influenza like illness,10022004,LIPITOR.292,influenza like illness
+595,headaches,headache,10019211,LIPITOR.292,headache
+596,gas,flatulence,10016766,LIPITOR.292,flatulence
+597,joint pain,arthralgia,10003239,LIPITOR.292,arthralgia
+598,muscle pain,myalgia,10028411,LIPITOR.292,myalgia
+599,diarhhea,diarrhoea,10012735,LIPITOR.292,diarrhoea
+600,pancreas is very swollen,pancreatitis,10033645,LIPITOR.25,pancreatitis
+601,infections,infection,10021789,LIPITOR.345,infection
+602,severe infections,infection,10021789,LIPITOR.345,infection
+603,severe urinary tract infections,urinary tract infection,10046571,LIPITOR.345,urinary tract infection
+604,slightly heavier menstrual cycle,menorrhagia,10027313,ARTHROTEC.18,menorrhagia
+605,short of breath,dyspnoea,10013968,VOLTAREN.46,dyspnoea
+606,shortness of breath,dyspnoea,10013968,VOLTAREN.46,dyspnoea
+607,edema of fingers and face,oedema peripheral,10055920,VOLTAREN.46,oedema fingers
+608,face and fingers are swollen,swelling face,10016065,VOLTAREN.46,facial swelling
+609,crabbiness,irritability,10023000,VOLTAREN.46,irritable
+610,edema of fingers and face,face oedema,10030101,VOLTAREN.46,oedema face
+611,face and fingers are swollen,peripheral swelling,10042694,VOLTAREN.46,swelling of fingers
+612,timing off for a true period,menstruation irregular,10022992,VOLTAREN.46,irregular menstruation
+613,bloated,abdominal distension,10005265,VOLTAREN.46,bloating
+614,cramping,muscle spasms,10028294,VOLTAREN.46,muscle cramp
+615,spotting,metrorrhagia,10041745,VOLTAREN.46,spotting menstrual
+616,cant walk,gait inability,10049278,LIPITOR.328,unable to walk
+617,nausea,nausea,10028813,LIPITOR.328,nausea
+618,pressure pain,pain,10033371,LIPITOR.328,pain
+619,chest pain,chest pain,10008479,LIPITOR.328,chest pain
+620,pain,pain,10033371,LIPITOR.328,pain
+621,fatigue,fatigue,10016256,LIPITOR.328,fatigue
+622,eyesight has changed,visual impairment,10047543,LIPITOR.27,visual disturbance
+623,pain,pain,10033371,LIPITOR.27,pain
+624,diarrhea,diarrhoea,10012735,LIPITOR.27,diarrhoea
+625,abdominal pain,abdominal pain,10000081,LIPITOR.27,abdominal pain
+626,muscle ache,myalgia,10028411,LIPITOR.27,myalgia
+627,leg cramps,muscle spasms,10011301,LIPITOR.27,cramps of lower extremities
+628,joint pain,arthralgia,10003239,LIPITOR.27,arthralgia
+629,indigestion,dyspepsia,10021706,LIPITOR.27,indigestion
+630,back pain,back pain,10003993,LIPITOR.27,backache
+631,headache,headache,10019211,LIPITOR.27,headache
+632,cognitive disfunction,cognitive disorder,10009846,LIPITOR.272,cognitive impairment
+633,neuropathy,neuropathy peripheral,10029328,LIPITOR.272,neuropathy
+634,extreme fatigue,asthenia,10003549,LIPITOR.272,asthenia
+635,muscle weakness,muscular weakness,10028350,LIPITOR.272,muscle weakness
+636,tinnitis,tinnitus,10043882,LIPITOR.272,tinnitus
+637,difficulty walking,gait disturbance,10047810,LIPITOR.272,walking difficulty
+638,difficulty with speech,speech disorder,10041469,LIPITOR.272,speech impairment nos
+639,neck pain,neck pain,10028836,LIPITOR.272,neck pain
+640,joint pain,arthralgia,10003239,LIPITOR.676,arthralgia
+641,body stiffness,musculoskeletal stiffness,10042045,LIPITOR.676,stiffness
+642,pain,pain,10033371,LIPITOR.350,pain
+643,lower legs hurt,pain in extremity,10033473,LIPITOR.350,pain of lower extremities
+644,hardly walk,gait disturbance,10047810,LIPITOR.350,walking difficulty
+645,very painful feet,pain in extremity,10016974,LIPITOR.350,foot pain
+646,dry mouth,dry mouth,10013781,VOLTAREN.4,dry mouth
+647,dry mouth,aortogram,10003077,VOLTAREN.4,arch aortogram
+648,excessive sleep,hypersomnia,10020765,LIPITOR.853,hypersomnia
+649,depression,depression,10012378,LIPITOR.853,depression
+650,total muscel weakness,muscular weakness,10028350,LIPITOR.853,muscle weakness
+651,loss of sex drv,libido decreased,10024419,LIPITOR.853,libido decreased
+652,hair loss,alopecia,10019045,LIPITOR.853,hair loss
+653,cramping neck muscels,muscle spasms,10028334,LIPITOR.853,muscle spasms
+654,could not walk for three weeks,gait inability,10049278,LIPITOR.853,unable to walk
+655,arm weakness,muscular weakness,10047868,LIPITOR.853,weakness of limbs
+656,vertigo,vertigo,10047340,LIPITOR.853,vertigo
+657,memory (sht term)loss,memory impairment,10068446,LIPITOR.853,short-term memory impairment
+658,constant gas,flatulence,10016766,LIPITOR.558,flatulence
+659,diarrhea,diarrhoea,10012735,LIPITOR.558,diarrhoea
+660,change in personality,personality change,10034719,LIPITOR.266,personality change
+661,neuropathy,neuropathy peripheral,10029328,LIPITOR.266,neuropathy
+662,suicidal depression,depression,10012378,LIPITOR.266,depression
+663,weight loss,weight decreased,10047900,LIPITOR.266,weight loss
+664,paranoia,"delusional disorder, unspecified type",10012255,LIPITOR.266,"delusional disorder, unspecified type"
+665,fatigue,fatigue,10016256,LIPITOR.266,fatigue
+666,back pain,back pain,10003993,LIPITOR.266,backache
+667,taste perversion,taste disorder,10043126,LIPITOR.266,taste altered
+668,clumsiness,clumsiness,10009696,LIPITOR.592,clumsiness
+669,flatulence,flatulence,10016766,LIPITOR.592,flatulence
+670,shoulder pain,arthralgia,10040617,LIPITOR.592,shoulder pain
+671,foot pain,pain in extremity,10016974,LIPITOR.592,foot pain
+672,bloating,abdominal distension,10005265,LIPITOR.592,bloating
+673,thigh pain,pain in extremity,10048973,LIPITOR.592,pain in thigh
+674,hand pain,pain in extremity,10033430,LIPITOR.592,pain in hand
+675,hip pain,arthralgia,10033432,LIPITOR.592,pain in hip
+676,shin pain,pain in extremity,10033473,LIPITOR.592,pain of lower extremities
+677,balance problems,memory impairment,10027175,LIPITOR.592,memory impairment
+678,arm pain,pain in extremity,10071701,LIPITOR.592,pain in upper extremities
+679,knee pain,arthralgia,10023477,LIPITOR.592,knee pain
+680,memory loss,amnesia,10001949,LIPITOR.592,amnesia
+681,cramping of the calf muscles,muscle spasms,10011294,LIPITOR.687,cramps calf
+682,losing the feeling in his right hand,paraesthesia,10049230,LIPITOR.687,paraesthesia hand
+683,debilitated,asthenia,10003549,LIPITOR.687,asthenia
+684,lower leg weakness,muscular weakness,10047868,LIPITOR.687,weakness of limbs
+685,reduced feeling below the knees,paraesthesia,10052409,LIPITOR.687,paraesthesia lower limb
+686,inability to perform fine motor skills,motor dysfunction,10061296,LIPITOR.687,motor dysfunction
+687,pain in muscles of both upper arms,myalgia,10028411,LIPITOR.937,myalgia
+688,hands are somewhat numb,hypoaesthesia,10049681,LIPITOR.937,numbness in hand
+689,balance is off at times,memory impairment,10027175,LIPITOR.937,memory impairment
+690,trouble holding on to things,grip strength decreased,10062556,LIPITOR.937,grip strength decreased
+691,hard to pick up feet,gait disturbance,10047810,LIPITOR.937,walking difficulty
+692,hands are tingling,paraesthesia,10049230,LIPITOR.937,paraesthesia hand
+693,trouble walking,gait disturbance,10047810,LIPITOR.937,walking difficulty
+694,arms feel heavy,discomfort,10040000,LIPITOR.937,sensation of heaviness
+695,whole body hurts,pain,10018074,LIPITOR.360,generalised aching
+696,constant pain knees,pain,10033371,LIPITOR.360,pain
+697,falling asleep all the time,hypersomnia,10020765,LIPITOR.360,hypersomnia
+698,constant pain shoulders,pain,10033371,LIPITOR.360,pain
+699,head hurting,headache,10019211,LIPITOR.360,headache
+700,constant pain knees,arthralgia,10023477,LIPITOR.360,knee pain
+701,exhausted,fatigue,10015667,LIPITOR.360,exhaustion
+702,legs always feeling like lead,discomfort,10040000,LIPITOR.360,sensation of heaviness
+703,muscle problems,myopathy,10028641,LIPITOR.360,myopathy
+704,pain,pain,10033371,LIPITOR.360,pain
+705,very confused,confusional state,10010300,LIPITOR.360,confusion
+706,fatigue,fatigue,10016256,LIPITOR.360,fatigue
+707,severe hip pain,pain,10033371,LIPITOR.191,pain
+708,severe hip pain,arthralgia,10033432,LIPITOR.191,pain in hip
+709,calves are sore and tender to the touch,pain in extremity,10033422,LIPITOR.191,pain in calf
+710,decreased libdo,libido decreased,10024419,LIPITOR.191,libido decreased
+711,eye sight changes,visual impairment,10047543,LIPITOR.191,visual disturbance
+712,decreased cognitive skills,cognitive disorder,10009846,LIPITOR.991,cognitive impairment
+713,brain fog,mental impairment,10027371,LIPITOR.991,mental dullness
+714,panic attack,panic attack,10033664,LIPITOR.419,panic attack
+715,chest pain,chest pain,10008479,LIPITOR.419,chest pain
+716,"changed my personality, from happy to a grouch",personality change,10034719,LIPITOR.419,personality change
+717,sore muscles,myalgia,10028411,LIPITOR.419,myalgia
+718,blured vision,vision blurred,10005886,LIPITOR.419,blurred vision
+719,very shaky,tremor,10044565,LIPITOR.419,tremor
+720,loss of muscel strength,muscular weakness,10028350,LIPITOR.873,muscle weakness
+721,loss of sexual drive,libido decreased,10024419,LIPITOR.873,libido decreased
+722,reduced mental capabiities,cognitive disorder,10009846,LIPITOR.873,cognitive impairment
+723,vertigo,vertigo,10047340,LIPITOR.873,vertigo
+724,depression,depression,10012378,LIPITOR.873,depression
+725,excessive sleep requirements,hypersomnia,10020765,LIPITOR.873,hypersomnia
+726,halucinations during day,hallucination,10019063,LIPITOR.873,hallucination
+727,cramping neck muscels,muscle spasms,10028334,LIPITOR.873,muscle spasms
+728,unable to walk,gait inability,10049278,LIPITOR.873,unable to walk
+729,neurological damage,nervous system disorder,10013242,LIPITOR.972,disorder nervous system
+730,brain cancer,brain neoplasm malignant,10006131,LIPITOR.972,brain neoplasm malignant
+731,bedridden,bedridden,10048948,LIPITOR.972,bedridden
+732,brain cancer (glial cell related cancer),brain neoplasm malignant,10006131,LIPITOR.972,brain neoplasm malignant
+733,cancer,neoplasm malignant,10025691,LIPITOR.972,malignant neoplasm nos
+734,blurred vision,vision blurred,10005886,LIPITOR.178,blurred vision
+735,pain,pain,10033371,LIPITOR.178,pain
+736,fuzzy thinking,mental impairment,10012805,LIPITOR.178,difficulty thinking
+737,flu like symptoms,influenza like illness,10022004,LIPITOR.310,influenza like illness
+738,swelling of right knee,joint swelling,10042697,LIPITOR.310,swelling of knees
+739,sweating,hyperhidrosis,10042661,LIPITOR.310,sweating
+740,fevers,pyrexia,10016558,LIPITOR.310,fever
+741,extreme headaches,headache,10019211,LIPITOR.310,headache
+742,dark urine,chromaturia,10064748,LIPITOR.310,urine colour abnormal
+743,sore joints,arthralgia,10003239,LIPITOR.310,arthralgia
+744,severe neck pain,neck pain,10028836,LIPITOR.310,neck pain
+745,chills,chills,10008531,LIPITOR.310,chills
+746,severe neck pain,pain,10033371,LIPITOR.310,pain
+747,sore muscles,myalgia,10028411,LIPITOR.310,myalgia
+748,irritable,irritability,10023000,LIPITOR.310,irritable
+749,wanted to sleep all of the time,somnolence,10041014,LIPITOR.310,sleepiness
+750,fatigue,fatigue,10016256,LIPITOR.310,fatigue
+751,diarrhea,diarrhoea,10012735,LIPITOR.496,diarrhoea
+752,aggitation,agitation,10001495,LIPITOR.496,agitated
+753,severe aggitation,agitation,10001495,LIPITOR.496,agitated
+754,tired,fatigue,10043890,LIPITOR.496,tiredness
+755,weakness,asthenia,10003549,LIPITOR.496,asthenia
+756,constant aching/pain,pain,10033371,LIPITOR.496,pain
+757,difficulty getting to sleep,initial insomnia,10022035,LIPITOR.496,initial insomnia
+758,quick to snap,anger,10002368,LIPITOR.496,anger
+759,aching muscles,myalgia,10028411,LIPITOR.496,myalgia
+760,gas,flatulence,10016766,LIPITOR.496,flatulence
+761,pain in lower legs,pain in extremity,10033422,LIPITOR.496,pain in calf
+762,pain in lower back,back pain,10024891,LIPITOR.496,low back pain
+763,shoulder pain,arthralgia,10040617,LIPITOR.337,shoulder pain
+764,muscle pain,myalgia,10028411,LIPITOR.337,myalgia
+765,significant limp,gait disturbance,10058726,LIPITOR.337,limping
+766,pain,pain,10033371,LIPITOR.337,pain
+767,skin irritation,skin irritation,10040880,VOLTAREN.34,skin irritation
+768,nausea,nausea,10028813,VOLTAREN.34,nausea
+769,pain in my kidney area,renal pain,10038490,VOLTAREN.34,renal pain
+770,pain in stomach,abdominal pain upper,10042076,VOLTAREN.34,stomach ache
+771,chest pains,chest pain,10008479,VOLTAREN.34,chest pain
+772,excruciating pain in neck,pain,10033371,LIPITOR.822,pain
+773,excruciating pain in neck,neck pain,10028836,LIPITOR.822,neck pain
+774,felt just strange,malaise,10025482,LIPITOR.822,malaise
+775,hideous constant pain,pain,10033371,LIPITOR.822,pain
+776,excruciating pain in shoulders,arthralgia,10040617,LIPITOR.822,shoulder pain
+777,excruciating pain in shoulders,pain,10033371,LIPITOR.822,pain
+778,memory loss,amnesia,10001949,LIPITOR.822,amnesia
+779,extreme pain,pain,10033371,LIPITOR.627,pain
+780,loss of muscle in left leg,muscle atrophy,10028289,LIPITOR.627,muscle atrophy
+781,hurts throat,oropharyngeal pain,10033494,ZIPSOR.2,pain throat
+782,joint pain,arthralgia,10003239,LIPITOR.93,arthralgia
+783,mood swings,pain in extremity,10033428,LIPITOR.93,pain in fingers
+784,muscle pain,myalgia,10028411,LIPITOR.93,myalgia
+785,headaches,headache,10019211,LIPITOR.93,headache
+786,tingling in my arms,paraesthesia,10035067,LIPITOR.866,pins and needles
+787,severe pain in my left arm,pain in extremity,10033513,LIPITOR.866,painful l arm
+788,pain in my arm,pain in extremity,10071701,LIPITOR.866,pain in upper extremities
+789,pain,pain,10033371,LIPITOR.866,pain
+790,lost all strength,muscular weakness,10028350,LIPITOR.866,muscle weakness
+791,severe pain in my left arm,pain,10033371,LIPITOR.866,pain
+792,heartburn,dyspepsia,10019326,ARTHROTEC.81,heartburn
+793,legs ached,pain in extremity,10033473,LIPITOR.469,pain of lower extremities
+794,calf muscles painful to touch,pain in extremity,10033422,LIPITOR.469,pain in calf
+795,headaches,headache,10019211,LIPITOR.469,headache
+796,extreme fatigue,asthenia,10003549,LIPITOR.469,asthenia
+797,felt weak,asthenia,10003549,LIPITOR.469,asthenia
+798,pain,pain,10033371,LIPITOR.14,pain
+799,nerve pain,neuralgia,10029223,LIPITOR.14,neuralgia
+800,burning of ankles,burning sensation,10006784,LIPITOR.14,burning sensation
+801,inflammed bursae,bursitis,10006811,LIPITOR.14,bursitis
+802,inflammed ligaments,ligamentitis,10064804,LIPITOR.14,ligamentitis
+803,burning of shoulders,burning sensation,10006784,LIPITOR.14,burning sensation
+804,no energy all day,asthenia,10024862,LIPITOR.945,loss of energy
+805,short term memory loss,memory impairment,10068446,LIPITOR.945,short-term memory impairment
+806,unexplained fatigue,fatigue,10016256,LIPITOR.945,fatigue
+807,unexplained cough,cough,10011224,LIPITOR.945,cough
+808,mood change,pain in extremity,10033428,LIPITOR.927,pain in fingers
+809,rage,aggression,10001488,LIPITOR.927,aggression
+810,kidney failure,renal failure,10038435,LIPITOR.927,renal failure
+811,difficulty swallowing,dysphagia,10042645,LIPITOR.927,swallowing difficult
+812,short term memory loss,memory impairment,10068446,LIPITOR.927,short-term memory impairment
+813,persistent pain in calf,pain in extremity,10033422,LIPITOR.927,pain in calf
+814,leg pain,pain in extremity,10033473,LIPITOR.927,pain of lower extremities
+815,sleep disturbance,dyssomnia,10061827,LIPITOR.927,dyssomnia
+816,peripheral neuropathy,neuropathy peripheral,10034610,LIPITOR.927,peripheral neuropathy nos
+817,persistent pain in knee,arthralgia,10023477,LIPITOR.927,knee pain
+818,constipation,constipation,10010774,LIPITOR.927,constipation
+819,muscle pain,myalgia,10028411,LIPITOR.673,myalgia
+820,choking the throat,choking,10008589,LIPITOR.935,choking
+821,lungs detoriation like less intake of oxigen,respiratory depression,10012396,LIPITOR.935,depression respiratory
+822,als,amyotrophic lateral sclerosis,10002026,LIPITOR.935,amyotrophic lateral sclerosis
+823,constipitation,constipation,10010774,LIPITOR.935,constipation
+824,no control over urination,urinary incontinence,10046543,LIPITOR.935,urinary incontinence
+825,muscles of whole body dilution in size,hypotonia,10011973,LIPITOR.935,decreased muscle tone
+826,loss of vocal sound,aphonia,10024882,LIPITOR.935,loss of voice
+827,acute weakness in the muscles of whole body,muscular weakness,10028350,LIPITOR.935,muscle weakness
+828,loss of weight,weight decreased,10047900,LIPITOR.935,weight loss
+829,stiffness in whole body,musculoskeletal stiffness,10042045,LIPITOR.935,stiffness
+830,loss of balance,balance disorder,10004070,LIPITOR.935,balance difficulty
+831,lupus,systemic lupus erythematosus,10025134,LIPITOR.653,lupus erythematosus
+832,numbness in limbs,hypoaesthesia,10029847,LIPITOR.653,numbness of limbs
+833,joint pain,arthralgia,10003239,LIPITOR.653,arthralgia
+834,fibromyalgia,fibromyalgia,10048439,LIPITOR.653,fibromyalgia
+835,muscle pain,myalgia,10028411,LIPITOR.653,myalgia
+836,knee hurt,arthralgia,10023477,LIPITOR.820,knee pain
+837,fingers swelled up,peripheral swelling,10042694,LIPITOR.820,swelling of fingers
+838,joint pain,arthralgia,10003239,LIPITOR.820,arthralgia
+839,fingers hurt,pain in extremity,10033428,LIPITOR.820,pain in fingers
+840,hurt to bend my knee,arthralgia,10023477,LIPITOR.820,knee pain
+841,joints in my hands hurt,arthralgia,10033456,LIPITOR.820,pain joint
+842,pain,pain,10033371,LIPITOR.210,pain
+843,weaknesses in my legs,muscular weakness,10047868,LIPITOR.210,weakness of limbs
+844,right hand tremor,tremor,10044565,LIPITOR.827,tremor
+845,slowness in movement,mobility decreased,10048334,LIPITOR.827,mobility decreased
+846,parkinson's,parkinson's disease,10061536,LIPITOR.827,parkinson's disease
+847,affected gait--small steps,myocardial infarction,10028596,LIPITOR.827,myocardial infarction
+848,heartburn,dyspepsia,10019326,VOLTAREN.1,heartburn
+849,stomach upset,abdominal discomfort,10046318,VOLTAREN.1,upset stomach
+850,aches and stiffness hips,joint stiffness,10049770,LIPITOR.194,stiffness hip
+851,stomach distress,abdominal discomfort,10046318,LIPITOR.194,upset stomach
+852,aches and stiffness knees,joint stiffness,10042042,LIPITOR.194,stiff knees
+853,muscle ache,myalgia,10028411,LIPITOR.194,myalgia
+854,couldn't walk,gait disturbance,10047810,LIPITOR.194,walking difficulty
+855,body aches,pain,10018074,LIPITOR.194,generalised aching
+856,eye trouble,eye disorder,10015916,LIPITOR.194,eye disorder
+857,stiffness,musculoskeletal stiffness,10042045,LIPITOR.194,stiffness
+858,bloating,abdominal distension,10005265,LIPITOR.194,bloating
+859,stomach pain,abdominal pain upper,10042076,LIPITOR.194,stomach ache
+860,stomach pains,abdominal pain upper,10042076,LIPITOR.194,stomach ache
+861,constipated,constipation,10010774,LIPITOR.194,constipation
+862,pains,pain,10033371,LIPITOR.194,pain
+863,pain,pain,10033371,LIPITOR.194,pain
+864,gum trouble,gingival disorder,10018279,LIPITOR.194,gingival disease
+865,pain,pain,10033371,LIPITOR.99,pain
+866,torn ham string,tendon rupture,10039326,LIPITOR.99,rupture tendon
+867,pain in both legs,pain in extremity,10033473,LIPITOR.99,pain of lower extremities
+868,could hardly walk,gait disturbance,10047810,LIPITOR.99,walking difficulty
+869,muscle pain,myalgia,10028411,LIPITOR.99,myalgia
+870,memory loss,amnesia,10001949,LIPITOR.512,amnesia
+871,brain feel kind of foggy,mental impairment,10027371,LIPITOR.512,mental dullness
+872,neck pain,neck pain,10028836,LIPITOR.512,neck pain
+873,muscel fatigue,muscle fatigue,10049565,LIPITOR.445,muscle fatigue
+874,tired lower arms and legs muscel,muscle fatigue,10049565,LIPITOR.445,muscle fatigue
+875,loss of concentration,disturbance in attention,10010248,LIPITOR.445,concentration ability impaired
+876,cold sweats,cold sweat,10009866,LIPITOR.445,cold sweat
+877,fell asleep while driving,hypersomnia,10020765,LIPITOR.445,hypersomnia
+878,hair loss,alopecia,10019045,LIPITOR.445,hair loss
+879,sever heat intolerance,temperature intolerance,10019339,LIPITOR.445,heat intolerance
+880,pale/yellow complexion,pallor,10033533,LIPITOR.445,pale skin
+881,heat stress,heat stroke,10019345,LIPITOR.445,heat stroke
+882,dizzyness,dizziness,10013573,LIPITOR.445,dizziness
+883,severe nausea,nausea,10028813,ARTHROTEC.51,nausea
+884,terrible stomach pain,pain,10033371,ARTHROTEC.51,pain
+885,dizziness,dizziness,10013573,ARTHROTEC.51,dizziness
+886,terrible stomach pain,abdominal pain upper,10042076,ARTHROTEC.51,stomach ache
+887,stiff,musculoskeletal stiffness,10042045,LIPITOR.61,stiffness
+888,achy joints,arthralgia,10003239,LIPITOR.61,arthralgia
+889,stiff joints,joint stiffness,10023230,LIPITOR.61,joint stiffness
+890,fluish feeling,influenza like illness,10022004,LIPITOR.254,influenza like illness
+891,muscle pain,myalgia,10028411,LIPITOR.254,myalgia
+892,low energy,asthenia,10024862,LIPITOR.254,loss of energy
+893,muscle achs,myalgia,10028411,LIPITOR.254,myalgia
+894,severe muscle pain in hip joints,arthralgia,10033432,LIPITOR.254,pain in hip
+895,severe muscle pain in sholder,pain,10033371,LIPITOR.254,pain
+896,pain,pain,10033371,LIPITOR.254,pain
+897,severe muscle pain in sholder,arthralgia,10040617,LIPITOR.254,shoulder pain
+898,fatty liver,hepatic steatosis,10041970,LIPITOR.922,steatosis hepatic
+899,irregullar heartbeat,heart rate irregular,10019323,LIPITOR.922,heartbeats irregular
+900,sever fatigue,fatigue,10016256,LIPITOR.922,fatigue
+901,numb leg,hypoaesthesia,10029850,LIPITOR.999,numbness of lower extremities
+902,chest pain,chest pain,10008479,LIPITOR.999,chest pain
+903,muscule pain,myalgia,10028411,LIPITOR.999,myalgia
+904,extended bleeding during menstruation,menorrhagia,10036875,ARTHROTEC.92,prolonged periods
+905,severe abdominal pain,abdominal pain,10000081,ARTHROTEC.82,abdominal pain
+906,vomiting,vomiting,10047700,ARTHROTEC.82,vomiting
+907,severe menstual pain,dysmenorrhoea,10013935,ARTHROTEC.82,dysmenorrhoea
+908,trembling,tremor,10044562,ARTHROTEC.82,tremble
+909,menstrual cramps,dysmenorrhoea,10027323,ARTHROTEC.82,menstrual cramp
+910,severe abdominal pain,pain,10033371,ARTHROTEC.82,pain
+911,pain severe,pain,10033371,ARTHROTEC.82,pain
+912,nausea,nausea,10028813,ARTHROTEC.82,nausea
+913,dizziness,dizziness,10013573,ARTHROTEC.82,dizziness
+914,diarrhea,diarrhoea,10012735,ARTHROTEC.82,diarrhoea
+915,toes acking,pain in extremity,10033452,LIPITOR.426,pain in toe
+916,fatigue,fatigue,10016256,LIPITOR.426,fatigue
+917,depression,depression,10012378,LIPITOR.426,depression
+918,moodiness,mood swings,10027952,LIPITOR.426,mood variable
+919,sick,ill-defined disorder,10061520,ARTHROTEC.9,ill-defined disorder
+920,extreme nausea,nausea,10028813,ARTHROTEC.9,nausea
+921,vomitting,vomiting,10047700,ARTHROTEC.9,vomiting
+922,sickness,ill-defined disorder,10061520,ARTHROTEC.9,ill-defined disorder
+923,extreme pain in shoulders,pain,10033371,LIPITOR.816,pain
+924,sick to my stomach,abdominal discomfort,10046318,LIPITOR.816,upset stomach
+925,memory loss,amnesia,10001949,LIPITOR.816,amnesia
+926,extreme pain in neck,pain,10033371,LIPITOR.816,pain
+927,extreme pain in shoulders,arthralgia,10040617,LIPITOR.816,shoulder pain
+928,extreme pain in neck,neck pain,10028836,LIPITOR.816,neck pain
+929,drive is knocked down,apathy,10023614,LIPITOR.131,lack of motivation
+930,cramp,muscle spasms,10028294,ARTHROTEC.28,muscle cramp
+931,anxiety,anxiety,10002855,ARTHROTEC.28,anxiety
+932,bleeding inside,haemorrhage,10005103,ARTHROTEC.28,bleeding
+933,'scared' feeling,fear,10016275,ARTHROTEC.28,fear
+934,wild mood swings,pain in extremity,10033428,LIPITOR.460,pain in fingers
+935,depression,depression,10012378,LIPITOR.460,depression
+936,feeling of impending doom,anxiety,10021527,LIPITOR.460,impending doom
+937,memory loss,amnesia,10001949,LIPITOR.460,amnesia
+938,extreme fatigue,asthenia,10003549,LIPITOR.460,asthenia
+939,leg calf cramps,muscle spasms,10011294,LIPITOR.460,cramps calf
+940,couldnt remember anything,memory impairment,10027175,LIPITOR.460,memory impairment
+941,diffuculty thinking,mental impairment,10012805,LIPITOR.460,difficulty thinking
+942,mind was starting to deteriorate,mental impairment,10027371,LIPITOR.460,mental dullness
+943,sinus congestion,sinus congestion,10028768,LIPITOR.460,nasal sinus congestion
+944,no amount of sleep makes me feel rested,hypersomnia,10020765,LIPITOR.460,hypersomnia
+945,lack of motivation,apathy,10023614,LIPITOR.460,lack of motivation
+946,legs are killing me,pain in extremity,10033473,LIPITOR.460,pain of lower extremities
+947,short term memory issues,memory impairment,10068446,LIPITOR.348,short-term memory impairment
+948,cramping,muscle spasms,10028294,ARTHROTEC.96,muscle cramp
+949,excruciating pain,pain,10033371,ARTHROTEC.96,pain
+950,bleeding,haemorrhage,10005103,ARTHROTEC.96,bleeding
+951,extreme uterine cramping,uterine spasm,10046823,ARTHROTEC.96,uterine spasm
+952,heavy bleeding,haemorrhage,10005103,ARTHROTEC.96,bleeding
+953,throat tightness,throat tightness,10043528,LIPITOR.934,throat tightness
+954,fatigue,fatigue,10016256,LIPITOR.934,fatigue
+955,severe leg muscle weakness,muscular weakness,10047868,LIPITOR.934,weakness of limbs
+956,severe plantar faciitis,plantar fasciitis,10035155,LIPITOR.934,plantar fasciitis
+957,palpitations,palpitations,10033557,LIPITOR.934,palpitations
+958,difficulty/shallow breathing,dyspnoea,10012791,LIPITOR.934,difficulty breathing
+959,debillitating leg pain,pain in extremity,10033473,LIPITOR.934,pain of lower extremities
+960,hand weakness (constantly dropping things),muscular weakness,10065702,LIPITOR.934,weakness in extremity
+961,tachycardia,tachycardia,10043071,LIPITOR.934,tachycardia
+962,irrecular heartbeat,heart rate irregular,10019323,LIPITOR.934,heartbeats irregular
+963,fatigue,fatigue,10016256,ARTHROTEC.93,fatigue
+964,heavy menstral cycles,menorrhagia,10027313,ARTHROTEC.93,menorrhagia
+965,achy legs,pain in extremity,10033473,LIPITOR.727,pain of lower extremities
+966,intestinal distention,abdominal distension,10042679,LIPITOR.727,swelling abdomen
+967,severe vertigo,vertigo,10047340,LIPITOR.727,vertigo
+968,cramps in thighs,muscle spasms,10011301,LIPITOR.727,cramps of lower extremities
+969,legs feel leaden,discomfort,10040000,LIPITOR.727,sensation of heaviness
+970,constipation,constipation,10010774,LIPITOR.727,constipation
+971,gas,flatulence,10016766,LIPITOR.727,flatulence
+972,lack of energy,asthenia,10024862,LIPITOR.727,loss of energy
+973,severe gas,flatulence,10016766,LIPITOR.727,flatulence
+974,pain in my thighs (muscle cramping),myalgia,10028411,LIPITOR.727,myalgia
+975,lower back pain,back pain,10024891,LIPITOR.727,low back pain
+976,mild muscle pain,myalgia,10028411,LIPITOR.50,myalgia
+977,stomach pains,abdominal pain upper,10042076,DICLOFENAC-SODIUM.5,stomach ache
+978,excessive drowsiness,somnolence,10013649,DICLOFENAC-SODIUM.5,drowsiness
+979,extreme tiredness,fatigue,10016256,LIPITOR.623,fatigue
+980,fast and slow heartbeat,tachycardia,10043071,LIPITOR.623,tachycardia
+981,chest pain,chest pain,10008479,LIPITOR.623,chest pain
+982,severe arrythmias,arrhythmia,10007518,LIPITOR.623,cardiac arrhythmia
+983,severe heart disease,cardiac disorder,10019276,LIPITOR.623,"heart disease, unspecified"
+984,fast and slow heartbeat,bradycardia,10006093,LIPITOR.623,bradycardia
+985,leg pain,pain in extremity,10033473,LIPITOR.623,pain of lower extremities
+986,severe irregular heartbeat,heart rate irregular,10019323,LIPITOR.623,heartbeats irregular
+987,depression,depression,10012378,LIPITOR.623,depression
+988,skipping heart beats,extrasystoles,10013646,LIPITOR.623,dropped beats
+989,very painful muscle aches in the neck,myalgia,10028411,LIPITOR.352,myalgia
+990,headache,headache,10019211,LIPITOR.352,headache
+991,headaches,headache,10019211,LIPITOR.352,headache
+992,severe headaches,headache,10019211,LIPITOR.352,headache
+993,pain in my knee,arthralgia,10023477,LIPITOR.352,knee pain
+994,tightening of neck muscles,hypertonia,10020852,LIPITOR.352,hypertonia
+995,very painful muscle aches back,back pain,10003993,LIPITOR.352,backache
+996,pain in leg muscles,myalgia,10051587,LIPITOR.352,myalgia of lower extremities
+997,muscle pain,myalgia,10028411,LIPITOR.352,myalgia
+998,weakness,asthenia,10003549,LIPITOR.238,asthenia
+999,pain in the back in shoulder muscles,arthralgia,10040617,LIPITOR.200,shoulder pain
+1000,tired,fatigue,10043890,LIPITOR.200,tiredness
+1001,twitching,muscle twitching,10045198,LIPITOR.200,twitching
+1002,muscle weakness,muscular weakness,10028350,LIPITOR.200,muscle weakness
+1003,muscle cramps,muscle spasms,10028294,LIPITOR.200,muscle cramp
+1004,pain in the back in shoulder muscles,back pain,10003993,LIPITOR.200,backache
+1005,leathargy,lethargy,10024264,LIPITOR.200,lethargy
+1006,weight increased,weight increased,10047899,LIPITOR.152,weight increased
+1007,rashes,rash,10037844,LIPITOR.152,rash
+1008,aggitated,agitation,10001495,LIPITOR.152,agitated
+1009,insomnia,insomnia,10022437,LIPITOR.152,insomnia
+1010,muscles have diminished,muscle atrophy,10028289,LIPITOR.152,muscle atrophy
+1011,eye problems,eye disorder,10015916,LIPITOR.152,eye disorder
+1012,difficulty breathing,dyspnoea,10012791,LIPITOR.152,difficulty breathing
+1013,tightness of throat,throat tightness,10043528,LIPITOR.152,throat tightness
+1014,rash,rash,10037844,LIPITOR.152,rash
+1015,easily excited,agitation,10015627,LIPITOR.152,excitement
+1016,choking,choking,10008589,LIPITOR.152,choking
+1017,bloating of stomach,abdominal distension,10048746,LIPITOR.152,abdominal bloating
+1018,muscle ache,myalgia,10028411,LIPITOR.161,myalgia
+1019,pain,pain,10033371,VOLTAREN-XR.2,pain
+1020,gas,flatulence,10016766,VOLTAREN-XR.2,flatulence
+1021,diarreha,diarrhoea,10012735,VOLTAREN-XR.2,diarrhoea
+1022,cramps,muscle spasms,10028294,VOLTAREN-XR.2,muscle cramp
+1023,stomach discomfort,abdominal pain upper,10042076,VOLTAREN-XR.2,stomach ache
+1024,bloating,abdominal distension,10005265,VOLTAREN-XR.2,bloating
+1025,leg muscles painful to light pressure,pain,10033376,LIPITOR.671,pain aggravated
+1026,muscle aches in thighs,myalgia,10028411,LIPITOR.671,myalgia
+1027,muscle aches in calves,myalgia,10051587,LIPITOR.671,myalgia of lower extremities
+1028,muscle twitching on calves,muscle twitching,10028346,LIPITOR.671,muscle twitch
+1029,muscle twitches,muscle twitching,10028346,LIPITOR.671,muscle twitch
+1030,waking felt unsteady,gait disturbance,10046261,LIPITOR.671,unsteady gait
+1031,muscle twitching on bottom of feet,muscle twitching,10028346,LIPITOR.671,muscle twitch
+1032,deeper muscle twitches on arms sides,muscle twitching,10028346,LIPITOR.671,muscle twitch
+1033,deeper muscle twitches on butt,muscle twitching,10028346,LIPITOR.671,muscle twitch
+1034,weakness in legs,muscular weakness,10047868,LIPITOR.671,weakness of limbs
+1035,deeper muscle twitches on thighs,muscle twitching,10028346,LIPITOR.671,muscle twitch
+1036,depressed,depression,10012378,LIPITOR.69,depression
+1037,eye sight appeared foggy,vision blurred,10005886,LIPITOR.69,blurred vision
+1038,cough,cough,10011224,LIPITOR.69,cough
+1039,aches and pains in my back,back pain,10003993,LIPITOR.69,backache
+1040,sore joints,arthralgia,10003239,LIPITOR.69,arthralgia
+1041,sore ankles,arthralgia,10033379,LIPITOR.69,pain ankle
+1042,loss of hair,alopecia,10019045,LIPITOR.69,hair loss
+1043,paranoia,"delusional disorder, unspecified type",10012255,LIPITOR.102,"delusional disorder, unspecified type"
+1044,anxiety,anxiety,10002855,LIPITOR.102,anxiety
+1045,exhaustion,fatigue,10015667,LIPITOR.449,exhaustion
+1046,flatulence,flatulence,10016766,LIPITOR.449,flatulence
+1047,extreme tiredness,fatigue,10016256,LIPITOR.449,fatigue
+1048,heart attack,myocardial infarction,10028596,VOLTAREN.39,myocardial infarction
+1049,tightness in my throat,throat tightness,10043528,VOLTAREN.39,throat tightness
+1050,hair loss,alopecia,10019045,LIPITOR.570,hair loss
+1051,muscle pain in upper back,back pain,10046273,LIPITOR.570,upper back pain
+1052,hair dryness,hair texture abnormal,10013779,LIPITOR.570,dry hair
+1053,muscle pain,myalgia,10028411,LIPITOR.570,myalgia
+1054,muscle pain in left arm,myalgia,10028411,LIPITOR.570,myalgia
+1055,extreme pain in back,back pain,10003993,LIPITOR.900,backache
+1056,extreme pain in legs,pain,10033371,LIPITOR.900,pain
+1057,extreme pain in legs,pain in extremity,10033473,LIPITOR.900,pain of lower extremities
+1058,extreme pain in back,pain,10033371,LIPITOR.900,pain
+1059,constipated,constipation,10010774,LIPITOR.433,constipation
+1060,liver readings went up,liver function test increased,10048556,LIPITOR.433,liver function tests raised
+1061,loss of appetite,decreased appetite,10003028,LIPITOR.433,appetite lost
+1062,headaches,headache,10019211,LIPITOR.433,headache
+1063,bloated,abdominal distension,10005265,LIPITOR.433,bloating
+1064,hand writting had deteriorated,dysgraphia,10048053,LIPITOR.658,writing impaired
+1065,parkinson's symptoms,parkinsonism,10034010,LIPITOR.658,parkinsonism
+1066,light headedness(problem keeping balance),dizziness,10024492,LIPITOR.658,lightheadedness
+1067,joint pains,arthralgia,10003239,LIPITOR.658,arthralgia
+1068,tremors in right hand,tremor,10044565,LIPITOR.658,tremor
+1069,cannot sleep,insomnia,10012804,LIPITOR.141,difficulty sleeping
+1070,pain,pain,10033371,LIPITOR.141,pain
+1071,unable to move,hypokinesia,10028045,LIPITOR.141,movements reduced
+1072,pain in neck,neck pain,10028836,LIPITOR.141,neck pain
+1073,pain in shoulder,arthralgia,10040617,LIPITOR.141,shoulder pain
+1074,muscle pain,myalgia,10028411,LIPITOR.349,myalgia
+1075,weakness in legs,muscular weakness,10047868,LIPITOR.349,weakness of limbs
+1076,memory loss,amnesia,10001949,LIPITOR.349,amnesia
+1077,weakness in arms,muscular weakness,10047868,LIPITOR.349,weakness of limbs
+1078,permanent muscle damage,myopathy,10028641,LIPITOR.349,myopathy
+1079,buzzing in both ears,tinnitus,10013996,LIPITOR.222,ear buzzing
+1080,fatiqued,fatigue,10016256,LIPITOR.222,fatigue
+1081,nausia,nausea,10028813,LIPITOR.222,nausea
+1082,muscle cramps,muscle spasms,10028294,LIPITOR.222,muscle cramp
+1083,sleeplessness,insomnia,10022437,LIPITOR.222,insomnia
+1084,tingling,paraesthesia,10035067,LIPITOR.222,pins and needles
+1085,numbness,hypoaesthesia,10029829,LIPITOR.222,numbness
+1086,pain,pain,10033371,LIPITOR.222,pain
+1087,dark urine,chromaturia,10064748,LIPITOR.222,urine colour abnormal
+1088,soreness of muscles,myalgia,10028411,LIPITOR.222,myalgia
+1089,gas,flatulence,10016766,LIPITOR.222,flatulence
+1090,swollen feet & ankles,joint swelling,10042715,LIPITOR.456,swollen ankles
+1091,intense calf pain,pain in extremity,10033422,LIPITOR.456,pain in calf
+1092,severe calf pain,pain,10033371,LIPITOR.456,pain
+1093,swollen feet & ankles,peripheral swelling,10042693,LIPITOR.456,swelling of feet
+1094,memory loss,amnesia,10001949,LIPITOR.456,amnesia
+1095,severe calf pain,pain in extremity,10007031,LIPITOR.456,calf pain
+1096,stomach pain,abdominal pain upper,10042076,ARTHROTEC.68,stomach ache
+1097,sharp pain in my stomach,abdominal pain upper,10000087,ARTHROTEC.68,abdominal pain upper
+1098,pain unbearable,pain,10033371,ARTHROTEC.68,pain
+1099,sharp pain in my stomach,pain,10033371,ARTHROTEC.68,pain
+1100,light nausea,nausea,10028813,ARTHROTEC.68,nausea
+1101,bloating,abdominal distension,10005265,LIPITOR.792,bloating
+1102,body aches,pain,10018074,LIPITOR.792,generalised aching
+1103,excessive gas,flatulence,10016766,LIPITOR.792,flatulence
+1104,cramping,muscle spasms,10028294,LIPITOR.792,muscle cramp
+1105,irritability,irritability,10023000,LIPITOR.792,irritable
+1106,headaches,headache,10019211,LIPITOR.792,headache
+1107,joint stiffness,joint stiffness,10023230,LIPITOR.792,joint stiffness
+1108,cause me to limp,gait disturbance,10058726,LIPITOR.508,limping
+1109,muscle pain,myalgia,10028411,LIPITOR.508,myalgia
+1110,constant pain,pain,10033371,LIPITOR.508,pain
+1111,knee pain,arthralgia,10023477,LIPITOR.508,knee pain
+1112,buzzing sensation in leg,paraesthesia,10043880,LIPITOR.508,tingling sensation
+1113,muscle cramps,muscle spasms,10028294,LIPITOR.508,muscle cramp
+1114,hip pain,arthralgia,10033432,LIPITOR.508,pain in hip
+1115,muscle atrophy legs,muscle atrophy,10028289,LIPITOR.544,muscle atrophy
+1116,short term memory loss,memory impairment,10068446,LIPITOR.544,short-term memory impairment
+1117,flatulance,flatulence,10016766,LIPITOR.544,flatulence
+1118,pain in shoulders,arthralgia,10040617,LIPITOR.544,shoulder pain
+1119,discoloration of skin [blotchy] on the neck,skin discolouration,10056122,LIPITOR.544,discolouration skin
+1120,muscle atrophy arms,muscle atrophy,10028289,LIPITOR.544,muscle atrophy
+1121,muscle spasms,muscle spasms,10028294,LIPITOR.509,muscle cramp
+1122,body aches,pain,10018074,LIPITOR.509,generalised aching
+1123,itching,pruritus,10023084,LIPITOR.509,itching
+1124,pain,pain,10033371,LIPITOR.763,pain
+1125,back pain,back pain,10003993,LIPITOR.763,backache
+1126,knee pain,arthralgia,10023477,LIPITOR.763,knee pain
+1127,hip pain,arthralgia,10033432,LIPITOR.763,pain in hip
+1128,ankle pain,arthralgia,10033379,LIPITOR.763,pain ankle
+1129,knee pain,arthralgia,10023477,LIPITOR.260,knee pain
+1130,muscles aches,myalgia,10028411,LIPITOR.260,myalgia
+1131,blurred vision,vision blurred,10005886,LIPITOR.260,blurred vision
+1132,headaches,headache,10019211,LIPITOR.260,headache
+1133,muscle weakness,muscular weakness,10028350,LIPITOR.260,muscle weakness
+1134,difficulty to walk,gait disturbance,10047810,LIPITOR.260,walking difficulty
+1135,back pain,back pain,10003993,LIPITOR.260,backache
+1136,involuntary movements,dyskinesia,10022895,LIPITOR.260,involuntary movement (nos)
+1137,neck pain,neck pain,10028836,LIPITOR.260,neck pain
+1138,pain in both elbows,arthralgia,10033424,LIPITOR.569,pain in elbow
+1139,severe (burning) pain in left hand,pain in extremity,10019116,LIPITOR.569,hand pain
+1140,pain in both knees,arthralgia,10023477,LIPITOR.569,knee pain
+1141,stiffness in both knees,joint stiffness,10042042,LIPITOR.569,stiff knees
+1142,severe (burning) pain in upper left arm,pain,10033386,LIPITOR.569,pain burning
+1143,flu-like symptoms,influenza like illness,10022004,LIPITOR.569,influenza like illness
+1144,pains in my left knee,arthralgia,10023477,LIPITOR.569,knee pain
+1145,pain is so intense,pain,10033371,LIPITOR.569,pain
+1146,pain has been so intense,pain,10033371,LIPITOR.569,pain
+1147,severe (burning) pain in upper left arm,pain in extremity,10033513,LIPITOR.569,painful l arm
+1148,severe (burning) pain in left hand,pain,10033386,LIPITOR.569,pain burning
+1149,severe (burning) pain in lower left arm,pain in extremity,10033513,LIPITOR.569,painful l arm
+1150,pain in left arm,pain in extremity,10033421,LIPITOR.569,pain in arm
+1151,severe (burning) pain in lower left arm,pain,10033386,LIPITOR.569,pain burning
+1152,pain in upper back (over left shoulder blade),back pain,10046273,LIPITOR.569,upper back pain
+1153,bleeding,haemorrhage,10005103,ARTHROTEC.123,bleeding
+1154,abdominal pain,abdominal pain,10000081,ARTHROTEC.123,abdominal pain
+1155,threw up,vomiting,10047700,ARTHROTEC.123,vomiting
+1156,tingles although the body,paraesthesia,10033775,LIPITOR.940,paraesthesia
+1157,tremors although the body,tremor,10044565,LIPITOR.940,tremor
+1158,inability to think clearly,mental impairment,10012805,LIPITOR.941,difficulty thinking
+1159,joint stiffness in feet,musculoskeletal stiffness,10024509,LIPITOR.941,limbs stiffness
+1160,joint stiffness in hands,joint stiffness,10042041,LIPITOR.941,stiff joint
+1161,insomnia,insomnia,10022437,LIPITOR.941,insomnia
+1162,deep depression,depression,10012378,LIPITOR.941,depression
+1163,dry mouth,dry mouth,10013781,CATAFLAM.4,dry mouth
+1164,drowsiness,somnolence,10013649,CATAFLAM.4,drowsiness
+1165,went down muscles,muscular weakness,10028350,LIPITOR.497,muscle weakness
+1166,muscle pain,myalgia,10028411,LIPITOR.497,myalgia
+1167,low back pain,back pain,10024891,LIPITOR.497,low back pain
+1168,muscle aches,myalgia,10028411,LIPITOR.497,myalgia
+1169,pain,pain,10033371,LIPITOR.497,pain
+1170,severe muscle pain in left arm,pain,10033371,LIPITOR.701,pain
+1171,severe muscle pain in neck,pain,10033371,LIPITOR.701,pain
+1172,severe muscle pain in neck,neck pain,10028836,LIPITOR.701,neck pain
+1173,severe muscle pain in elbow,arthralgia,10033424,LIPITOR.701,pain in elbow
+1174,strange poisen-ivy like rash on chest and breast,rash,10037844,LIPITOR.701,rash
+1175,severe muscle pain in left arm,myalgia,10028411,LIPITOR.701,myalgia
+1176,"prickling,numbness in hand",hypoaesthesia,10049681,LIPITOR.701,numbness in hand
+1177,severe muscle pain in elbow,pain,10033371,LIPITOR.701,pain
+1178,lower back pain,back pain,10024891,LIPITOR.462,low back pain
+1179,hip hurt,arthralgia,10033432,LIPITOR.368,pain in hip
+1180,walk a little funny,myocardial infarction,10028596,LIPITOR.368,myocardial infarction
+1181,calf pains,pain in extremity,10033422,LIPITOR.368,pain in calf
+1182,elevated cpk,blood creatinine increased,10037825,LIPITOR.332,raised serum creatinine
+1183,cpk elevated,blood creatinine increased,10037825,LIPITOR.332,raised serum creatinine
+1184,menopausal,menopause,10027296,ARTHROTEC.133,menopausal
+1185,stomach queasy,nausea,10028813,ARTHROTEC.133,nausea
+1186,memory loss,amnesia,10001949,LIPITOR.182,amnesia
+1187,head aches,headache,10019211,LIPITOR.182,headache
+1188,thining hair,alopecia,10019045,LIPITOR.182,hair loss
+1189,slurpy speach,dysarthria,10041053,LIPITOR.182,slurred speech
+1190,tingling,paraesthesia,10035067,LIPITOR.182,pins and needles
+1191,tiredness,fatigue,10043890,LIPITOR.182,tiredness
+1192,blurr vision,vision blurred,10005886,LIPITOR.182,blurred vision
+1193,mussle spasm,muscle spasms,10011285,LIPITOR.182,cramp
+1194,severe leg muscle pains,myalgia,10028411,LIPITOR.863,myalgia
+1195,leg pain,pain in extremity,10033473,LIPITOR.863,pain of lower extremities
+1196,joint pain,arthralgia,10003239,LIPITOR.863,arthralgia
+1197,severe leg muscle pains,pain,10033371,LIPITOR.863,pain
+1198,worse migraines,migraine,10027599,CAMBIA.4,migraine
+1199,large dark bruise on hand,contusion,10010855,LIPITOR.595,contusion of hand(s)
+1200,swelling left arm,muscle spasms,10011301,LIPITOR.595,cramps of lower extremities
+1201,vivid weird dreams,abnormal dreams,10004969,LIPITOR.595,bizarre dreams
+1202,very severe itching,pruritus,10023084,LIPITOR.595,itching
+1203,intolerable itching,pruritus,10023084,LIPITOR.595,itching
+1204,aches,pain,10033371,LIPITOR.43,pain
+1205,pain all over my body,pain,10018074,LIPITOR.43,generalised aching
+1206,overall misery,depressed mood,10016364,LIPITOR.43,feeling sad
+1207,severe abdominal pain,abdominal pain,10000081,ARTHROTEC.144,abdominal pain
+1208,bloating,abdominal distension,10005265,ARTHROTEC.144,bloating
+1209,severe abdominal pain,pain,10033371,ARTHROTEC.144,pain
+1210,gas,flatulence,10016766,ARTHROTEC.144,flatulence
+1211,hunger,hunger,10016336,ARTHROTEC.144,feeling hungry
+1212,stomach is still sore,abdominal pain upper,10042076,ARTHROTEC.144,stomach ache
+1213,nauseous,nausea,10028813,ARTHROTEC.144,nausea
+1214,irritable,irritability,10023000,LIPITOR.257,irritable
+1215,muscle tightness,hypertonia,10020852,LIPITOR.257,hypertonia
+1216,cramping in legs,muscle spasms,10024125,LIPITOR.257,leg cramps
+1217,felt like i had the flu,influenza like illness,10022004,LIPITOR.257,influenza like illness
+1218,problems sleeping,insomnia,10012804,LIPITOR.257,difficulty sleeping
+1219,cramping in back,muscle spasms,10028294,LIPITOR.257,muscle cramp
+1220,problems concentrating,disturbance in attention,10036149,LIPITOR.257,poor concentration
+1221,effect on your memory,memory impairment,10027175,LIPITOR.75,memory impairment
+1222,pain,pain,10033371,LIPITOR.75,pain
+1223,muscle pain,myalgia,10028411,LIPITOR.75,myalgia
+1224,pains in my back,back pain,10003993,LIPITOR.75,backache
+1225,ankles and the soles of my feet feels like i was walking on hot coals,burning sensation,10049854,LIPITOR.75,burning foot
+1226,heartburn,dyspepsia,10019326,LIPITOR.659,heartburn
+1227,tired more than ususal,fatigue,10043890,LIPITOR.659,tiredness
+1228,lower tendon pain,tendon pain,10066371,ARTHROTEC.15,tendon pain
+1229,ankle swelling,joint swelling,10042715,ARTHROTEC.15,swollen ankles
+1230,diahrea,diarrhoea,10012735,ARTHROTEC.15,diarrhoea
+1231,bleeding,haemorrhage,10005103,ARTHROTEC.50,bleeding
+1232,shoulder pain,arthralgia,10040617,ARTHROTEC.50,shoulder pain
+1233,stomach pains,abdominal pain upper,10042076,ARTHROTEC.50,stomach ache
+1234,back pain,back pain,10003993,LIPITOR.594,backache
+1235,dizziness,dizziness,10013573,LIPITOR.594,dizziness
+1236,stomach pain,abdominal pain upper,10042076,LIPITOR.594,stomach ache
+1237,pain in my hands,pain in extremity,10033430,LIPITOR.840,pain in hand
+1238,muscle pain,myalgia,10028411,LIPITOR.840,myalgia
+1239,wake up on and off all night long,sleep disorder,10040999,LIPITOR.840,sleep disturbed
+1240,severe joint pain in the knees,pain,10033371,LIPITOR.840,pain
+1241,severe joint pain in the shoulders,pain,10033371,LIPITOR.840,pain
+1242,constint shoulder pain,pain,10033371,LIPITOR.840,pain
+1243,finger numbness,hypoaesthesia,10029845,LIPITOR.840,numbness of fingers
+1244,severe joint pain in the shoulders,arthralgia,10033442,LIPITOR.840,pain in joint involving shoulder region
+1245,pains,pain,10033371,LIPITOR.840,pain
+1246,severe joint pain in the knees,arthralgia,10023477,LIPITOR.840,knee pain
+1247,numbness in my hands,hypoaesthesia,10049681,LIPITOR.840,numbness in hand
+1248,numbness in all of my toes,hypoaesthesia,10049799,LIPITOR.840,numbness in toes
+1249,constint shoulder pain,arthralgia,10040617,LIPITOR.840,shoulder pain
+1250,hand numbness,hypoaesthesia,10049681,LIPITOR.840,numbness in hand
+1251,pain in my lower legs,pain in extremity,10033473,LIPITOR.840,pain of lower extremities
+1252,pain in shoulders,arthralgia,10040617,LIPITOR.840,shoulder pain
+1253,cramping in my hands,muscle spasms,10011287,LIPITOR.840,cramp in hand
+1254,numbness in all of my finger tips,hypoaesthesia,10029845,LIPITOR.840,numbness of fingers
+1255,cramping in my lower legs,muscle spasms,10011290,LIPITOR.840,cramp legs
+1256,rage,aggression,10001488,LIPITOR.122,aggression
+1257,extremely tired,fatigue,10043890,LIPITOR.122,tiredness
+1258,mood swings,mood swings,10027951,LIPITOR.122,mood swings
+1259,joint pain,arthralgia,10003239,LIPITOR.122,arthralgia
+1260,changes in mood,pain in extremity,10033428,LIPITOR.122,pain in fingers
+1261,itch on my head,pruritus,10023093,VOLTAREN.25,itchy scalp
+1262,lips started to swell,lip swelling,10024570,VOLTAREN.25,lip swelling
+1263,genitals and lips excruciating,flatulence,10016766,VOLTAREN.25,flatulence
+1264,allergic reaction,hypersensitivity,10001718,VOLTAREN.25,allergic reaction
+1265,tired all the time,fatigue,10043885,LIPITOR.153,tired all the time
+1266,excess gas,walking disability,10053204,LIPITOR.153,walking disability
+1267,dizziness,dizziness,10013573,LIPITOR.153,dizziness
+1268,mild stiffness of my fingers,joint stiffness,10042041,LIPITOR.153,stiff joint
+1269,bloating,abdominal distension,10005265,LIPITOR.153,bloating
+1270,lightheadedness,dizziness,10024492,LIPITOR.153,lightheadedness
+1271,numbing of my feet,hypoaesthesia,10049800,LIPITOR.554,numbness in feet
+1272,burning feeling,burning sensation,10006784,LIPITOR.554,burning sensation
+1273,burning,burning sensation,10006784,LIPITOR.554,burning sensation
+1274,hands are warm to touch,skin warm,10040952,LIPITOR.3,skin warm
+1275,movement is restricted and it is impossible to make a fist,joint range of motion decreased,10048706,LIPITOR.3,joint range of motion decreased
+1276,discomfort in my left hand,discomfort,10013092,LIPITOR.3,discomfort nos
+1277,movement is restricted,joint range of motion decreased,10048706,LIPITOR.3,joint range of motion decreased
+1278,extreme pain,pain,10033371,LIPITOR.3,pain
+1279,pain,pain,10033371,LIPITOR.3,pain
+1280,pain was worse,pain,10033371,LIPITOR.3,pain
+1281,extreme pain in neck,neck pain,10028836,LIPITOR.3,neck pain
+1282,extreme pain in both shoulders,pain,10033371,LIPITOR.3,pain
+1283,extreme pain in neck,pain,10033371,LIPITOR.3,pain
+1284,restricted movement,joint range of motion decreased,10048706,LIPITOR.3,joint range of motion decreased
+1285,extreme pain in both shoulders,arthralgia,10040617,LIPITOR.3,shoulder pain
+1286,fingers are swollen,peripheral swelling,10042694,LIPITOR.3,swelling of fingers
+1287,severe pain,pain,10033371,LIPITOR.59,pain
+1288,chest tightness,chest discomfort,10043854,LIPITOR.59,tight chest
+1289,mental fogginess,mental impairment,10027371,LIPITOR.59,mental dullness
+1290,constant fatigue,fatigue,10016256,LIPITOR.59,fatigue
+1291,atrophy,muscle atrophy,10028289,LIPITOR.59,muscle atrophy
+1292,cramping,muscle spasms,10028294,LIPITOR.59,muscle cramp
+1293,forgetfulness,memory impairment,10017060,LIPITOR.59,forgetfulness
+1294,weakness in my legs,muscular weakness,10047868,LIPITOR.59,weakness of limbs
+1295,swelling in throat,pharyngeal swelling,10043525,LIPITOR.59,throat swelling
+1296,weak & wobbley knees,muscular weakness,10047868,LIPITOR.59,weakness of limbs
+1297,swollen nasal passages,nasal congestion,10063455,LIPITOR.59,nasal mucosal swelling
+1298,weak & wobbley wrists,asthenia,10003549,LIPITOR.59,asthenia
+1299,elevated liver enzymes,hepatic enzyme abnormal,10024677,LIPITOR.59,liver enzyme abnormal
+1300,insomnia,insomnia,10022437,LIPITOR.59,insomnia
+1301,cramping in wrists & hands,muscle spasms,10011287,LIPITOR.59,cramp in hand
+1302,muscle weakness,muscular weakness,10028350,LIPITOR.59,muscle weakness
+1303,weakness in back,muscular weakness,10047868,LIPITOR.59,weakness of limbs
+1304,pancreatitis,pancreatitis,10033645,LIPITOR.59,pancreatitis
+1305,back pain,back pain,10003993,LIPITOR.59,backache
+1306,breathlessness,dyspnoea,10013968,LIPITOR.59,dyspnoea
+1307,difficulty swallowing,dysphagia,10042645,LIPITOR.59,swallowing difficult
+1308,weak & wobbley ankles,muscular weakness,10047868,LIPITOR.59,weakness of limbs
+1309,joint aches,arthralgia,10003239,LIPITOR.876,arthralgia
+1310,burning feet,burning sensation,10049854,LIPITOR.876,burning foot
+1311,muscle weakness causing nerve damage and imbalance,muscular weakness,10028350,LIPITOR.530,muscle weakness
+1312,s l o w walking,gait disturbance,10047810,LIPITOR.530,walking difficulty
+1313,numbness,hypoaesthesia,10029829,LIPITOR.530,numbness
+1314,stiffness similar to arthritis,musculoskeletal stiffness,10042045,LIPITOR.530,stiffness
+1315,dry mouth,dry mouth,10013781,CATAFLAM.2,dry mouth
+1316,dry mouth,apudoma,10003070,CATAFLAM.2,apudoma nos
+1317,headaches,headache,10019211,LIPITOR.744,headache
+1318,low sex drive,libido decreased,10024419,LIPITOR.744,libido decreased
+1319,sun sensitivity,photosensitivity reaction,10042494,CATAFLAM.8,sun sensitivity
+1320,severe pain in my calf muscles,myalgia,10051587,LIPITOR.969,myalgia of lower extremities
+1321,severe pain in my calf muscles,pain,10033371,LIPITOR.969,pain
+1322,pain was too severe,pain,10033371,LIPITOR.969,pain
+1323,pain,pain,10033371,LIPITOR.969,pain
+1324,could not even walk in the morning,gait disturbance,10047810,LIPITOR.969,walking difficulty
+1325,cramps,muscle spasms,10028294,LIPITOR.969,muscle cramp
+1326,gassy abdominal cramping,flatulence,10016766,CATAFLAM.9,flatulence
+1327,pain,pain,10033371,LIPITOR.34,pain
+1328,dibilitating problem with both of my arms,muscular weakness,10047868,LIPITOR.34,weakness of limbs
+1329,vision close up is blurry,vision blurred,10005888,LIPITOR.446,blurring of vision
+1330,muscle pain in my biceps,myalgia,10028411,LIPITOR.446,myalgia
+1331,extreme muscle weakness,muscular weakness,10028350,LIPITOR.747,muscle weakness
+1332,thinking problems,disturbance in attention,10036149,LIPITOR.747,poor concentration
+1333,memory loss,amnesia,10001949,LIPITOR.963,amnesia
+1334,insomnia,insomnia,10022437,LIPITOR.963,insomnia
+1335,sore muscles,myalgia,10028411,LIPITOR.963,myalgia
+1336,sun sensitivity,photosensitivity reaction,10042494,LIPITOR.167,sun sensitivity
+1337,foot and leg cramps,muscle spasms,10016964,LIPITOR.167,foot cramps
+1338,sick,ill-defined disorder,10061520,LIPITOR.167,ill-defined disorder
+1339,my skin in boils,furuncle,10017553,LIPITOR.167,furuncle
+1340,fever,pyrexia,10016558,LIPITOR.167,fever
+1341,coming down with the flu,influenza like illness,10022009,LIPITOR.167,influenza-like symptoms
+1342,itching,pruritus,10023084,LIPITOR.167,itching
+1343,foot and leg cramps,muscle spasms,10011301,LIPITOR.167,cramps of lower extremities
+1344,scabs,scab,10039509,LIPITOR.167,scab
+1345,rashes,rash,10037844,LIPITOR.167,rash
+1346,heaviness in the legs,discomfort,10040000,LIPITOR.167,sensation of heaviness
+1347,vaginal bleeding,vaginal haemorrhage,10046883,ARTHROTEC.90,vaginal bleeding
+1348,horrific cramps,muscle spasms,10028294,ARTHROTEC.4,muscle cramp
+1349,vertigo like attack,vertigo,10047340,LIPITOR.215,vertigo
+1350,severe pain in calves,pain,10033371,LIPITOR.215,pain
+1351,depressed,depression,10012378,LIPITOR.215,depression
+1352,no sex drive,libido decreased,10024419,LIPITOR.215,libido decreased
+1353,unable to walk,gait inability,10049278,LIPITOR.215,unable to walk
+1354,zombie like tired,fatigue,10043890,LIPITOR.215,tiredness
+1355,severe pain in calves,pain in extremity,10007031,LIPITOR.215,calf pain
+1356,blured vision,vision blurred,10005886,LIPITOR.215,blurred vision
+1357,decrease in balance,memory impairment,10027175,LIPITOR.215,memory impairment
+1358,joint pain,arthralgia,10003239,LIPITOR.778,arthralgia
+1359,muscle weakness,muscular weakness,10028350,LIPITOR.778,muscle weakness
+1360,muscle pain,myalgia,10028411,LIPITOR.522,myalgia
+1361,headaches,headache,10019211,LIPITOR.151,headache
+1362,blurred vision,vision blurred,10005886,LIPITOR.151,blurred vision
+1363,trouble concentrating,disturbance in attention,10036149,LIPITOR.151,poor concentration
+1364,"absent mindendness,",daydreaming,10067170,LIPITOR.151,absent-minded
+1365,extreme fatigue,asthenia,10003549,LIPITOR.567,asthenia
+1366,arms started tingling,paraesthesia,10043881,LIPITOR.567,tingling skin
+1367,started going numb legs,hypoaesthesia,10029850,LIPITOR.567,numbness of lower extremities
+1368,legs started tingling,paraesthesia,10052409,LIPITOR.567,paraesthesia lower limb
+1369,arms started going numb,hypoaesthesia,10029854,LIPITOR.567,numbness of upper extremities
+1370,some concentration problems,disturbance in attention,10036149,LIPITOR.567,poor concentration
+1371,shortness of breath,dyspnoea,10013968,LIPITOR.80,dyspnoea
+1372,depression,depression,10012378,LIPITOR.80,depression
+1373,inability to sleep,insomnia,10041017,LIPITOR.80,sleeplessness
+1374,muscle pain,myalgia,10028411,LIPITOR.80,myalgia
+1375,cramping,muscle spasms,10028294,LIPITOR.80,muscle cramp
+1376,memory loss,amnesia,10001949,LIPITOR.80,amnesia
+1377,cold extremities,peripheral coldness,10009857,LIPITOR.80,cold extremities
+1378,general fatigue,flatulence,10016766,LIPITOR.80,flatulence
+1379,muscle fatigue,muscle fatigue,10049565,LIPITOR.80,muscle fatigue
+1380,joint pain,arthralgia,10003239,LIPITOR.80,arthralgia
+1381,indegestion,dyspepsia,10021707,LIPITOR.269,indigestion acid
+1382,abnormal uterine bleeding,dysfunctional uterine bleeding,10013908,LIPITOR.269,dysfunctional uterine bleeding
+1383,bloating,abdominal distension,10005265,LIPITOR.269,bloating
+1384,tingling,paraesthesia,10035067,LIPITOR.269,pins and needles
+1385,decreased immune system,immunosuppression,10062016,LIPITOR.269,immunosuppression
+1386,anxiety,anxiety,10002855,LIPITOR.269,anxiety
+1387,decreased sense of smell,hyposmia,10064102,LIPITOR.269,diminished sense of smell
+1388,shortness of breath,dyspnoea,10013968,LIPITOR.269,dyspnoea
+1389,stiffness,musculoskeletal stiffness,10042045,LIPITOR.269,stiffness
+1390,stuffy nose,nasal congestion,10028735,LIPITOR.269,nasal congestion
+1391,trouble walking,gait disturbance,10047810,LIPITOR.269,walking difficulty
+1392,fatigue,fatigue,10016256,LIPITOR.269,fatigue
+1393,trouble swallowing,dysphagia,10042645,LIPITOR.269,swallowing difficult
+1394,gas,walking disability,10053204,LIPITOR.269,walking disability
+1395,back pain,back pain,10003993,LIPITOR.269,backache
+1396,hoarse voice,dysphonia,10020201,LIPITOR.269,hoarseness
+1397,bleeding in my abdomen after coughing and rupturing a blood vessel,intra-abdominal haemorrhage,10061249,LIPITOR.269,intra-abdominal haemorrhage
+1398,decreased sense of taste,ageusia,10043134,LIPITOR.269,taste loss
+1399,",lack of balance and cooridination",coordination abnormal,10021649,LIPITOR.269,incoordination
+1400,",lack of balance and cooridination",memory impairment,10027175,LIPITOR.269,memory impairment
+1401,plugged ears,ear discomfort,10039995,LIPITOR.269,sensation of block in ear
+1402,weakness,asthenia,10003549,LIPITOR.269,asthenia
+1403,cough,cough,10011224,LIPITOR.269,cough
+1404,irregular periods,menstruation irregular,10022992,LIPITOR.269,irregular menstruation
+1405,joint pain,arthralgia,10003239,LIPITOR.269,arthralgia
+1406,numbness,hypoaesthesia,10029829,LIPITOR.269,numbness
+1407,elevated wbc,white blood cell count abnormal,10047940,LIPITOR.269,white blood cell count abnormal
+1408,deppression,depression,10012378,LIPITOR.269,depression
+1409,muscle pain,myalgia,10028411,LIPITOR.269,myalgia
+1410,dark urine,chromaturia,10064748,LIPITOR.269,urine colour abnormal
+1411,chest pain,chest pain,10008479,LIPITOR.269,chest pain
+1412,muscle crammps,muscle spasms,10028294,LIPITOR.413,muscle cramp
+1413,mood swings,pain in extremity,10033428,LIPITOR.413,pain in fingers
+1414,depression,depression,10012378,LIPITOR.413,depression
+1415,intense chest pains,chest pain,10008479,LIPITOR.413,chest pain
+1416,fatigue,fatigue,10016256,LIPITOR.413,fatigue
+1417,bloating,abdominal distension,10005265,LIPITOR.413,bloating
+1418,gas,flatulence,10016766,VOLTAREN.44,flatulence
+1419,diarrhea,diarrhoea,10012735,VOLTAREN.44,diarrhoea
+1420,heartburn,dyspepsia,10019326,VOLTAREN.44,heartburn
+1421,nausea,nausea,10028813,VOLTAREN.44,nausea
+1422,bad headache,headache,10019211,VOLTAREN.44,headache
+1423,mild headache,headache,10019211,VOLTAREN.44,headache
+1424,cramping,muscle spasms,10028294,VOLTAREN.44,muscle cramp
+1425,mild cramping,muscle spasms,10028294,VOLTAREN.44,muscle cramp
+1426,gurgling,gastrointestinal sounds abnormal,10048721,VOLTAREN.44,hyperactive bowel sounds
+1427,abdominal cramps,abdominal pain,10000055,VOLTAREN.44,abdominal colic
+1428,neck pains,neck pain,10028836,LIPITOR.347,neck pain
+1429,severe headaches,headache,10019211,LIPITOR.347,headache
+1430,severe back pains,pain,10033371,LIPITOR.347,pain
+1431,severe back pains,back pain,10003993,LIPITOR.347,backache
+1432,aches and pains,pain,10018074,LIPITOR.839,generalised aching
+1433,blinding headaches,headache,10019211,LIPITOR.839,headache
+1434,memory loss,amnesia,10001949,LIPITOR.839,amnesia
+1435,shoulder pain,arthralgia,10040617,LIPITOR.839,shoulder pain
+1436,feel pretty lousy,malaise,10025482,LIPITOR.839,malaise
+1437,neck pain,neck pain,10028836,LIPITOR.839,neck pain
+1438,severe fatigue,fatigue,10016256,LIPITOR.839,fatigue
+1439,lack of sexual desire,loss of libido,10024422,LIPITOR.110,libido lack
+1440,pain,pain,10033371,LIPITOR.110,pain
+1441,neuropathy,neuropathy peripheral,10029328,LIPITOR.110,neuropathy
+1442,debilitating,asthenia,10003549,LIPITOR.110,asthenia
+1443,decreased energy,asthenia,10024862,LIPITOR.110,loss of energy
+1444,loss of energy,asthenia,10024862,LIPITOR.110,loss of energy
+1445,difficulty thinking,mental impairment,10012805,LIPITOR.110,difficulty thinking
+1446,increase in blood pressure,blood pressure increased,10021655,LIPITOR.110,increased blood pressure
+1447,constant lethargy,lethargy,10024264,LIPITOR.110,lethargy
+1448,less muscle mass,muscle atrophy,10028289,LIPITOR.110,muscle atrophy
+1449,difficulty speaking,dysphonia,10013952,LIPITOR.110,dysphonia
+1450,difficulty urinating,urinary retention,10046555,LIPITOR.110,urinary retention
+1451,disturbed sleep patterns,sleep disorder,10071729,LIPITOR.110,change in sleep pattern
+1452,joint pain,arthralgia,10003239,LIPITOR.428,arthralgia
+1453,depressed,depression,10012378,LIPITOR.428,depression
+1454,spasm,muscle spasms,10041408,LIPITOR.428,spasms
+1455,weakness,asthenia,10003549,LIPITOR.428,asthenia
+1456,leg pain,pain in extremity,10033473,LIPITOR.428,pain of lower extremities
+1457,suicidal,suicidal ideation,10042461,LIPITOR.428,suicidal tendency
+1458,severe mentrual cramps,dysmenorrhoea,10027323,ARTHROTEC.27,menstrual cramp
+1459,so much pain,pain,10033371,ARTHROTEC.27,pain
+1460,dry mouth,aids related complex,10003076,LIPITOR.954,arc
+1461,pain in my joints,arthralgia,10003239,LIPITOR.954,arthralgia
+1462,hands sore,pain in extremity,10033430,LIPITOR.954,pain in hand
+1463,hair falling out,alopecia,10019045,LIPITOR.954,hair loss
+1464,dry mouth,dry mouth,10013781,LIPITOR.954,dry mouth
+1465,fatigue,fatigue,10016256,LIPITOR.954,fatigue
+1466,sore feet (faciitis),plantar fasciitis,10035155,LIPITOR.954,plantar fasciitis
+1467,weakness in legs,muscular weakness,10047868,LIPITOR.818,weakness of limbs
+1468,loss of balance,balance disorder,10004070,LIPITOR.818,balance difficulty
+1469,weakness in knees,muscular weakness,10047868,LIPITOR.818,weakness of limbs
+1470,unsteasiness walking,gait disturbance,10046261,LIPITOR.818,unsteady gait
+1471,acute pain in both feet,pain in extremity,10016974,LIPITOR.818,foot pain
+1472,numbness in fingers,hypoaesthesia,10029845,LIPITOR.818,numbness of fingers
+1473,general weakness in hands,flatulence,10016766,LIPITOR.818,flatulence
+1474,pain in my lower leg,pain in extremity,10033473,LIPITOR.586,pain of lower extremities
+1475,swollen legs,peripheral swelling,10042702,LIPITOR.586,swelling of limbs
+1476,swollen ankles,joint swelling,10042715,LIPITOR.586,swollen ankles
+1477,spazms,muscle spasms,10041408,LIPITOR.29,spasms
+1478,chest muscle soreness,musculoskeletal chest pain,10050819,LIPITOR.29,musculoskeletal chest pain
+1479,muscle problems,myopathy,10028641,LIPITOR.29,myopathy
+1480,pain trying to walk,pain,10033376,LIPITOR.798,pain aggravated
+1481,severe foot pains,pain in extremity,10016974,LIPITOR.798,foot pain
+1482,severe leg pains,pain,10033371,LIPITOR.798,pain
+1483,severe foot pains,pain,10033371,LIPITOR.798,pain
+1484,severe leg pains,pain in extremity,10033473,LIPITOR.798,pain of lower extremities
+1485,balance problems,memory impairment,10027175,LIPITOR.798,memory impairment
+1486,memeory problems,memory impairment,10027175,LIPITOR.798,memory impairment
+1487,acne breakouts on my face and neck,acne,10000496,LIPITOR.798,acne
+1488,depression,depression,10012378,LIPITOR.798,depression
+1489,short term memory loss,memory impairment,10068446,LIPITOR.375,short-term memory impairment
+1490,deafness,deafness,10019246,LIPITOR.375,hearing loss
+1491,chronic rhinitus,rhinitis,10009129,LIPITOR.375,chronic rhinitis
+1492,fatigue,fatigue,10016256,LIPITOR.375,fatigue
+1493,flatulance,flatulence,10016766,LIPITOR.375,flatulence
+1494,tendonitis,tendonitis,10043255,LIPITOR.375,tendonitis
+1495,abdominal cramps,abdominal pain,10000055,LIPITOR.375,abdominal colic
+1496,muscle pain,myalgia,10028411,LIPITOR.375,myalgia
+1497,stomach discomfort,abdominal pain upper,10042076,LIPITOR.375,stomach ache
+1498,upper respiratory infections,upper respiratory tract infection,10021871,LIPITOR.375,infection upper respiratory
+1499,knee swells,joint swelling,10042697,LIPITOR.53,swelling of knees
+1500,pain in my lower legs and feet,pain in extremity,10033473,LIPITOR.53,pain of lower extremities
+1501,excrutiating pain,pain,10033371,LIPITOR.53,pain
+1502,swollen knees,joint swelling,10042697,LIPITOR.53,swelling of knees
+1503,hobbling around,gait disturbance,10058726,LIPITOR.53,limping
+1504,tendonitis in my knees,tendonitis,10043255,LIPITOR.53,tendonitis
+1505,muscle pain,myalgia,10028411,LIPITOR.148,myalgia
+1506,increased memory loss,memory impairment,10027175,LIPITOR.777,memory impairment
+1507,"stomach is bloated, with excess gas",abdominal distension,10000061,LIPITOR.777,abdominal distension gaseous
+1508,gaining excess weight,weight increased,10047896,LIPITOR.777,weight gain
+1509,fatigue,fatigue,10016256,LIPITOR.777,fatigue
+1510,vaginal bleeding,vaginal haemorrhage,10046883,VOLTAREN.33,vaginal bleeding
+1511,cramping,muscle spasms,10028294,VOLTAREN.33,muscle cramp
+1512,flu-like malaise,influenza like illness,10022004,LIPITOR.785,influenza like illness
+1513,disabling fatigue,asthenia,10003549,LIPITOR.785,asthenia
+1514,"terrible, migratory joint pain all over my body",myalgia,10028411,LIPITOR.785,myalgia
+1515,quite ill,malaise,10018135,LIPITOR.785,generally unwell
+1516,severe muscle cramping,muscle spasms,10028294,LIPITOR.824,muscle cramp
+1517,destroyed my self-confidence,psychiatric symptom,10024854,LIPITOR.824,loss of confidence
+1518,pain in my left hip,arthralgia,10033432,LIPITOR.279,pain in hip
+1519,head aches,headache,10019211,LIPITOR.279,headache
+1520,lower back pain,back pain,10024891,LIPITOR.279,low back pain
+1521,muscle knots up,muscle spasms,10028294,LIPITOR.279,muscle cramp
+1522,hip pain,arthralgia,10033432,LIPITOR.279,pain in hip
+1523,shortness of breath,dyspnoea,10013968,LIPITOR.279,dyspnoea
+1524,short term memory loss,memory impairment,10068446,LIPITOR.279,short-term memory impairment
+1525,muscle soreness,myalgia,10028411,LIPITOR.279,myalgia
+1526,loss of short term memory,memory impairment,10068446,LIPITOR.279,short-term memory impairment
+1527,muscle pains,myalgia,10028411,LIPITOR.279,myalgia
+1528,muscle pain,myalgia,10028411,LIPITOR.279,myalgia
+1529,anxiety,anxiety,10002855,LIPITOR.106,anxiety
+1530,paranoia,"delusional disorder, unspecified type",10012255,LIPITOR.106,"delusional disorder, unspecified type"
+1531,toes became so painful,pain in extremity,10033452,LIPITOR.971,pain in toe
+1532,leg neuropathy,neuropathy peripheral,10029328,LIPITOR.971,neuropathy
+1533,right knee always swollen,joint swelling,10042697,LIPITOR.764,swelling of knees
+1534,fatigue,fatigue,10016256,LIPITOR.764,fatigue
+1535,minor joint soreness,arthralgia,10023222,LIPITOR.764,joint pain
+1536,right knee always sore,arthralgia,10023477,LIPITOR.764,knee pain
+1537,extreme leg weakness,muscular weakness,10047868,LIPITOR.603,weakness of limbs
+1538,clumsiness,clumsiness,10009696,LIPITOR.603,clumsiness
+1539,stiff neck,musculoskeletal stiffness,10042043,LIPITOR.603,stiff neck
+1540,weakness,asthenia,10003549,LIPITOR.603,asthenia
+1541,extreme leg pain,pain,10033371,LIPITOR.603,pain
+1542,extreme leg pain,pain in extremity,10033473,LIPITOR.603,pain of lower extremities
+1543,leg pain,pain in extremity,10033473,LIPITOR.603,pain of lower extremities
+1544,diarrhea,diarrhoea,10012735,LIPITOR.603,diarrhoea
+1545,dizziness,dizziness,10013573,LIPITOR.603,dizziness
+1546,period cramps,dysmenorrhoea,10027323,ARTHROTEC.36,menstrual cramp
+1547,sever abdominal cramps,learning disorder,10061265,ARTHROTEC.36,learning disorder
+1548,diarrhea,diarrhoea,10012735,ARTHROTEC.36,diarrhoea
+1549,could not get to sleep,initial insomnia,10022035,LIPITOR.809,initial insomnia
+1550,i didn't feel right,malaise,10025482,LIPITOR.809,malaise
+1551,diarrhea,diarrhoea,10012735,LIPITOR.809,diarrhoea
+1552,dizzyness,dizziness,10013573,VOLTAREN.45,dizziness
+1553,chills,chills,10008531,VOLTAREN.45,chills
+1554,diarrhea,diarrhoea,10012735,VOLTAREN.45,diarrhoea
+1555,very weak,asthenia,10003549,VOLTAREN.45,asthenia
+1556,vomiting,vomiting,10047700,VOLTAREN.45,vomiting
+1557,extreme sweating,hyperhidrosis,10042667,VOLTAREN.45,sweating increased
+1558,headache,headache,10019211,LIPITOR.733,headache
+1559,tingling and sunny sensation on my face,paraesthesia,10035067,LIPITOR.733,pins and needles
+1560,muscle pain,myalgia,10028411,LIPITOR.733,myalgia
+1561,gas,flatulence,10016766,LIPITOR.733,flatulence
+1562,pain in my arms,pain in extremity,10071701,LIPITOR.236,pain in upper extremities
+1563,pain in shoulder,arthralgia,10040617,LIPITOR.236,shoulder pain
+1564,hands numb,hypoaesthesia,10049681,LIPITOR.236,numbness in hand
+1565,pain,pain,10033371,LIPITOR.236,pain
+1566,hands very weak,muscular weakness,10065702,LIPITOR.236,weakness in extremity
+1567,pain in arms,pain in extremity,10071701,LIPITOR.236,pain in upper extremities
+1568,pain in hands,pain in extremity,10033430,LIPITOR.236,pain in hand
+1569,soreness in calf muscles,myalgia,10051587,LIPITOR.521,myalgia of lower extremities
+1570,severe numbness in hand,hypoaesthesia,10049681,LIPITOR.521,numbness in hand
+1571,sharp shock like pain in head,headache,10019211,LIPITOR.521,headache
+1572,tingling in feet,paraesthesia,10035067,LIPITOR.521,pins and needles
+1573,sharp shock like pain in head,pain,10033371,LIPITOR.521,pain
+1574,flu-like syptoms,influenza like illness,10022004,LIPITOR.421,influenza like illness
+1575,nausea,nausea,10028813,LIPITOR.421,nausea
+1576,loss of energy,asthenia,10024862,LIPITOR.421,loss of energy
+1577,muscle aches,myalgia,10028411,LIPITOR.421,myalgia
+1578,dizziness,dizziness,10013573,LIPITOR.421,dizziness
+1579,headaches,headache,10019211,LIPITOR.421,headache
+1580,muscle pain in the leg,myalgia,10051587,LIPITOR.314,myalgia of lower extremities
+1581,diarria,diarrhoea,10012735,LIPITOR.314,diarrhoea
+1582,sleepless nights,insomnia,10022437,LIPITOR.314,insomnia
+1583,pain,pain,10033371,LIPITOR.314,pain
+1584,weight gain,weight increased,10047896,LIPITOR.314,weight gain
+1585,significant weight gain,abnormal weight gain,10000188,LIPITOR.314,abnormal weight gain
+1586,muscle pain lower back,back pain,10024891,LIPITOR.314,low back pain
+1587,fatigue,fatigue,10016256,LIPITOR.314,fatigue
+1588,constipation,constipation,10010774,LIPITOR.314,constipation
+1589,muscle pain calf area,myalgia,10051587,LIPITOR.314,myalgia of lower extremities
+1590,drained,asthenia,10003549,LIPITOR.60,asthenia
+1591,increasing pain,pain,10033371,LIPITOR.60,pain
+1592,stiffness at left knee,joint stiffness,10042042,LIPITOR.60,stiff knees
+1593,swelling at knee,joint swelling,10042697,LIPITOR.60,swelling of knees
+1594,tingling,paraesthesia,10035067,LIPITOR.72,pins and needles
+1595,pain,pain,10033371,LIPITOR.72,pain
+1596,muscle issues,myopathy,10028641,LIPITOR.72,myopathy
+1597,dizzyness,dizziness,10013573,LIPITOR.72,dizziness
+1598,tingle,paraesthesia,10033775,LIPITOR.72,paraesthesia
+1599,mmdepression,depression,10012378,LIPITOR.72,depression
+1600,depression,depression,10012378,LIPITOR.72,depression
+1601,bottoms of feet hurt,pain in extremity,10016974,LIPITOR.72,foot pain
+1602,bursitis,bursitis,10006811,LIPITOR.72,bursitis
+1603,felt like shin splints,medial tibial stress syndrome,10066014,LIPITOR.72,shin splints
+1604,toes hurt,pain in extremity,10033452,LIPITOR.72,pain in toe
+1605,in a fog,mental impairment,10027371,LIPITOR.72,mental dullness
+1606,memory loss-severe,amnesia,10001949,LIPITOR.72,amnesia
+1607,gas,flatulence,10016766,LIPITOR.624,flatulence
+1608,pain,pain,10033371,LIPITOR.160,pain
+1609,joint pain,arthralgia,10003239,LIPITOR.160,arthralgia
+1610,fatigue,fatigue,10016256,LIPITOR.160,fatigue
+1611,feeling in a fog,mental impairment,10027371,LIPITOR.861,mental dullness
+1612,muscle weakness in my right hand causing me to lose grip and drop things,muscular weakness,10047868,LIPITOR.861,weakness of limbs
+1613,memory problems,memory impairment,10027175,LIPITOR.861,memory impairment
+1614,muscle weakness in mouth area,muscular weakness,10028350,LIPITOR.861,muscle weakness
+1615,speech difficulties like pronunciation,dysphonia,10013952,LIPITOR.861,dysphonia
+1616,chewing/swallowing difficulties like biting my tongue and inside my cheek,dysphagia,10042645,LIPITOR.861,swallowing difficult
+1617,chewing/swallowing difficulties like biting my tongue and inside my cheek,mastication disorder,10067464,LIPITOR.861,chewing difficulty
+1618,bleeding,haemorrhage,10005103,ARTHROTEC.103,bleeding
+1619,so much pain,pain,10033371,ARTHROTEC.103,pain
+1620,feel weak and almost fainted,dizziness,10016379,ARTHROTEC.103,felt faint
+1621,tiredness,fatigue,10043890,LIPITOR.439,tiredness
+1622,depression,depression,10012378,LIPITOR.439,depression
+1623,insomnia,insomnia,10022437,LIPITOR.439,insomnia
+1624,decreased eye sight,blindness,10024881,LIPITOR.439,loss of vision
+1625,anxiety,anxiety,10002855,LIPITOR.439,anxiety
+1626,numbness in arms,hypoaesthesia,10029854,LIPITOR.324,numbness of upper extremities
+1627,constant headaches,headache,10019211,LIPITOR.324,headache
+1628,headaches,headache,10019211,LIPITOR.324,headache
+1629,impending doom,anxiety,10021527,LIPITOR.324,impending doom
+1630,short-term memory loss,memory impairment,10068446,LIPITOR.324,short-term memory impairment
+1631,muscle soreness,myalgia,10028411,LIPITOR.324,myalgia
+1632,feel like i got hit by a truck,pain,10048971,LIPITOR.324,general body pain
+1633,flu-like symptoms,influenza like illness,10022004,LIPITOR.324,influenza like illness
+1634,shortness of breath,dyspnoea,10013968,LIPITOR.324,dyspnoea
+1635,fatigue,fatigue,10016256,LIPITOR.324,fatigue
+1636,taste perversion,taste disorder,10043126,LIPITOR.228,taste altered
+1637,loss of taste for salt and sugars,ageusia,10043134,LIPITOR.228,taste loss
+1638,feeling desperately miserable,depressed mood,10016364,LIPITOR.966,feeling sad
+1639,leg pain,pain in extremity,10033473,LIPITOR.966,pain of lower extremities
+1640,palpitations,palpitations,10033557,LIPITOR.966,palpitations
+1641,finger pins and needles,visual impairment,10047543,LIPITOR.966,visual disturbance
+1642,balance off,memory impairment,10027175,LIPITOR.966,memory impairment
+1643,back pain lower,back pain,10024891,LIPITOR.966,low back pain
+1644,back pain,back pain,10003993,LIPITOR.966,backache
+1645,stomach pain,abdominal pain upper,10042076,LIPITOR.966,stomach ache
+1646,leg pains,pain in extremity,10033473,LIPITOR.966,pain of lower extremities
+1647,back pain upper,back pain,10046273,LIPITOR.966,upper back pain
+1648,stomach pain,abdominal pain upper,10042076,ARTHROTEC.6,stomach ache
+1649,abdominal cramps,abdominal pain,10000055,ARTHROTEC.6,abdominal colic
+1650,abdominal discomfort,abdominal discomfort,10000059,ARTHROTEC.6,abdominal discomfort
+1651,abdominal cramps and pain,abdominal pain,10000055,ARTHROTEC.6,abdominal colic
+1652,slight nausea,nausea,10028813,ARTHROTEC.6,nausea
+1653,abdominal gas,flatulence,10016766,ARTHROTEC.6,flatulence
+1654,heel pain,pain in extremity,10033431,LIPITOR.311,pain in heel
+1655,severe achilles tendonitis,tendonitis,10000441,LIPITOR.311,achilles tendonitis
+1656,burning sensations in calves,burning sensation,10006784,LIPITOR.311,burning sensation
+1657,muscle pain,myalgia,10028411,LIPITOR.630,myalgia
+1658,visual disturbances,visual impairment,10047543,ARTHROTEC.67,visual disturbance
+1659,crankiness and irritability,irritability,10023000,ARTHROTEC.67,irritable
+1660,increased bp,blood pressure increased,10021655,ARTHROTEC.67,increased blood pressure
+1661,severe chest pain,pain,10033371,LIPITOR.736,pain
+1662,severe chest pain,chest pain,10008479,LIPITOR.736,chest pain
+1663,abdominal pain,abdominal pain,10000081,LIPITOR.736,abdominal pain
+1664,exhausted,fatigue,10015667,LIPITOR.85,exhaustion
+1665,severe depression,depression,10012378,LIPITOR.85,depression
+1666,problems with concentration,disturbance in attention,10010248,LIPITOR.85,concentration ability impaired
+1667,weak,asthenia,10003549,LIPITOR.85,asthenia
+1668,exhausting,fatigue,10015667,LIPITOR.85,exhaustion
+1669,unable to find words or remember names,aphasia,10067711,LIPITOR.85,word finding difficulty
+1670,severe chronic fatigue,chronic fatigue syndrome,10008874,LIPITOR.85,chronic fatigue syndrome
+1671,muscle weakness,muscular weakness,10028350,LIPITOR.85,muscle weakness
+1672,muscle pain,myalgia,10028411,LIPITOR.85,myalgia
+1673,legs would go wobbly,muscular weakness,10047868,LIPITOR.85,weakness of limbs
+1674,problems with memory,memory impairment,10027175,LIPITOR.85,memory impairment
+1675,peripheral neuropathy,neuropathy peripheral,10034610,LIPITOR.655,peripheral neuropathy nos
+1676,problems with balance,memory impairment,10027175,LIPITOR.655,memory impairment
+1677,headaches,headache,10019211,LIPITOR.949,headache
+1678,stevens johnson syndrome,stevens-johnson syndrome,10042033,CATAFLAM.5,stevens-johnson syndrome
+1679,server pain,pain,10033371,LIPITOR.293,pain
+1680,walking with a cane,walking aid user,10050811,LIPITOR.293,cane user
+1681,urinary incontinence,urinary incontinence,10046543,ARTHROTEC.43,urinary incontinence
+1682,increased menstrual blood flow,menorrhagia,10027332,ARTHROTEC.43,menstrual flow excessive
+1683,severe cramping,muscle spasms,10028294,ARTHROTEC.43,muscle cramp
+1684,diarrhea,diarrhoea,10012735,ARTHROTEC.43,diarrhoea
+1685,stomach irritation,abdominal discomfort,10046318,LIPITOR.394,upset stomach
+1686,abnormal dreams,abnormal dreams,10000125,LIPITOR.394,abnormal dreams
+1687,depression,depression,10012378,LIPITOR.394,depression
+1688,depressed,depression,10012378,LIPITOR.394,depression
+1689,gas,flatulence,10016766,LIPITOR.157,flatulence
+1690,constipation,constipation,10010774,LIPITOR.157,constipation
+1691,fatigue,fatigue,10016256,LIPITOR.844,fatigue
+1692,muscle pain,myalgia,10028411,LIPITOR.844,myalgia
+1693,muscle disintegration/degeneration,muscle atrophy,10028289,LIPITOR.844,muscle atrophy
+1694,joint pain,arthralgia,10003239,LIPITOR.844,arthralgia
+1695,can hardly walk,gait disturbance,10047810,LIPITOR.710,walking difficulty
+1696,horrible leg pain,pain,10033371,LIPITOR.710,pain
+1697,horrible leg pain,pain in extremity,10033473,LIPITOR.710,pain of lower extremities
+1698,leg pain,pain in extremity,10033473,LIPITOR.710,pain of lower extremities
+1699,hip pain,arthralgia,10033432,LIPITOR.710,pain in hip
+1700,exhaustion after exercise,exercise tolerance decreased,10065629,LIPITOR.743,decreased exercise endurance
+1701,heavy limbs,limb discomfort,10019349,LIPITOR.743,heaviness in limbs
+1702,muscles pains,myalgia,10028411,LIPITOR.610,myalgia
+1703,lead legs,discomfort,10040000,LIPITOR.610,sensation of heaviness
+1704,tiredness,fatigue,10043890,LIPITOR.65,tiredness
+1705,muscle pain,myalgia,10028411,LIPITOR.65,myalgia
+1706,no sleep,insomnia,10041017,LIPITOR.65,sleeplessness
+1707,joint pain,arthralgia,10003239,LIPITOR.65,arthralgia
+1708,nausea,nausea,10028813,LIPITOR.65,nausea
+1709,bad dreams,abnormal dreams,10000125,LIPITOR.65,abnormal dreams
+1710," fluey feelings in upper arms, legs",influenza like illness,10022004,ARTHROTEC.45,influenza like illness
+1711,fluey feelings,influenza like illness,10022004,ARTHROTEC.45,influenza like illness
+1712,leg soreness,pain in extremity,10033473,LIPITOR.233,pain of lower extremities
+1713,lethargy,lethargy,10024264,LIPITOR.233,lethargy
+1714,leg cramps,muscle spasms,10011301,LIPITOR.95,cramps of lower extremities
+1715,cramps,muscle spasms,10028294,LIPITOR.95,muscle cramp
+1716,thigh soreness,pain in extremity,10048973,LIPITOR.336,pain in thigh
+1717,sporadic lower abdominal cramping,learning disorder,10061265,LIPITOR.336,learning disorder
+1718,sleepy,somnolence,10013649,LIPITOR.336,drowsiness
+1719,"good cholesterol is whacked, lowered",blood cholesterol decreased,10005424,LIPITOR.336,blood cholesterol decreased
+1720,gas,flatulence,10016766,LIPITOR.336,flatulence
+1721,food cravings,food craving,10056465,LIPITOR.336,food craving
+1722,very fatigued,fatigue,10016256,LIPITOR.336,fatigue
+1723,constant alert,hypervigilance,10021683,LIPITOR.179,increased state of alertness
+1724,extremely hyper,psychomotor hyperactivity,10004208,LIPITOR.179,behaviour hyperactive
+1725,hyperactive,psychomotor hyperactivity,10004208,LIPITOR.179,behaviour hyperactive
+1726,fatique,fatigue,10016256,LIPITOR.214,fatigue
+1727,windy,flatulence,10016766,LIPITOR.214,flatulence
+1728,gas/wind,flatulence,10016766,LIPITOR.214,flatulence
+1729,high cpk,blood creatinine increased,10011368,LIPITOR.564,creatinine increased
+1730,extreme heaviness in limbs,limb discomfort,10019349,LIPITOR.564,heaviness in limbs
+1731,buzzing in limbs,paraesthesia,10043880,LIPITOR.564,tingling sensation
+1732,imence pain in legs,pain,10033371,LIPITOR.564,pain
+1733,imence pain in legs,pain in extremity,10033473,LIPITOR.564,pain of lower extremities
+1734,tingling,paraesthesia,10035067,LIPITOR.564,pins and needles
+1735,cramping in toes,muscle spasms,10016964,LIPITOR.564,foot cramps
+1736,armpain,pain in extremity,10071701,LIPITOR.564,pain in upper extremities
+1737,imence pain in feet,pain in extremity,10016974,LIPITOR.564,foot pain
+1738,confusion,confusional state,10010300,LIPITOR.564,confusion
+1739,imence pain in calf,pain in extremity,10007031,LIPITOR.564,calf pain
+1740,big time depression,depression,10012378,LIPITOR.564,depression
+1741,imence pain in calf,pain,10033371,LIPITOR.564,pain
+1742,cramping in legs,muscle spasms,10011301,LIPITOR.564,cramps of lower extremities
+1743,bloody noes,epistaxis,10005124,LIPITOR.564,bleeding nose
+1744,short term memory is terrible,memory impairment,10068446,LIPITOR.564,short-term memory impairment
+1745,cramping in feet,muscle spasms,10016964,LIPITOR.564,foot cramps
+1746,swelling,swelling,10042674,LIPITOR.564,swelling
+1747,backache,back pain,10003993,LIPITOR.564,backache
+1748,imence pain in feet,pain,10033371,LIPITOR.564,pain
+1749,insomnia,insomnia,10022437,LIPITOR.976,insomnia
+1750,muscles on the sides of my back were constantly painful,myalgia intercostal,10022531,LIPITOR.976,intercostal myalgia
+1751,could not sleep,insomnia,10041017,LIPITOR.976,sleeplessness
+1752,muscle pain in back,back pain,10003993,LIPITOR.976,backache
+1753,painful,pain,10033371,LIPITOR.138,pain
+1754,severe leg cramping,muscle spasms,10011301,LIPITOR.138,cramps of lower extremities
+1755,numb,hypoaesthesia,10029829,LIPITOR.138,numbness
+1756,permanent nerve damage to my feet,nerve injury,10052897,LIPITOR.138,nerve injury
+1757,nerve damage,nerve injury,10052897,LIPITOR.138,nerve injury
+1758,leg cramps,muscle spasms,10011301,LIPITOR.929,cramps of lower extremities
+1759,major cramps,muscle spasms,10028294,ARTHROTEC.132,muscle cramp
+1760,blood in my stools,haematochezia,10018836,ARTHROTEC.132,haematochezia
+1761,pain,pain,10033371,ARTHROTEC.132,pain
+1762,lack of energy,asthenia,10024862,LIPITOR.580,loss of energy
+1763,depressions,depression,10012378,LIPITOR.580,depression
+1764,cramps in thigh,muscle spasms,10011301,LIPITOR.599,cramps of lower extremities
+1765,anzity,anxiety,10002855,LIPITOR.107,anxiety
+1766,metal moods,mood swings,10027952,LIPITOR.107,mood variable
+1767,joint pain,arthralgia,10003239,LIPITOR.107,arthralgia
+1768,memory trouble,memory impairment,10027175,LIPITOR.107,memory impairment
+1769,stomach ulcers,gastric ulcer,10017822,LIPITOR.107,gastric ulcer
+1770,stomach ulcer,gastric ulcer,10017822,LIPITOR.107,gastric ulcer
+1771,kidney troubles,nephropathy,10051051,LIPITOR.107,renal disease
+1772,severe back pain,back pain,10003993,LIPITOR.513,backache
+1773,severe back pain,pain,10033371,LIPITOR.513,pain
+1774,extreme fatigue,asthenia,10003549,LIPITOR.513,asthenia
+1775,mentally in a daze,confusional state,10010300,LIPITOR.513,confusion
+1776,severe muscle pain in shoulders,pain,10033371,LIPITOR.54,pain
+1777,shoulder pain,arthralgia,10040617,LIPITOR.54,shoulder pain
+1778,difficulty with memory,memory impairment,10027175,LIPITOR.54,memory impairment
+1779,severe back spasm,muscle spasms,10067893,LIPITOR.54,back muscle spasms
+1780,severe muscle pain in shoulders,arthralgia,10040617,LIPITOR.54,shoulder pain
+1781,cramp,muscle spasms,10028294,LIPITOR.54,muscle cramp
+1782,cramping in back muscles,muscle spasms,10028294,LIPITOR.54,muscle cramp
+1783,pain,pain,10033371,LIPITOR.54,pain
+1784,inflammation,inflammation,10061218,LIPITOR.54,inflammation
+1785,cramping in hamstrings,muscle spasms,10011301,LIPITOR.54,cramps of lower extremities
+1786,cramping in calves,muscle spasms,10011294,LIPITOR.54,cramps calf
+1787,losing strength,muscular weakness,10028350,LIPITOR.54,muscle weakness
+1788,leg and foot cramping,muscle spasms,10016964,LIPITOR.164,foot cramps
+1789,joint and muscle pain,myalgia,10028411,LIPITOR.164,myalgia
+1790,leg and foot cramping,muscle spasms,10011301,LIPITOR.164,cramps of lower extremities
+1791,joint and muscle pain,arthralgia,10003239,LIPITOR.164,arthralgia
+1792,rash with blisters,dermatitis bullous,10006569,LIPITOR.639,bullous rash
+1793,joint pain,arthralgia,10003239,LIPITOR.639,arthralgia
+1794,no energy,asthenia,10024862,LIPITOR.639,loss of energy
+1795,extremely tired feeling,fatigue,10043890,LIPITOR.639,tiredness
+1796,severe muscle aches,myalgia,10028411,LIPITOR.639,myalgia
+1797,little gas,flatulence,10016766,ARTHROTEC.111,flatulence
+1798,depression,depression,10012378,LIPITOR.902,depression
+1799,finger joints locking up,joint stiffness,10023230,LIPITOR.902,joint stiffness
+1800,finger stiffness,musculoskeletal stiffness,10042045,LIPITOR.902,stiffness
+1801,pain,pain,10033371,LIPITOR.902,pain
+1802,locking fingers,joint lock,10061258,LIPITOR.902,joint lock
+1803,tingling,paraesthesia,10035067,LIPITOR.480,pins and needles
+1804,periphiral neuropathy,neuropathy peripheral,10034610,LIPITOR.480,peripheral neuropathy nos
+1805,diarhea,diarrhoea,10012735,LIPITOR.532,diarrhoea
+1806,gas,flatulence,10016766,LIPITOR.532,flatulence
+1807,burping,eructation,10006804,LIPITOR.532,burping
+1808,stomach pain,abdominal pain upper,10042076,LIPITOR.532,stomach ache
+1809,slight muscle aches in my back,back pain,10003993,LIPITOR.852,backache
+1810,light-headedness feeling,dizziness,10024492,LIPITOR.800,lightheadedness
+1811,dizzy,dizziness,10013573,LIPITOR.800,dizziness
+1812,fuzzy,mental impairment,10012805,LIPITOR.800,difficulty thinking
+1813,mild insomnia,insomnia,10022437,LIPITOR.800,insomnia
+1814,low grade headache,headache,10019211,LIPITOR.800,headache
+1815,poor concentration,disturbance in attention,10036149,LIPITOR.800,poor concentration
+1816,gas,flatulence,10016766,LIPITOR.169,flatulence
+1817,heel pain,pain in extremity,10033431,LIPITOR.169,pain in heel
+1818,loose stools,diarrhoea,10024840,LIPITOR.169,loose stools
+1819,hurts to get up in the morning,pain,10033376,LIPITOR.786,pain aggravated
+1820,bottom of my foot is extremely tender,pain in extremity,10016974,LIPITOR.786,foot pain
+1821,hurts to get out of a chair,pain,10033376,LIPITOR.786,pain aggravated
+1822,right foot hurts,pain in extremity,10016974,LIPITOR.786,foot pain
+1823,extremely tender calves,pain,10033371,LIPITOR.786,pain
+1824,right knee is so painful,arthralgia,10023477,LIPITOR.786,knee pain
+1825,hurts to go up stairs,pain,10033376,LIPITOR.786,pain aggravated
+1826,extremely tender calves,pain in extremity,10007031,LIPITOR.786,calf pain
+1827,spasms in upper thighs,muscle spasms,10041408,LIPITOR.786,spasms
+1828,severe abdominal cramping,learning disorder,10061265,ARTHROTEC.37,learning disorder
+1829,severe cramping,muscle spasms,10028294,ARTHROTEC.37,muscle cramp
+1830,massive diarrhea,diarrhoea,10012735,ARTHROTEC.37,diarrhoea
+1831,stomach pain,abdominal pain upper,10042076,LIPITOR.176,stomach ache
+1832,pain,pain,10033371,LIPITOR.176,pain
+1833,urge to urinate constantly,micturition urgency,10046593,LIPITOR.176,urinary urgency
+1834,severe leg cramping,muscle spasms,10011301,LIPITOR.176,cramps of lower extremities
+1835,could barely walk across the room,gait disturbance,10047810,LIPITOR.2,walking difficulty
+1836,fatigue,fatigue,10016256,LIPITOR.2,fatigue
+1837,extreme weakness,asthenia,10003549,LIPITOR.2,asthenia
+1838,general malaise,malaise,10025482,LIPITOR.30,malaise
+1839,weak feeling,asthenia,10003549,LIPITOR.30,asthenia
+1840,muscle pain in left arm,myalgia,10028411,LIPITOR.30,myalgia
+1841,leg pain,pain in extremity,10033473,LIPITOR.606,pain of lower extremities
+1842,pain in my my left leg,pain in extremity,10033446,LIPITOR.606,pain in leg
+1843,tiredness,fatigue,10043890,LIPITOR.606,tiredness
+1844,soreness in muscles,myalgia,10028411,LIPITOR.606,myalgia
+1845,muscle ache,myalgia,10028411,LIPITOR.139,myalgia
+1846,cataract,cataract,10007739,LIPITOR.139,cataract
+1847,can't eat normal,feeding disorder,10069830,DICLOFENAC-POTASSIUM.3,unable to eat
+1848,esofogual uclers,oesophageal ulcer,10056090,DICLOFENAC-POTASSIUM.3,ulcer oesophageal
+1849,throat pain,oropharyngeal pain,10033494,DICLOFENAC-POTASSIUM.3,pain throat
+1850,couldn't eat or drink,feeding disorder,10069830,DICLOFENAC-POTASSIUM.3,unable to eat
+1851,diarrhea,diarrhoea,10012735,VOLTAREN.37,diarrhoea
+1852,pain in lower back,back pain,10024891,LIPITOR.219,low back pain
+1853,couldn't walk,gait disturbance,10047810,LIPITOR.219,walking difficulty
+1854,needed to rest every few minutes,fatigue,10016256,LIPITOR.219,fatigue
+1855,pain in forearms,pain in extremity,10071701,LIPITOR.219,pain in upper extremities
+1856,pain in both calves and thighs,pain in extremity,10048973,LIPITOR.219,pain in thigh
+1857,pain in shoulder,arthralgia,10040617,LIPITOR.219,shoulder pain
+1858,pain in both calves and thighs,pain in extremity,10033422,LIPITOR.219,pain in calf
+1859,pain,pain,10033371,LIPITOR.219,pain
+1860,horrible pain,pain,10033371,LIPITOR.870,pain
+1861,left foot started hurting,pain in extremity,10016974,LIPITOR.870,foot pain
+1862,pain,pain,10033371,LIPITOR.870,pain
+1863,sharp pain in the ball of my right foot,pain in extremity,10033425,LIPITOR.870,pain in extremity
+1864,sharp pain in the ball of my right foot,pain,10033371,LIPITOR.870,pain
+1865,eyes get blury,vision blurred,10005886,LIPITOR.258,blurred vision
+1866,lost my ability to walk,gait inability,10049278,LIPITOR.258,unable to walk
+1867,nerve damage,nerve injury,10052897,LIPITOR.258,nerve injury
+1868,pain,pain,10033371,LIPITOR.258,pain
+1869,shufflihg gait,gait disturbance,10017584,LIPITOR.258,gait shuffling
+1870,could not walk,gait disturbance,10047810,LIPITOR.258,walking difficulty
+1871,hairloss,alopecia,10019045,LIPITOR.258,hair loss
+1872,muscle weakness,muscular weakness,10028350,LIPITOR.258,muscle weakness
+1873,spots on my body,rash,10037844,LIPITOR.258,rash
+1874,hair loss,alopecia,10019045,LIPITOR.258,hair loss
+1875,weakness,asthenia,10003549,LIPITOR.258,asthenia
+1876,ringing in my ears,tinnitus,10039183,LIPITOR.258,ringing in ears
+1877,memory loss,amnesia,10001949,LIPITOR.258,amnesia
+1878,aphasia,aphasia,10002948,LIPITOR.258,aphasia
+1879,red spots all over my body,rash,10037844,LIPITOR.258,rash
+1880,slowed speach,slow speech,10071299,LIPITOR.258,slow speech
+1881,lower back pain,back pain,10024891,LIPITOR.555,low back pain
+1882,stiffness in joints,joint stiffness,10023230,LIPITOR.555,joint stiffness
+1883,arms painful,pain in extremity,10071701,LIPITOR.486,pain in upper extremities
+1884,joint pain,arthralgia,10003239,LIPITOR.486,arthralgia
+1885,pain,pain,10033371,LIPITOR.486,pain
+1886,muscle pain,myalgia,10028411,LIPITOR.486,myalgia
+1887,fatigue,fatigue,10016256,LIPITOR.7,fatigue
+1888,joint pain,arthralgia,10003239,LIPITOR.7,arthralgia
+1889,short term memory dysfunction,memory impairment,10068446,LIPITOR.7,short-term memory impairment
+1890,severe joint pains,arthralgia,10003239,LIPITOR.7,arthralgia
+1891,dys-motility,gastrointestinal motility disorder,10048466,LIPITOR.7,bowel motility disorder
+1892,irritable bowel syndrome of the sigmoid area and descending colon with obstipation and constipation,irritable bowel syndrome,10066868,LIPITOR.7,constipation predominant irritable bowel syndrome
+1893,fatigue,fatigue,10016256,LIPITOR.121,fatigue
+1894,fatigued,fatigue,10016256,LIPITOR.121,fatigue
+1895,laziness,apathy,10023614,LIPITOR.121,lack of motivation
+1896,unmotivated,apathy,10023614,LIPITOR.121,lack of motivation
+1897,felt lazy,apathy,10023614,LIPITOR.121,lack of motivation
+1898,skin rash back of my neck,rash,10037844,VOLTAREN.35,rash
+1899,wheezing,wheezing,10047921,VOLTAREN.35,wheeze
+1900,pain,pain,10033371,LIPITOR.395,pain
+1901,achiness,pain,10033371,LIPITOR.395,pain
+1902,heels hurt,pain in extremity,10033431,LIPITOR.395,pain in heel
+1903,numbness,hypoaesthesia,10029829,LIPITOR.395,numbness
+1904,tingling,paraesthesia,10035067,LIPITOR.395,pins and needles
+1905,knuckles are so swollen,peripheral swelling,10042694,LIPITOR.395,swelling of fingers
+1906,twitching around my mouth,muscle twitching,10045198,LIPITOR.395,twitching
+1907,hallucinations,hallucination,10019063,LIPITOR.154,hallucination
+1908,paranoia,"delusional disorder, unspecified type",10012255,LIPITOR.154,"delusional disorder, unspecified type"
+1909,memory loss,amnesia,10001949,LIPITOR.154,amnesia
+1910,migranes during sexual intercourse,migraine,10027599,LIPITOR.514,migraine
+1911,ocular migranes,migraine with aura,10030867,LIPITOR.514,ophthalmic migraine
+1912,migranes,migraine,10027599,LIPITOR.514,migraine
+1913,severe abdominal pain,abdominal pain,10000081,ARTHROTEC.143,abdominal pain
+1914,bowel/uterine cramping,abdominal pain,10000055,ARTHROTEC.143,abdominal colic
+1915,bowel/uterine cramping,uterine spasm,10041404,ARTHROTEC.143,spasm uterine
+1916,severe pain,pain,10033371,ARTHROTEC.143,pain
+1917,severe abdominal pain,pain,10033371,ARTHROTEC.143,pain
+1918,sweating,hyperhidrosis,10042661,ARTHROTEC.22,sweating
+1919,severe abdominal cramping,learning disorder,10061265,ARTHROTEC.22,learning disorder
+1920,dry mouth,dry mouth,10013781,ARTHROTEC.22,dry mouth
+1921,vaginal bleeding,vaginal haemorrhage,10046883,ARTHROTEC.22,vaginal bleeding
+1922,dry mouth,aptyalism,10003068,ARTHROTEC.22,aptyalism
+1923,acid reflux,gastrooesophageal reflux disease,10000479,ARTHROTEC.22,acid reflux (oesophageal)
+1924,period cramps,dysmenorrhoea,10027323,ARTHROTEC.22,menstrual cramp
+1925,pain,pain,10033371,ARTHROTEC.22,pain
+1926,diarrhea,diarrhoea,10012735,ARTHROTEC.22,diarrhoea
+1927,pain in leg,pain in extremity,10033473,LIPITOR.392,pain of lower extremities
+1928,couldn't walk,gait disturbance,10047810,LIPITOR.392,walking difficulty
+1929,severe lower back pain,pain,10033371,LIPITOR.392,pain
+1930,back pain,back pain,10003993,LIPITOR.392,backache
+1931,severe lower back pain,back pain,10024891,LIPITOR.392,low back pain
+1932,hard to walk,gait disturbance,10047810,LIPITOR.392,walking difficulty
+1933,muscle pain,myalgia,10028411,LIPITOR.1,myalgia
+1934,irritable,irritability,10023000,LIPITOR.1,irritable
+1935,neuropathy,neuropathy peripheral,10029328,LIPITOR.1,neuropathy
+1936,leg cramps,muscle spasms,10011301,LIPITOR.1,cramps of lower extremities
+1937,fatigue,fatigue,10016256,LIPITOR.1,fatigue
+1938,pain in feet,pain in extremity,10016974,LIPITOR.1,foot pain
+1939,achy muscles,myalgia,10028411,LIPITOR.202,myalgia
+1940,hip soreness,arthralgia,10033432,LIPITOR.660,pain in hip
+1941,leg soreness,pain in extremity,10033473,LIPITOR.660,pain of lower extremities
+1942,increase in level of fatigue,fatigue,10016256,LIPITOR.660,fatigue
+1943,feels like my joints don't want to work,arthropathy,10003285,LIPITOR.660,arthropathy
+1944,myopathy,muscle disorder,10013237,LIPITOR.806,disorder muscle
+1945,severe pains in my arms,pain in extremity,10071701,LIPITOR.806,pain in upper extremities
+1946,severe pains in my arms,pain,10033371,LIPITOR.806,pain
+1947,tiredness,fatigue,10043890,LIPITOR.806,tiredness
+1948,dementia,dementia,10012267,LIPITOR.98,dementia
+1949,rash,rash,10037844,LIPITOR.807,rash
+1950,eczema,eczema,10014184,LIPITOR.807,eczema
+1951,massive triangular rash on my forehead,rash,10037844,LIPITOR.807,rash
+1952,skin was very red and rough,erythema,10040842,LIPITOR.807,skin erythema
+1953,extreme tiredness,fatigue,10016256,LIPITOR.725,fatigue
+1954,nausea,nausea,10028813,LIPITOR.725,nausea
+1955,diarrhea,diarrhoea,10012735,LIPITOR.725,diarrhoea
+1956,memory loss,amnesia,10001949,LIPITOR.725,amnesia
+1957,extreme vomiting,vomiting,10047700,LIPITOR.725,vomiting
+1958,blood pressure slightly elevated,blood pressure increased,10021655,ARTHROTEC.140,increased blood pressure
+1959,hardly walk,gait disturbance,10047810,LIPITOR.124,walking difficulty
+1960,muscle pain,myalgia,10028411,LIPITOR.124,myalgia
+1961,mood changes,pain in extremity,10033428,LIPITOR.124,pain in fingers
+1962,muscle wasting,muscle atrophy,10028289,LIPITOR.124,muscle atrophy
+1963,cramps in my feet,muscle spasms,10016964,LIPITOR.9,foot cramps
+1964,mental fog,mental impairment,10027371,LIPITOR.9,mental dullness
+1965,pain in the lower part of my knees,pain,10033371,LIPITOR.9,pain
+1966,fatigue,fatigue,10016256,LIPITOR.9,fatigue
+1967,numbness,hypoaesthesia,10029829,LIPITOR.245,numbness
+1968,tingling,paraesthesia,10035067,LIPITOR.245,pins and needles
+1969,weakness in his knees,muscular weakness,10047868,LIPITOR.689,weakness of limbs
+1970,pains in his legs,pain in extremity,10033473,LIPITOR.689,pain of lower extremities
+1971,loss of balance,balance disorder,10004070,LIPITOR.401,balance difficulty
+1972,feeling weak,asthenia,10003549,LIPITOR.401,asthenia
+1973,could'nt walk,gait disturbance,10047810,LIPITOR.401,walking difficulty
+1974,sore legs,pain in extremity,10033473,LIPITOR.401,pain of lower extremities
+1975,lack of concentration,disturbance in attention,10010248,LIPITOR.401,concentration ability impaired
+1976,slurred speach,dysarthria,10041053,LIPITOR.401,slurred speech
+1977,could'nt concentrate,disturbance in attention,10010248,LIPITOR.401,concentration ability impaired
+1978,weak legs,muscular weakness,10047868,LIPITOR.401,weakness of limbs
+1979,barely remember anything that has happened recently,memory impairment,10027175,LIPITOR.401,memory impairment
+1980,loss of short term memory,memory impairment,10068446,LIPITOR.401,short-term memory impairment
+1981,calf pain,pain in extremity,10033422,LIPITOR.147,pain in calf
+1982,muscle strain,muscle strain,10050031,LIPITOR.147,muscle strain
+1983,muscle pull,muscle strain,10050031,LIPITOR.147,muscle strain
+1984,calf muscle strains,muscle strain,10042164,LIPITOR.147,strain
+1985,severe muscle pull/strain,muscle strain,10050031,LIPITOR.147,muscle strain
+1986,pulled/strained calf,muscle strain,10042164,LIPITOR.147,strain
+1987,skin rash,rash,10037844,LIPITOR.100,rash
+1988,pain,pain,10033371,LIPITOR.100,pain
+1989,itch,pruritus,10023084,LIPITOR.100,itching
+1990,cant sleep,insomnia,10022437,LIPITOR.100,insomnia
+1991,could hardly walk,gait disturbance,10047810,LIPITOR.465,walking difficulty
+1992,muscles in my lower abdomen started to contract,muscle tightness,10070541,LIPITOR.465,muscle tension
+1993,wrist pain,arthralgia,10048692,LIPITOR.465,wrist pain
+1994,muscles cramp,muscle spasms,10028294,LIPITOR.465,muscle cramp
+1995,swollen foot,peripheral swelling,10042693,LIPITOR.465,swelling of feet
+1996,cramps,muscle spasms,10028294,LIPITOR.465,muscle cramp
+1997,painful to walk,pain,10033376,LIPITOR.465,pain aggravated
+1998,pain,pain,10033371,LIPITOR.465,pain
+1999,tiredness in leg,muscle fatigue,10049565,LIPITOR.465,muscle fatigue
+2000,loss of balance,balance disorder,10004070,LIPITOR.661,balance difficulty
+2001,general weakness,flatulence,10016766,LIPITOR.661,flatulence
+2002,constant leg pain,pain in extremity,10033473,LIPITOR.661,pain of lower extremities
+2003,sore legs,pain in extremity,10033473,LIPITOR.661,pain of lower extremities
+2004,constant leg pain,pain,10033371,LIPITOR.661,pain
+2005,bottoms of my feet hurt,pain in extremity,10016974,LIPITOR.661,foot pain
+2006,terrible pain in my feet,pain in extremity,10016974,LIPITOR.661,foot pain
+2007,tingling toes,paraesthesia,10035067,LIPITOR.661,pins and needles
+2008,numb toes,hypoaesthesia,10049800,LIPITOR.661,numbness in feet
+2009,sore ankles,arthralgia,10033379,LIPITOR.661,pain ankle
+2010,terrible pain in my ankles,arthralgia,10033379,LIPITOR.661,pain ankle
+2011,feet pains,pain in extremity,10016974,LIPITOR.669,foot pain
+2012,chest hurt,chest pain,10008479,LIPITOR.669,chest pain
+2013,head hurt,headache,10019211,LIPITOR.669,headache
+2014,rashes,rash,10037844,LIPITOR.669,rash
+2015,pains in legs,pain in extremity,10033473,LIPITOR.669,pain of lower extremities
+2016,toes hurt,pain in extremity,10033452,LIPITOR.669,pain in toe
+2017,fingers hurt,pain in extremity,10033428,LIPITOR.669,pain in fingers
+2018,pains neck,neck pain,10028836,LIPITOR.669,neck pain
+2019,jointaches,arthralgia,10003239,LIPITOR.669,arthralgia
+2020,pains hips,arthralgia,10033432,LIPITOR.669,pain in hip
+2021,backpain,back pain,10003993,LIPITOR.669,backache
+2022,ribs hurt,musculoskeletal chest pain,10048722,LIPITOR.669,rib pain
+2023,itches,pruritus,10023084,LIPITOR.669,itching
+2024,musclesoreness,myalgia,10028411,LIPITOR.669,myalgia
+2025,very tired,fatigue,10043890,LIPITOR.589,tiredness
+2026,muscle pain,myalgia,10028411,LIPITOR.589,myalgia
+2027,neurophaty,neuropathy peripheral,10029328,LIPITOR.589,neuropathy
+2028,vision problems,visual impairment,10047543,LIPITOR.589,visual disturbance
+2029,ankle pain,arthralgia,10033379,LIPITOR.589,pain ankle
+2030,muscles stiff,muscle rigidity,10028330,LIPITOR.441,muscle rigidity
+2031,muscles slightly sore,myalgia,10028411,LIPITOR.441,myalgia
+2032,not being able to walk,gait inability,10049278,LIPITOR.441,unable to walk
+2033,cpk spike,blood creatinine increased,10037825,LIPITOR.441,raised serum creatinine
+2034,pain,pain,10033371,LIPITOR.441,pain
+2035,rhabdomyolysis,rhabdomyolysis,10039020,LIPITOR.441,rhabdomyolysis
+2036,extreme pain in thigh muscles,myalgia,10028411,LIPITOR.441,myalgia
+2037,extreme pain in thigh muscles,pain,10033371,LIPITOR.441,pain
+2038,overall loss of muscle tone,hypotonia,10011973,LIPITOR.890,decreased muscle tone
+2039,inability to walk with left foot pain,gait disturbance,10047810,LIPITOR.890,walking difficulty
+2040,memory loss,amnesia,10001949,LIPITOR.890,amnesia
+2041,inability to walk with left foot pain,pain in extremity,10016974,LIPITOR.890,foot pain
+2042,muscle pain,myalgia,10028411,LIPITOR.890,myalgia
+2043,weakness,asthenia,10003549,LIPITOR.539,asthenia
+2044,cramping,muscle spasms,10028294,LIPITOR.539,muscle cramp
+2045,slurred speech,dysarthria,10041053,LIPITOR.539,slurred speech
+2046,difficulty swallowing,dysphagia,10042645,LIPITOR.539,swallowing difficult
+2047,muscle spasms,muscle spasms,10028294,LIPITOR.539,muscle cramp
+2048,goiter,goitre,10018498,LIPITOR.641,goitre
+2049,chest pains,chest pain,10008479,LIPITOR.641,chest pain
+2050,weakness in my arms,muscular weakness,10047868,LIPITOR.641,weakness of limbs
+2051,leaky heart valves,heart valve incompetence,10067673,LIPITOR.641,heart valve regurgitation
+2052,neuropthy in both feet,neuropathy peripheral,10029328,LIPITOR.641,neuropathy
+2053,fatty liver,hepatic steatosis,10041970,LIPITOR.641,steatosis hepatic
+2054,insomnia,insomnia,10022437,LIPITOR.977,insomnia
+2055,muscle pains,myalgia,10028411,LIPITOR.977,myalgia
+2056,gastric upsets,flatulence,10016766,LIPITOR.977,flatulence
+2057,anxiety,anxiety,10002855,LIPITOR.977,anxiety
+2058,joint pains,arthralgia,10003239,LIPITOR.977,arthralgia
+2059,memory loss,amnesia,10001949,LIPITOR.977,amnesia
+2060,frozen shoulder,periarthritis,10001286,LIPITOR.977,adhesive capsulitis of shoulder
+2061,calf pain,pain in extremity,10033422,LIPITOR.596,pain in calf
+2062,thigh pain,pain in extremity,10048973,LIPITOR.596,pain in thigh
+2063,ankle pain,arthralgia,10033379,LIPITOR.596,pain ankle
+2064,everything on my body hurts,pain,10018074,LIPITOR.596,generalised aching
+2065,very tired,fatigue,10043890,LIPITOR.596,tiredness
+2066,toe cramps,muscle spasms,10011301,LIPITOR.770,cramps of lower extremities
+2067,calf cramps,muscle spasms,10011294,LIPITOR.770,cramps calf
+2068,muscle twitches,muscle twitching,10028346,LIPITOR.770,muscle twitch
+2069,elevated bloodb pressure,blood pressure increased,10014474,VOLTAREN.24,elevated blood pressure reading without diagnosis of hypertension
+2070,dizziness,dizziness,10013573,VOLTAREN.24,dizziness
+2071,chest discomfort,chest discomfort,10008469,VOLTAREN-XR.3,chest discomfort
+2072,abdominal pressure,abdominal discomfort,10000059,VOLTAREN-XR.3,abdominal discomfort
+2073,extreme abdominal issues,abdominal symptom,10000095,VOLTAREN-XR.3,abdominal symptom nos
+2074,diarrhea,diarrhoea,10012735,VOLTAREN-XR.3,diarrhoea
+2075,anxious,anxiety,10002855,LIPITOR.135,anxiety
+2076,could not eat,feeding disorder,10069830,LIPITOR.135,unable to eat
+2077,gas,flatulence,10016766,LIPITOR.135,flatulence
+2078,bloating,abdominal distension,10005265,LIPITOR.135,bloating
+2079,paranoid,"delusional disorder, unspecified type",10012255,LIPITOR.135,"delusional disorder, unspecified type"
+2080,could not sleep,insomnia,10041017,LIPITOR.135,sleeplessness
+2081,gassy,walking disability,10053204,LIPITOR.135,walking disability
+2082,ill feeling,malaise,10025482,LIPITOR.135,malaise
+2083,belly blew up,abdominal distension,10000061,LIPITOR.135,abdominal distension gaseous
+2084,headache,headache,10019211,LIPITOR.135,headache
+2085,mood swings,pain in extremity,10033428,LIPITOR.135,pain in fingers
+2086,gas/wind,flatulence,10016766,LIPITOR.275,flatulence
+2087,tiredness,fatigue,10043890,LIPITOR.275,tiredness
+2088,severe back pain,back pain,10003993,LIPITOR.91,backache
+2089,severe back pain,pain,10033371,LIPITOR.91,pain
+2090,pains,pain,10033371,LIPITOR.91,pain
+2091,loss of energy,asthenia,10024862,LIPITOR.91,loss of energy
+2092,depression,depression,10012378,LIPITOR.91,depression
+2093,muscles pain,myalgia,10028411,LIPITOR.91,myalgia
+2094,loss of strength,muscular weakness,10028350,LIPITOR.765,muscle weakness
+2095,severe weight loss,weight decreased,10047900,LIPITOR.765,weight loss
+2096,muscle pain,myalgia,10028411,LIPITOR.765,myalgia
+2097,memory loss,amnesia,10001949,LIPITOR.526,amnesia
+2098,feel like shit all the time,malaise,10025482,LIPITOR.526,malaise
+2099,extreme leg pain in the calves,pain,10033371,LIPITOR.526,pain
+2100,vision is giving me problems,visual impairment,10047543,LIPITOR.526,visual disturbance
+2101,brain fog,mental impairment,10027371,LIPITOR.526,mental dullness
+2102,extreme leg pain in the calves,pain in extremity,10007031,LIPITOR.526,calf pain
+2103,sleepy all or most sf the time,somnolence,10041014,LIPITOR.843,sleepiness
+2104,pain in foot,pain in extremity,10016974,LIPITOR.618,foot pain
+2105,pain in knee,arthralgia,10023477,LIPITOR.618,knee pain
+2106,appetite increase,increased appetite,10021654,ARTHROTEC.118,increased appetite
+2107,room spinning,vertigo,10047340,LIPITOR.527,vertigo
+2108,vision problems - seeing two or three of everything,visual impairment,10047543,LIPITOR.527,visual disturbance
+2109,nausea,nausea,10028813,LIPITOR.527,nausea
+2110,dizziness,dizziness,10013573,LIPITOR.527,dizziness
+2111,vertigo,vertigo,10047340,LIPITOR.527,vertigo
+2112,joint pain,arthralgia,10003239,LIPITOR.1000,arthralgia
+2113,knee pain,arthralgia,10023477,LIPITOR.1000,knee pain
+2114,pain,pain,10033371,LIPITOR.1000,pain
+2115,left shoulder is terribly painful,arthralgia,10040617,LIPITOR.1000,shoulder pain
+2116,low libido,libido decreased,10024419,LIPITOR.1000,libido decreased
+2117,inflamation,inflammation,10061218,LIPITOR.1000,inflammation
+2118,shoulder pain,arthralgia,10040617,LIPITOR.1000,shoulder pain
+2119,brain fog,mental impairment,10027371,LIPITOR.1000,mental dullness
+2120,memory fog,memory impairment,10027175,LIPITOR.1000,memory impairment
+2121,elbow pain,arthralgia,10033424,LIPITOR.1000,pain in elbow
+2122,anxiety,anxiety,10002855,LIPITOR.1000,anxiety
+2123,impaired my ability to take long walks,exercise tolerance decreased,10065629,LIPITOR.713,decreased exercise endurance
+2124,leg pain,pain in extremity,10033473,LIPITOR.713,pain of lower extremities
+2125,impaired my ability to exercise,exercise tolerance decreased,10065629,LIPITOR.713,decreased exercise endurance
+2126,calf muscle cramping,muscle spasms,10011294,LIPITOR.713,cramps calf
+2127,discomfort,discomfort,10013092,LIPITOR.713,discomfort nos
+2128,leg cramping,muscle spasms,10011301,LIPITOR.713,cramps of lower extremities
+2129,severe leg muscle pain,myalgia,10028411,LIPITOR.713,myalgia
+2130,severe leg muscle pain,pain,10033371,LIPITOR.713,pain
+2131,leg muscle pain,myalgia,10028411,LIPITOR.713,myalgia
+2132,fuzzy vision,vision blurred,10005886,LIPITOR.435,blurred vision
+2133,vision problems,visual impairment,10047543,LIPITOR.435,visual disturbance
+2134,migraine,migraine,10027599,LIPITOR.435,migraine
+2135,tintinitus,tinnitus,10043882,LIPITOR.435,tinnitus
+2136,severe muscle pain,pain,10033371,LIPITOR.442,pain
+2137,muscle pains,myalgia,10028411,LIPITOR.442,myalgia
+2138,severe muscle pain,myalgia,10028411,LIPITOR.442,myalgia
+2139,extreme headaches,headache,10019211,LIPITOR.551,headache
+2140,sweating alot,hyperhidrosis,10042667,LIPITOR.551,sweating increased
+2141,flu like symtoms,influenza like illness,10022004,LIPITOR.551,influenza like illness
+2142,muscle pain,myalgia,10028411,LIPITOR.68,myalgia
+2143,unable to sleep,insomnia,10041017,LIPITOR.68,sleeplessness
+2144,unable to walk,gait inability,10049278,LIPITOR.68,unable to walk
+2145,insomnia,insomnia,10022437,LIPITOR.485,insomnia
+2146,fatigue,fatigue,10016256,LIPITOR.485,fatigue
+2147,leg cramps,muscle spasms,10011301,LIPITOR.485,cramps of lower extremities
+2148,terrible nightmares,nightmare,10029414,LIPITOR.485,nightmares
+2149,muscle stiffness,muscle rigidity,10028330,LIPITOR.84,muscle rigidity
+2150,joint stiffness,joint stiffness,10023230,LIPITOR.84,joint stiffness
+2151,sore ribs,musculoskeletal chest pain,10048722,LIPITOR.84,rib pain
+2152,liver enzymes to rise,hepatic enzyme abnormal,10024677,LIPITOR.84,liver enzyme abnormal
+2153,dizzy,dizziness,10013573,ARTHROTEC.17,dizziness
+2154,gastric bleed,flatulence,10016766,ARTHROTEC.17,flatulence
+2155,gi bleed,flatulence,10016766,ARTHROTEC.17,flatulence
+2156,light headed,dizziness,10024492,ARTHROTEC.17,lightheadedness
+2157,abdominal pain,abdominal pain,10000081,ARTHROTEC.17,abdominal pain
+2158,lower abdominal pain,abdominal pain,10000081,ARTHROTEC.17,abdominal pain
+2159,anemia,anaemia,10002034,ARTHROTEC.17,anaemia
+2160,heavy menstrual bleeding,menorrhagia,10027313,ARTHROTEC.17,menorrhagia
+2161,mentstrual cramps,dysmenorrhoea,10027323,ARTHROTEC.17,menstrual cramp
+2162,acidic bile at the back of my throat,gastrooesophageal reflux disease,10000479,ARTHROTEC.17,acid reflux (oesophageal)
+2163,abdominal pain,abdominal pain,10000081,ARTHROTEC.108,abdominal pain
+2164,dizzieness,dizziness,10013573,ARTHROTEC.108,dizziness
+2165,blood clots in urine,haematuria,10018867,ARTHROTEC.108,haematuria
+2166,urine leaking,urinary incontinence,10046543,ARTHROTEC.108,urinary incontinence
+2167,stomach upset,abdominal discomfort,10046318,VOLTAREN.31,upset stomach
+2168,dehydration,dehydration,10012174,VOLTAREN.31,dehydration
+2169,severe muscle spasms,muscle spasms,10028294,LIPITOR.545,muscle cramp
+2170,spasms,muscle spasms,10041408,LIPITOR.545,spasms
+2171,severe muscle back cramp,muscle spasms,10028294,LIPITOR.545,muscle cramp
+2172,chronic backache,back pain,10008837,LIPITOR.545,chronic back pain
+2173,back aches,back pain,10003993,LIPITOR.545,backache
+2174,foggy thinking,mental impairment,10027371,LIPITOR.959,mental dullness
+2175,neck pain,neck pain,10028836,LIPITOR.959,neck pain
+2176,insomnia,insomnia,10022437,LIPITOR.959,insomnia
+2177,back spasms,muscle spasms,10067893,LIPITOR.959,back muscle spasms
+2178,hurt every where,pain,10018074,LIPITOR.690,generalised aching
+2179,felt like i had been run over by a truck,pain,10048971,LIPITOR.690,general body pain
+2180,week,asthenia,10003549,LIPITOR.690,asthenia
+2181,couldn't walk across the room,gait disturbance,10047810,LIPITOR.690,walking difficulty
+2182,heart palpatations,palpitations,10033557,LIPITOR.771,palpitations
+2183,felt like a truck hit me,pain,10048971,LIPITOR.771,general body pain
+2184,muscle pain,myalgia,10028411,LIPITOR.771,myalgia
+2185,very sore muscle pain in both shoulders,myalgia,10028411,LIPITOR.771,myalgia
+2186,sore knees,arthralgia,10023477,LIPITOR.771,knee pain
+2187,tender breasts,breast tenderness,10006313,ARTHROTEC.73,breast tenderness
+2188,post-menopausal and have now had a six day period,postmenopausal haemorrhage,10036399,ARTHROTEC.73,postmenopausal bleeding
+2189,cramping,muscle spasms,10028294,ARTHROTEC.73,muscle cramp
+2190,bloating,abdominal distension,10005265,ARTHROTEC.73,bloating
+2191,burning ankles,burning sensation,10006784,LIPITOR.936,burning sensation
+2192,constant pins and needles in the toes,paraesthesia,10052407,LIPITOR.936,paraesthesia foot
+2193,constant pins and needles in the ball of the foot,paraesthesia,10035067,LIPITOR.936,pins and needles
+2194,very painful pins and needles over entire foot,paraesthesia,10035067,LIPITOR.936,pins and needles
+2195,swollen ankles,joint swelling,10042715,LIPITOR.936,swollen ankles
+2196,swollen feet,peripheral swelling,10042693,LIPITOR.936,swelling of feet
+2197,swelling,swelling,10042674,LIPITOR.936,swelling
+2198,burning feet,burning sensation,10049854,LIPITOR.936,burning foot
+2199,ball of the foot would feel as if it was inflamed,burning sensation,10049854,LIPITOR.936,burning foot
+2200,mental confusion,confusional state,10010300,LIPITOR.737,confusion
+2201,constipation,constipation,10010774,LIPITOR.737,constipation
+2202,eyes are bloodshot,scleral hyperaemia,10059096,LIPITOR.737,scleral hyperaemia
+2203,blood vessels in eye burst,scleral hyperaemia,10059096,LIPITOR.737,scleral hyperaemia
+2204,slurred speach,dysarthria,10041053,LIPITOR.737,slurred speech
+2205,extreme agitation,agitation,10001495,LIPITOR.737,agitated
+2206,hot and cold on and off,feeling of body temperature change,10016335,LIPITOR.737,feeling hot and cold
+2207,decrease in sexual desire,libido decreased,10024419,LIPITOR.761,libido decreased
+2208,weakness in arms,muscular weakness,10047868,LIPITOR.761,weakness of limbs
+2209,aches and pain in both shoulders,arthralgia,10040617,LIPITOR.761,shoulder pain
+2210,difficulty sleeping,insomnia,10012804,LIPITOR.761,difficulty sleeping
+2211,aches and pain in both arms,pain in extremity,10071701,LIPITOR.761,pain in upper extremities
+2212,pain,pain,10033371,LIPITOR.761,pain
+2213,pain,pain,10033371,LIPITOR.458,pain
+2214,cramps in legs,muscle spasms,10011301,LIPITOR.458,cramps of lower extremities
+2215,leg cramps,muscle spasms,10011301,LIPITOR.458,cramps of lower extremities
+2216,muscle spasms,muscle spasms,10028294,LIPITOR.430,muscle cramp
+2217,legs twitching,muscle twitching,10028346,LIPITOR.430,muscle twitch
+2218,attack of restless leg syndrome,restless legs syndrome,10038742,LIPITOR.430,restless legs
+2219,unable to sleep,insomnia,10041017,LIPITOR.430,sleeplessness
+2220,restless leg syndrome,restless legs syndrome,10038742,LIPITOR.430,restless legs
+2221,very severe pain in hands,pain in extremity,10033430,LIPITOR.712,pain in hand
+2222,overall weakness,asthenia,10003549,LIPITOR.712,asthenia
+2223,very severe pain in arms,pain in extremity,10071701,LIPITOR.712,pain in upper extremities
+2224,muscle weakness,muscular weakness,10028350,LIPITOR.712,muscle weakness
+2225,very severe pain in knees,arthralgia,10023477,LIPITOR.712,knee pain
+2226,anxiety,anxiety,10002855,LIPITOR.86,anxiety
+2227,nausea,nausea,10028813,LIPITOR.86,nausea
+2228,depression,depression,10012378,LIPITOR.86,depression
+2229,pain in throat,oropharyngeal pain,10033494,LIPITOR.86,pain throat
+2230,tingling in side of face,paraesthesia,10035067,LIPITOR.86,pins and needles
+2231,headaches,headache,10019211,LIPITOR.86,headache
+2232,yellow skin,yellow skin,10048245,LIPITOR.579,yellow skin
+2233,acid reflux,gastrooesophageal reflux disease,10000479,LIPITOR.579,acid reflux (oesophageal)
+2234,indigestion,dyspepsia,10021706,LIPITOR.579,indigestion
+2235,muscle aches,myalgia,10028411,LIPITOR.579,myalgia
+2236,yellow eyes,ocular icterus,10057488,LIPITOR.579,scleral icterus
+2237,stomach pain,abdominal pain upper,10042076,LIPITOR.579,stomach ache
+2238,muscle pain,myalgia,10028411,LIPITOR.579,myalgia
+2239,urine dark brown,chromaturia,10064752,LIPITOR.579,urine color abnormal
+2240,numb-like,hypoaesthesia,10029829,LIPITOR.173,numbness
+2241,drained and tired,fatigue,10043890,LIPITOR.173,tiredness
+2242,tingling,paraesthesia,10035067,LIPITOR.173,pins and needles
+2243,hand being asleep,paraesthesia,10049230,LIPITOR.173,paraesthesia hand
+2244,heaviness,discomfort,10040000,LIPITOR.358,sensation of heaviness
+2245,depression,depression,10012378,LIPITOR.358,depression
+2246,upper abdominal discomfort,epigastric discomfort,10053155,LIPITOR.358,epigastric discomfort
+2247,weight gain,weight increased,10047896,LIPITOR.358,weight gain
+2248,severe polyathralgia in ankles,arthralgia,10003242,LIPITOR.358,arthralgia multiple
+2249,muscular aches and pains,myalgia,10028411,LIPITOR.358,myalgia
+2250,fatigue,fatigue,10016256,LIPITOR.358,fatigue
+2251,joint discomfort,arthralgia,10003239,LIPITOR.358,arthralgia
+2252,severe polyathralgia in leg joints,arthralgia,10003242,LIPITOR.358,arthralgia multiple
+2253,muscle pain in legs,myalgia,10051587,LIPITOR.986,myalgia of lower extremities
+2254,muscle aches in legs,myalgia,10028411,LIPITOR.986,myalgia
+2255,toes went into muscle spasms,muscle spasms,10016964,LIPITOR.740,foot cramps
+2256,right ventricular was mildly dilated,right ventricular enlargement,10050582,LIPITOR.137,right ventricular enlargement
+2257,stage 1 diastolic dysfunction,diastolic dysfunction,10052337,LIPITOR.137,diastolic dysfunction
+2258,diastolic dysfunction,diastolic dysfunction,10052337,LIPITOR.137,diastolic dysfunction
+2259,elevated calcium,blood calcium increased,10040175,LIPITOR.137,serum calcium increased
+2260,memory loss,amnesia,10001949,LIPITOR.77,amnesia
+2261,direar,diarrhoea,10012735,LIPITOR.77,diarrhoea
+2262,bleed,haemorrhage,10005103,LIPITOR.77,bleeding
+2263,blisters,blister,10005191,LIPITOR.77,blister
+2264,severe muscle aces,myalgia,10028411,LIPITOR.77,myalgia
+2265,headace,headache,10019211,LIPITOR.77,headache
+2266,severe headaces,headache,10019211,LIPITOR.77,headache
+2267,muscle aces,myalgia,10028411,LIPITOR.77,myalgia
+2268,forget things all the time,memory impairment,10017060,LIPITOR.77,forgetfulness
+2269,aches and pain from head to toe,pain,10018074,LIPITOR.946,generalised aching
+2270,very grouchy,irritability,10023000,LIPITOR.946,irritable
+2271,pains so bad,pain,10033371,LIPITOR.946,pain
+2272,elbows burning,burning sensation,10006784,LIPITOR.983,burning sensation
+2273,elbows would burn like fire,burning sensation,10006784,LIPITOR.983,burning sensation
+2274,trouble focusing while reading,accommodation disorder,10047528,LIPITOR.983,visual accommodation disturbance of
+2275,congestion with clear phlem,respiratory tract congestion,10052251,LIPITOR.983,respiratory tract congestion
+2276,right heel pain,pain in extremity,10033431,LIPITOR.983,pain in heel
+2277,right heel became painful,pain in extremity,10033431,LIPITOR.983,pain in heel
+2278,congestion,respiratory tract congestion,10052251,LIPITOR.983,respiratory tract congestion
+2279,cough,cough,10011224,LIPITOR.983,cough
+2280,loss of concentration,disturbance in attention,10010248,LIPITOR.983,concentration ability impaired
+2281,debilitating muscle pains,myalgia,10028411,LIPITOR.928,myalgia
+2282,tingling in my legs,paraesthesia,10052409,LIPITOR.928,paraesthesia lower limb
+2283,tingling in my fingers,paraesthesia,10035067,LIPITOR.928,pins and needles
+2284,horrible fatigue,fatigue,10016256,LIPITOR.928,fatigue
+2285,debilitating muscle pains,pain,10033371,LIPITOR.928,pain
+2286,tingling in my arms,paraesthesia,10035067,LIPITOR.928,pins and needles
+2287,nausea,nausea,10028813,ZIPSOR.1,nausea
+2288,fatigue,fatigue,10016256,LIPITOR.723,fatigue
+2289,muscle pain,myalgia,10028411,LIPITOR.723,myalgia
+2290,muscle pain in shoulders,myalgia,10028411,LIPITOR.723,myalgia
+2291,big time flatulence,flatulence,10016766,LIPITOR.723,flatulence
+2292,achilles tendon tightness,tendinous contracture,10010830,LIPITOR.723,contracture of tendon (sheath)
+2293,muscle pain in hips,arthralgia,10033432,LIPITOR.723,pain in hip
+2294,dizziness,dizziness,10013573,LIPITOR.723,dizziness
+2295,depression,depression,10012378,LIPITOR.723,depression
+2296,muscle pain in feet,pain in extremity,10016974,LIPITOR.723,foot pain
+2297,facial swelling,swelling face,10016065,LIPITOR.410,facial swelling
+2298,slight swelling of cheeks,swelling face,10016065,LIPITOR.410,facial swelling
+2299,depressed,depression,10012378,LIPITOR.403,depression
+2300,muscle pain,myalgia,10028411,LIPITOR.403,myalgia
+2301,muscle pain,myalgia,10028411,ZIPSOR.3,myalgia
+2302,stiff neck,musculoskeletal stiffness,10042043,ZIPSOR.3,stiff neck
+2303,frozen shoulder,periarthritis,10001286,LIPITOR.113,adhesive capsulitis of shoulder
+2304,chest pain,chest pain,10008479,LIPITOR.113,chest pain
+2305,damaging my muscles,myopathy,10028641,LIPITOR.113,myopathy
+2306,back pain,back pain,10003993,LIPITOR.113,backache
+2307,headaches,headache,10019211,LIPITOR.453,headache
+2308,extreme tiredness,fatigue,10016256,LIPITOR.453,fatigue
+2309,blurring vision,vision blurred,10005886,LIPITOR.453,blurred vision
+2310,tiredness,fatigue,10043890,LIPITOR.453,tiredness
+2311,muscle pain,myalgia,10028411,LIPITOR.537,myalgia
+2312,severe edema with swelling of limbs,oedema peripheral,10030109,LIPITOR.537,oedema lower limb
+2313,dizziness,dizziness,10013573,LIPITOR.537,dizziness
+2314,numbness/tingling?aching/ heavy feeling in limps,hypoaesthesia,10029847,LIPITOR.537,numbness of limbs
+2315,vision problems,visual impairment,10047543,LIPITOR.537,visual disturbance
+2316,difficulty sleeping,insomnia,10012804,LIPITOR.537,difficulty sleeping
+2317,"fatigue, increased",fatigue,10016256,LIPITOR.537,fatigue
+2318,weakness,asthenia,10003549,LIPITOR.537,asthenia
+2319,cough,cough,10011224,LIPITOR.537,cough
+2320,nausea,nausea,10028813,LIPITOR.537,nausea
+2321,rapid pulse,heart rate increased,10037484,LIPITOR.537,pulse rapid
+2322,poor coordination while walking,coordination abnormal,10021649,LIPITOR.537,incoordination
+2323,problems with coordination,coordination abnormal,10021649,LIPITOR.537,incoordination
+2324,frequent headaches,headache,10019211,LIPITOR.537,headache
+2325,difficulty walking due to swelling in legs,gait disturbance,10047810,LIPITOR.537,walking difficulty
+2326,sweating,hyperhidrosis,10042661,LIPITOR.537,sweating
+2327,rhabdomyolysis/muscle loss,muscle atrophy,10028289,LIPITOR.537,muscle atrophy
+2328,low mood,depressed mood,10012374,LIPITOR.64,depressed mood
+2329,loss of self-confidence,psychiatric symptom,10024854,LIPITOR.64,loss of confidence
+2330,brain fog,mental impairment,10027371,LIPITOR.64,mental dullness
+2331,loss of interest in life,apathy,10023614,LIPITOR.64,lack of motivation
+2332,impaired memory,memory impairment,10027175,LIPITOR.64,memory impairment
+2333,diarrhea,diarrhoea,10012735,VOLTAREN.18,diarrhoea
+2334,stomach cramping,learning disorder,10061265,VOLTAREN.18,learning disorder
+2335,hair fell out,alopecia,10019045,LIPITOR.576,hair loss
+2336,insomnia,insomnia,10022437,LIPITOR.576,insomnia
+2337,last straw was ringing in the ears,tinnitus,10039183,LIPITOR.576,ringing in ears
+2338,aching (like the flu),pain,10018074,LIPITOR.576,generalised aching
+2339,ringing in the ears (tinnitus),tinnitus,10039183,LIPITOR.576,ringing in ears
+2340,leg muscle and thigh problems,myopathy,10028641,LIPITOR.657,myopathy
+2341,loss of vison,visual impairment,10047543,LIPITOR.657,visual disturbance
+2342,nausia,nausea,10028813,LIPITOR.593,nausea
+2343,hip pain,arthralgia,10033432,LIPITOR.593,pain in hip
+2344,leg pain,pain in extremity,10033473,LIPITOR.593,pain of lower extremities
+2345,pains,pain,10033371,LIPITOR.593,pain
+2346,numbness,hypoaesthesia,10029829,LIPITOR.593,numbness
+2347,foot pain,pain in extremity,10016974,LIPITOR.593,foot pain
+2348,severe joint pain,arthralgia,10003239,LIPITOR.722,arthralgia
+2349,severe joint pain,pain,10033371,LIPITOR.722,pain
+2350,ulcer lower bowel,large intestinal ulcer,10045293,VOLTAREN-XR.20,ulcer colon
+2351,bleeding,haemorrhage,10005103,VOLTAREN-XR.20,bleeding

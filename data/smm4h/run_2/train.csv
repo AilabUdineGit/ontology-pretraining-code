@@ -1,0 +1,866 @@
+,ae,term_code,term,samp_id,term_llt_or_pt
+0,aches,10000424,pain,347784229842726913,ache
+1,pains,10033371,pain,347784229842726913,pain
+2,weight gain,10047896,weight increased,340764967089356801,weight gain
+3,nauseous,10028823,nausea,342119329690681344,nauseous
+4,plateau,10043087,tachyphylaxis,347485185048182784,tachyphylaxis
+5,brain turn to mush,10016322,feeling abnormal,349826710545498114,feeling abnormal
+6,knee pain,10023477,arthralgia,343860814521962496,knee pain
+7,keeping me up,10041001,insomnia,342113962495721472,sleep loss
+8,pain in neck,10028836,neck pain,346484694344413185,neck pain
+9,hips,10033432,arthralgia,346484694344413185,pain in hip
+10,legs,10033522,pain in extremity,346484694344413185,pains in legs
+11,drive me crazy,10037234,psychotic disorder,341656590757277696,psychosis
+12,pains in head,10019198,headache,347165168804966400,head pain
+13,back,10003988,back pain,347165168804966400,back pain
+14,hip,10033432,arthralgia,347165168804966400,pain in hip
+15,neck,10028836,neck pain,347165168804966400,neck pain
+16,legs,10024130,pain in extremity,347165168804966400,leg pain
+17,hungry,10020466,hunger,354352726815162368,hunger
+18,prop my eyelids open,10041349,somnolence,354352726815162368,somnolence
+19,lucidity ,10043439,bradyphrenia,349948514215800832,thinking sluggish
+20,weight-gaining,10047896,weight increased,341327231508967424,weight gain
+21,fatness,10047896,weight increased,341327231508967424,weight gain
+22,addict,10001125,dependence,344897696080990208,addiction
+23,rash,10037844,rash,344103487942057987,rash
+24,skin issues,10040831,skin disorder,347542434500206592,skin disorder
+25,withdrawal,10073281,withdrawal syndrome,328265863390183425,withdrawal symptom
+26,look like a whale,10047896,weight increased,341254984349908994,weight gain
+27,sweating,10042661,hyperhidrosis,342616686375100416,sweating
+28,stomach discomfort,10013087,epigastric discomfort,342616686375100416,discomfort epigastric
+29,jaw,10061257,jaw disorder,342616686375100416,jaw disorder
+30,flushed,10016821,flushing,342616686375100416,flushed
+31,difficult to wake up,10019158,somnolence,329254232714792961,hard to awaken
+32,egg burps,10063053,eructation,349060806245240832,malodorous burping
+33,kidneys have been swollen,10048469,kidney enlargement,349310462954967041,kidney enlargement
+34,sick,10016365,malaise,354290144402092033,feeling sick
+35,teamnosleep,10041001,insomnia,344811607156723713,sleep loss
+36,painful,10033371,pain,342794515108741121,pain
+37,feel like shit,10016370,malaise,348414004630274048,feeling unwell
+38,asleep 24/7,10041000,hypersomnia,332761628544229376,sleep excessive
+39,cravings,10056465,food craving,351665013884321793,food craving
+40,pain,10033371,pain,326925921254789120,pain
+41,manic,10026782,mania,329617517578444802,manic state
+42,olanzapine lbs,10047896,weight increased,341257005232697344,weight gain
+43,nightmares,10029414,nightmare,328158014865559552,nightmares
+44,coming of it was horrific,10048010,withdrawal syndrome,328158014865559552,withdrawal syndrome
+45,remembered what food is,10003028,decreased appetite,341771192279105538,appetite lost
+46,tummy,10045148,abdominal pain,329515653251883008,tummy ache
+47,disconnected,10012536,dissociation,329515653251883008,detachment
+48,tiredness,10043890,fatigue,329515653251883008,tiredness
+49,restless legs,10038742,restless legs syndrome,352903991157456896,restless legs
+50,knocks me out,10041014,somnolence,330433086598823937,sleepiness
+51,palpitations,10033557,palpitations,347552147954622464,palpitations
+52,racing heart,10019303,heart rate increased,347552147954622464,heart rate increased
+53,drowsy,10013649,somnolence,343858901227278336,drowsiness
+54,sleeping,10041349,somnolence,343904497518669824,somnolence
+55,craving,10056484,nicotine dependence,340259370577317890,nicotine craving
+56,cant sleep,10041001,insomnia,340259370577317890,sleep loss
+57,headaches,10019211,headache,351082980330045440,headache
+58,vomiting,10047700,vomiting,351082980330045440,vomiting
+59,diarrhea,10012727,diarrhoea,351082980330045440,diarrhea
+60,awake,10022437,insomnia,351870648974446593,insomnia
+61,nightmare,10029414,nightmare,351870648974446593,nightmares
+62,arms just keep getting worse.,10033421,pain in extremity,349205685835272193,pain in arm
+63,can't even get whipped cream out of the can,10047862,asthenia,349205685835272193,weakness
+64,gain weight,10047896,weight increased,343910899507154944,weight gain
+65,headache,10019211,headache,347150663286931456,headache
+66,hallucinate ,10019063,hallucination,346418587210244097,hallucination
+67,tired,10043890,fatigue,346474302138359808,tiredness
+68,antipsychotics,10037234,psychotic disorder,348695929227993088,psychosis
+69,just about dead,10041014,somnolence,332223414595117056,sleepiness
+70,hurt,10033371,pain,343523993749434369,pain
+71,heels,10033431,pain in extremity,343523993749434369,pain in heel
+72,blew out my arms,10079024,limb injury,343523993749434369,arm injury
+73,pain,10033371,pain,343523993749434369,pain
+74,dehydrates,10012174,dehydration,351364309042999297,dehydration
+75,suicidal,10042458,suicidal ideation,342222942853287936,suicidal ideation
+76,numb,10071175,emotional poverty,342222942853287936,lack of feeling emotions
+77,painful,10033371,pain,349561304526241794,pain
+78,immune system went poof,10021425,immune system disorder,342072317200973825,immune system disorder
+79,dreams,10000125,abnormal dreams,349468372590792704,abnormal dreams
+80,irritating my nerve endings,10029181,neuralgia,328434766871412736,nerve pain
+81,sweating,10042661,hyperhidrosis,340625010488143872,sweating
+82,feel hot,10065015,feeling hot,340625010488143872,hot feeling generalised
+83,fat,10047896,weight increased,330016889487110145,weight gain
+84,overheating,10005911,body temperature increased,347488934407852032,body temperature increased
+85,sleepy,10041018,somnolence,349141333614661632,sleepy
+86,diarrhea,10012727,diarrhoea,340360304531734529,diarrhea
+87,thoughts of suicide,10042458,suicidal ideation,340360304531734529,suicidal ideation
+88,fatigue,10016256,fatigue,340360304531734529,fatigue
+89,nausea,10028813,nausea,340360304531734529,nausea
+90,dry mouth,10013781,dry mouth,340360304531734529,dry mouth
+91,constipation,10010774,constipation,340360304531734529,constipation
+92,fatique,10016256,fatigue,344117668200210433,fatigue
+93,joint problems,10023211,arthropathy,344117668200210433,joint disorder
+94,vomitting,10047700,vomiting,344117668200210433,vomiting
+95,cramps,10011293,muscle spasms,344117668200210433,cramps
+96,ab pain,10000081,abdominal pain,344117668200210433,abdominal pain
+97,nausea,10028813,nausea,344117668200210433,nausea
+98,skin,10040831,skin disorder,344117668200210433,skin disorder
+99,ulcers in mouth,10045319,mouth ulceration,344117668200210433,ulcer mouth
+100,added 1 stone,10047896,weight increased,326665428493557760,weight gain
+101,slow turtle,10041052,sluggishness,332524625093328900,sluggishness
+102,stacked on the weight,10047896,weight increased,333249805876883456,weight gain
+103,tremors,10044565,tremor,342117282585133056,tremor
+104,sweats,10042661,hyperhidrosis,342117282585133056,sweating
+105,migraine,10027599,migraine,342117282585133056,migraine
+106,don't want to get up,10019158,somnolence,340737923777445890,hard to awaken
+107,withdrawal,10048010,withdrawal syndrome,351022442845700096,withdrawal syndrome
+108,nosleep,10041017,insomnia,352345175932145664,sleeplessness
+109,vertigo,10047340,vertigo,343745558382522369,vertigo
+110,weight gain,10047896,weight increased,333197031659167746,weight gain
+111,hot,10016334,feeling hot,343826203888717825,feeling hot
+112,gain so much weight,10047896,weight increased,348383854089871360,weight gain
+113,cantsleep,10041001,insomnia,342501416755163137,sleep loss
+114,drip,10036402,upper-airway cough syndrome,329736817622536192,postnasal drip
+115,loosing so much blood,10005645,haemorrhage,342106074838597633,blood loss of (nos)
+116,not sleeping,10041017,insomnia,347639316425617408,sleeplessness
+117,rls,10038741,restless legs syndrome,351168851347648513,restless leg syndrome
+118,loopy,10017565,feeling abnormal,346451865283751936,fuzzy
+119,crazy ish,10037234,psychotic disorder,329106631633809408,psychosis
+120,hyper-sensitive,10044124,hyperaesthesia,331383865438519297,touch sensitivity increased
+121,wt loss,10047900,weight decreased,352210793669996545,weight loss
+122,aches,10000424,pain,346731975903694850,ache
+123,weight gain,10047896,weight increased,344279713721765888,weight gain
+124,rage,10037804,anger,343359399659712512,rage
+125,makes me an asshole,10034719,personality change,342523133313560576,personality change
+126,nap,10011865,somnolence,347388396655755264,daytime sleepiness
+127,ruined my creativity,10027374,mental impairment,333358524274987008,mental impairment
+128,memory,10027175,memory impairment,333358524274987008,memory impairment
+129,"neck, back, hip, and leg aches",10028836,neck pain,348649853552828417,neck pain
+130,"hip, and leg aches",10033432,arthralgia,348649853552828417,pain in hip
+131,leg aches,10024130,pain in extremity,348649853552828417,leg pain
+132,"back, hip, and leg aches",10003978,back pain,348649853552828417,back ache
+133,drunk,10013767,feeling drunk,328054168260595713,drunk-like effect
+134,withdrawal,10048010,withdrawal syndrome,349328587255590912,withdrawal syndrome
+135,wrecking my sleep,10040995,sleep disorder,332115528632127489,sleep disturbance
+136,knocked me out,10041014,somnolence,332983321187471361,sleepiness
+137,didn't eat a thing,10003017,decreased appetite,341941862883545089,appetite absent
+138,hurting,10033371,pain,344994590815817728,pain
+139,yucky,10016370,malaise,328616992858853377,feeling unwell
+140,brain zaps,10033775,paraesthesia,346349207214510080,paraesthesia
+141,taste,10043132,taste disorder,353492546833498112,taste disturbance
+142,addiction,10001125,dependence,349564105188851712,addiction
+143,gain weight,10047896,weight increased,326398829849092097,weight gain
+144,stops you from jizzing,10021574,anorgasmia,340454413229490176,inability to orgasm
+145,suicidal thoughts,10042458,suicidal ideation,340454413229490176,suicidal ideation
+146,sleep for 11 hours,10041000,hypersomnia,340173342889881601,sleep excessive
+147,murdering my mind,10027374,mental impairment,334014050348457985,mental impairment
+148,sleep less,10041001,insomnia,342360890932350976,sleep loss
+149,asleep,10041349,somnolence,344939998807736320,somnolence
+150,whacks me out,10041349,somnolence,344939998807736320,somnolence
+151,torn faced,10023000,irritability,345624026254823424,irritable
+152,slept aw day,10011865,somnolence,345624026254823424,daytime sleepiness
+153,swollen feet,10042693,peripheral swelling,345624026254823424,swelling of feet
+154,knocked on my ass,10016256,fatigue,347733883208486912,fatigue
+155,sick,10016365,malaise,351782926419111939,feeling sick
+156,sleep for dayyssss,10041000,hypersomnia,333020420204797952,sleep excessive
+157,fatigue,10016256,fatigue,342594933162647553,fatigue
+158,back pain,10003988,back pain,345442816945713152,back pain
+159,all nighter,10041001,insomnia,344453727299702785,sleep loss
+160,tweaking,10070679,feeling abnormal,347958800189362177,feeling stoned
+161,feeling like a train wreck,10016370,malaise,347958800189362177,feeling unwell
+162,headache,10019211,headache,341695280397291520,headache
+163,horrid imposing dream,10004063,nightmare,326817604373200896,bad dreams
+164,sleep,10041349,somnolence,348896272700293121,somnolence
+165,hangover,10019136,hangover,348896272700293121,hangover effect
+166,urinary track infections,10046571,urinary tract infection,344868452034560000,urinary tract infection
+167,breath smells,10006325,breath odour,341606023297134592,breath odor
+168,dizziness,10013573,dizziness,342708050160934912,dizziness
+169,sleep for 12 hours,10041000,hypersomnia,342305559216807936,sleep excessive
+170,feel like crap,10016370,malaise,349341615682371586,feeling unwell
+171,sleep for like 12 hours,10041000,hypersomnia,340690595683106816,sleep excessive
+172,unconscious,10041349,somnolence,333799489687154688,somnolence
+173,sedated ,10039897,sedation,333799489687154688,sedation
+174,lose my temper,10010085,aggression,334005655155380224,combative reaction
+175,tweaking,10070679,feeling abnormal,342722384723316737,feeling stoned
+176,wrecked,10016370,malaise,347410750572228608,feeling unwell
+177,bombed,10070679,feeling abnormal,348906168556605440,feeling stoned
+178,sleep all the time,10041349,somnolence,348906168556605440,somnolence
+179,after-sting,10058683,injection site pain,348895818603958272,injection site stinging
+180,dries mouth,10013781,dry mouth,342024276129492992,dry mouth
+181,put on weight,10047896,weight increased,344384631027675136,weight gain
+182,flare,10060732,rheumatoid arthritis,348889890047537152,rheumatoid arthritis flare up
+183,sleepy,10041018,somnolence,342128993094496257,sleepy
+184,don't have the energy,10024862,asthenia,351577305480564737,loss of energy
+185,withdrawals,10073281,withdrawal syndrome,351577305480564737,withdrawal symptom
+186,gain 20 lbs,10047896,weight increased,350677722617487361,weight gain
+187,acne,10000496,acne,350677722617487361,acne
+188,depression,10012378,depression,343388798903795712,depression
+189,get the horn my life,10024870,loss of libido,333121777909760000,loss of libido
+190,hide in the apartment,10001502,agoraphobia,332988218192588800,agoraphobia
+191,see shapes,10047545,visual impairment,329024897097555968,visual disturbances
+192,inability to cry,10071175,emotional poverty,343481297446006784,lack of feeling emotions
+193,dry eyed,10071175,emotional poverty,343481297446006784,lack of feeling emotions
+194,food just looks/sounds/tastes fucking disgusting,10049238,food aversion,342161058653405184,food aversion
+195,barely keep my eyes open,10041014,somnolence,341743389018050560,sleepiness
+196,reacted badly,10016370,malaise,344173110209179648,feeling unwell
+197,mentally drained,10076757,mental fatigue,348456216663580673,mental fatigue
+198,physically,10015667,fatigue,348456216663580673,exhaustion
+199,need to sleep 24/7,10041000,hypersomnia,342662725165543426,sleep excessive
+200,feel so ick,10016370,malaise,349382072810483712,feeling unwell
+201,dizzing,10013580,dizziness,349382072810483712,dizzy
+202,headaches,10019211,headache,350332912530505728,headache
+203,yawn,10048231,yawning,350332912530505728,yawn
+204,sick,10016365,malaise,349033495026343936,feeling sick
+205,not hungry,10003028,decreased appetite,345958089830301696,appetite lost
+206,ready for bed but vyvanse is saying no,10022437,insomnia,341784793559752704,insomnia
+207,forciblynocturnal,10022437,insomnia,341784793559752704,insomnia
+208,shooting pains down arms &amp; legs,10050007,pain,349455785308327936,shooting pain
+209,body ache,10000424,pain,349455785308327936,ache
+210,shooting pains down arms,10050007,pain,349455785308327936,shooting pain
+211,zombie,10016384,feeling abnormal,354178409426993153,felt like a zombie
+212,pinsandneedles,10035067,paraesthesia,327741473003028480,pins and needles
+213,depressed,10012378,depression,344309040282734593,depression
+214,grind my teeth,10043176,bruxism,342452289723850753,teeth grinding
+215,insomnia,10022437,insomnia,340503446417469441,insomnia
+216,deliriousness,10012217,delirium,340503446417469441,delirious
+217,confusion,10010300,confusional state,340503446417469441,confusion
+218,nauesousness,10028823,nausea,340503446417469441,nauseous
+219,withdrawal,10073281,withdrawal syndrome,340503446417469441,withdrawal symptom
+220,addictive,10012336,drug dependence,347883700345782272,dependence addictive
+221,feel like you're on your death bed,10016370,malaise,351490248078929920,feeling unwell
+222,hairloss,10019045,alopecia,349533528146460672,hair loss
+223,irritable,10023000,irritability,342013098854580227,irritable
+224,rash,10037844,rash,342775921243209728,rash
+225,haven't ate,10003028,decreased appetite,342066984902610946,appetite lost
+226,discontinuation syndrome,10048010,withdrawal syndrome,349178019979603970,withdrawal syndrome
+227,addiction,10001125,dependence,349200805745803264,addiction
+228,nap,10011865,somnolence,340258151511248896,daytime sleepiness
+229,heart was hurting,10008479,chest pain,343835405096980480,chest pain
+230,vampire,10022437,insomnia,340451551766274049,insomnia
+231,tiredness,10043890,fatigue,351384490100260864,tiredness
+232,sleeping 15 hrs,10041000,hypersomnia,342119662651334656,sleep excessive
+233,crazy dreams,10004969,abnormal dreams,332241130353745920,bizarre dreams
+234,addiction,10001125,dependence,349252013076393985,addiction
+235,want to be sick,10028813,nausea,350030395225542656,nausea
+236,eat a lot,10021654,increased appetite,348999263306522624,increased appetite
+237,irritated,10016337,irritability,343154435695980547,feeling irritated
+238,can't think as fast,10041049,bradyphrenia,343154435695980547,slowed thinking
+239,lungs,10025082,lung disorder,347950374063329280,lung disorder
+240,thyroid,10043709,thyroid disorder,347950374063329280,thyroid disorder
+241,connective tissue,10061087,connective tissue disorder,347950374063329280,connective tissue disorder
+242,weight gain,10047896,weight increased,341150339455672320,weight gain
+243,no sleep,10041001,insomnia,344757173085151232,sleep loss
+244,not sleeping,10012804,insomnia,343266557956333568,difficulty sleeping
+245,hurt,10033371,pain,343109117877026818,pain
+246,blew out my arms,10079024,limb injury,343109117877026818,arm injury
+247,heels,10033431,pain in extremity,343109117877026818,pain in heel
+248,pain,10033371,pain,343109117877026818,pain
+249,central nervous system breakdown,10007943,nervous system disorder,332562785970049024,central nervous system disorder
+250,binge,10004716,binge eating,333195213197672448,binge eating
+251,joint pain,10023222,arthralgia,333195213197672448,joint pain
+252,gain weight,10047896,weight increased,333195213197672448,weight gain
+253,not dangerous but it is damn unpleasant,10016370,malaise,351400394146070529,feeling unwell
+254,weight,10047896,weight increased,327789313175719936,weight gain
+255,shivering,10040558,chills,326732768149135360,shivering
+256,withdrawal,10073281,withdrawal syndrome,326732768149135360,withdrawal symptom
+257,limbs ached,10000448,pain in extremity,326732768149135360,aching in limb
+258,instability,10022454,affect lability,342843798554046464,instability emotional
+259,mixed episodes,10065032,bipolar i disorder,342843798554046464,mixed manic depressive episode
+260,put much weight on,10047896,weight increased,327790926812561409,weight gain
+261,withdrawl,10073281,withdrawal syndrome,332322723286114304,withdrawal symptom
+262,hurts,10033371,pain,349715812195643393,pain
+263,barely function,10027372,mental impairment,350429791851261952,mental function decreased
+264,bad dreams,10004063,nightmare,331161461122547712,bad dreams
+265,withdrawl,10073281,withdrawal syndrome,340660708364677120,withdrawal symptom
+266,you are so horny and i am not,10024870,loss of libido,332738112079937536,loss of libido
+267,won't sleep,10041001,insomnia,328219079762653184,sleep loss
+268,"smelled"""" a pungent solvent odor",10042165,parosmia,351520573777641473,strange smell sensation
+269,smell,10042165,parosmia,351520573777641473,strange smell sensation
+270,pins &amp; needles,10035067,paraesthesia,348218989199118336,pins and needles
+271,tired,10043890,fatigue,346310712622194688,tiredness
+272,vertigo,10047340,vertigo,340867974783193088,vertigo
+273,vomit,10047700,vomiting,343130110569873409,vomiting
+274,migraines,10027599,migraine,343130110569873409,migraine
+275,orgasm,10021574,anorgasmia,346097617819799552,inability to orgasm
+276,bowels,10054248,abdominal discomfort,350969549681725440,bowel discomfort
+277,pale,10033532,pallor,344118257269211136,pale
+278,lost tons of weight,10047900,weight decreased,344118257269211136,weight loss
+279,fatigue,10016256,fatigue,344118257269211136,fatigue
+280,withdrawal,10073281,withdrawal syndrome,340478422012813314,withdrawal symptom
+281,pain,10033371,pain,333199163514843137,pain
+282,withdraw,10073281,withdrawal syndrome,340260393526104064,withdrawal symptom
+283,sleep for days,10041000,hypersomnia,348355774642266112,sleep excessive
+284,sleep for days,10041349,somnolence,348355774642266112,somnolence
+285,heart attack,10019300,heart rate abnormal,341951245457702912,heart rate abnormal
+286,ejaculate,10021574,anorgasmia,351476009989705728,inability to orgasm
+287,addiction,10001125,dependence,353061725102280705,addiction
+288,dizzy,10013580,dizziness,344084347239944192,dizzy
+289,allergic reaction,10001718,hypersensitivity,342763086056419329,allergic reaction
+290,almost killed me,10068111,near death experience,342763086056419329,near death experience
+291,flu symptoms,10016791,influenza like illness,345249387125018624,flu like symptoms
+292,cant keep still,10038743,restlessness,345249387125018624,restlessness
+293,coming off,10013754,drug withdrawal syndrome,345249387125018624,drug withdrawal syndrome
+294,nausea,10028813,nausea,345249387125018624,nausea
+295,hangover,10019136,hangover,345249387125018624,hangover effect
+296,sweatin,10042661,hyperhidrosis,342326445126844418,sweating
+297,hairloss,10019045,alopecia,342481261618667521,hair loss
+298,ocd,10029898,obsessive-compulsive disorder,344204109789933568,obsessive-compulsive disorder
+299,nosleep,10041001,insomnia,345052662800191489,sleep loss
+300,hangovers,10019136,hangover,333034270115377153,hangover effect
+301,gain 18 kg,10047896,weight increased,333034145846538240,weight gain
+302,shouldn't wake up,10041349,somnolence,350232501215707137,somnolence
+303,can't eat,10003017,decreased appetite,342382265134891009,appetite absent
+304,crippled,10049278,gait inability,333278830980648960,unable to walk
+305,disable,10049278,gait inability,333278830980648960,unable to walk
+306,boobs humungous,10014843,breast enlargement,354334544473751552,enlargement breast female
+307,prolactin,10036828,blood prolactin increased,354334544473751552,prolactin levels increased
+308,17h sleep,10041000,hypersomnia,341989840398716928,sleep excessive
+309,nausea,10028813,nausea,352869424174342144,nausea
+310,withdrawals,10073281,withdrawal syndrome,351834238540185600,withdrawal symptom
+311,stopped working,10043087,tachyphylaxis,341767317392326659,tachyphylaxis
+312,gained 50,10047896,weight increased,345579805963587589,weight gain
+313,dizzy,10013580,dizziness,332975105347035136,dizzy
+314,lightheadeded ,10024492,dizziness,332975105347035136,lightheadedness
+315,lost vision,10047522,blindness,342314998904786945,vision loss
+316,withdrawal,10048010,withdrawal syndrome,342314998904786945,withdrawal syndrome
+317,space me out,10010251,disturbance in attention,329211485068881920,concentration loss
+318,angry,10002368,anger,330385145972543488,anger
+319,awake,10041001,insomnia,330385145972543488,sleep loss
+320,tired,10043890,fatigue,347814900548132865,tiredness
+321,symptoms of schizophrenia,10027372,mental impairment,351125191423832067,mental function decreased
+322,insomnia,10022437,insomnia,351634675959205888,insomnia
+323,memory loss,10027176,amnesia,346238446173577218,memory loss
+324,zombie,10016384,feeling abnormal,352974009723387906,felt like a zombie
+325,hating the world,10023000,irritability,352974009723387906,irritable
+326,nauseous,10028823,nausea,342322703556038657,nauseous
+327,lupus flare,10065992,systemic lupus erythematosus,349252454535274498,sle flare
+328,felt like acid,10006784,burning sensation,349252454535274498,burning sensation
+329,cotton mouth,10013781,dry mouth,342342649015070720,dry mouth
+330,withdrawal ,10073281,withdrawal syndrome,345390703238594560,withdrawal symptom
+331,sleeping my life away,10041000,hypersomnia,342989392538923008,sleep excessive
+332,appetite is still terrible,10003030,decreased appetite,344457086429708290,appetite suppressed
+333,sleep,10040995,sleep disorder,345286735330177024,sleep disturbance
+334,tendonitis,10043255,tendonitis,332546823447248896,tendonitis
+335,tired,10043890,fatigue,332882069376086016,tiredness
+336,sick,10016365,malaise,342452668922462208,feeling sick
+337,zombie-ness,10016384,feeling abnormal,350666666436345856,felt like a zombie
+338,gained over 20 lbs,10047896,weight increased,345334049679753216,weight gain
+339,burping,10006804,eructation,331981886991785984,burping
+340,ocd,10029898,obsessive-compulsive disorder,344616533332467713,obsessive-compulsive disorder
+341,heart rate,10019304,heart rate irregular,353360876373409795,heart rate irregular
+342,feeling like absolute shit,10016370,malaise,328108880250957825,feeling unwell
+343,walking dead,10016384,feeling abnormal,331087510249828353,felt like a zombie
+344,weightgain,10047896,weight increased,344099735004643330,weight gain
+345,gain weight,10047896,weight increased,346677268946501632,weight gain
+346,hurt,10033371,pain,348599627009896448,pain
+347,lethargic,10024262,lethargy,340520477078458368,lethargic
+348,random crying,10011469,crying,342113162528690178,crying
+349,withdrawal,10073281,withdrawal syndrome,340694457827618816,withdrawal symptom
+350,pain in my joints,10033434,arthralgia,343614935055613952,pain in joint
+351,nightmare,10029412,nightmare,353040661651529728,nightmare
+352,yawning,10048232,yawning,342474245466636290,yawning
+353,fat.,10047896,weight increased,329316938452971520,weight gain
+354,brain is melting,10027374,mental impairment,342312023612346369,mental impairment
+355,sun sensitivity,10042494,photosensitivity reaction,353449992440123395,sun sensitivity
+356,horrible sleep,10040995,sleep disorder,341985679204560898,sleep disturbance
+357,nightmares,10029414,nightmare,345964683720814592,nightmares
+358,withdrawal,10073281,withdrawal syndrome,348986300742909952,withdrawal symptom
+359,sleepy,10041018,somnolence,348547192899923968,sleepy
+360,"just eat, and eat",10021654,increased appetite,350434208805695489,increased appetite
+361,addict,10012336,drug dependence,344896209737105409,dependence addictive
+362,destroy myself,10043498,self-injurious ideation,341358849598562304,thoughts of self harm
+363,rash,10037844,rash,342614476702494722,rash
+364,neck ache,10028831,musculoskeletal discomfort,344733595103002624,neck discomfort
+365,limping ,10058726,gait disturbance,344733595103002624,limping
+366,weak knees,10047862,asthenia,344733595103002624,weakness
+367,back pain,10003988,back pain,344733595103002624,back pain
+368,shoulder,10040617,arthralgia,344733595103002624,shoulder pain
+369,headache,10019211,headache,344733595103002624,headache
+370,lower back pain,10024891,back pain,344733595103002624,low back pain
+371,limping,10058726,gait disturbance,344733595103002624,limping
+372,back ache,10003978,back pain,343826721545527298,back ache
+373,brain shivers,10014358,paraesthesia,343828151400554496,electric shock sensation
+374,withdrawal,10048010,withdrawal syndrome,343828151400554496,withdrawal syndrome
+375,rash,10037844,rash,345549620342034434,rash
+376,needing my inhaler,10006338,dyspnoea,341353517811900416,breathing difficult
+377,allergic,10001718,hypersensitivity,341353517811900416,allergic reaction
+378,rash ,10037844,rash,341353517811900416,rash
+379,fog,10016876,feeling abnormal,332574327444746240,foggy feeling in head
+380,sleepy,10041018,somnolence,332574327444746240,sleepy
+381, tired,10043890,fatigue,332574327444746240,tiredness
+382,burnt,10042494,photosensitivity reaction,353979581033750530,sun sensitivity
+383,withdrawal,10073281,withdrawal syndrome,340300895780757504,withdrawal symptom
+384,sleep 12 hours,10041000,hypersomnia,353643138826510336,sleep excessive
+385,sick,10016365,malaise,349385477150879746,feeling sick
+386,nearly killed me,10068111,near death experience,349785645192982528,near death experience
+387,withdrawal,10073281,withdrawal syndrome,341813665302990848,withdrawal symptom
+388,loss of appetite,10003028,decreased appetite,340638766215622656,appetite lost
+389,add,10001118,attention deficit hyperactivity disorder,341962640240828417,add
+390,attention-killing,10003738,disturbance in attention,341962640240828417,attention impaired
+391,numbing,10071175,emotional poverty,332972801034182656,lack of feeling emotions
+392,get out of bed ,10041349,somnolence,343248815844913153,somnolence
+393,hallucinate,10019063,hallucination,349581089221787648,hallucination
+394,sleepies,10041014,somnolence,332778502946426880,sleepiness
+395,hotflashes,10020407,hot flush,350855673002729472,hot flashes
+396,aches,10000424,pain,346616563677425665,ache
+397, burns,10006774,eye irritation,332278485278134274,burning eyes
+398,hypomania,10021030,hypomania,345626164481634304,hypomania
+399, withdrawls,10073281,withdrawal syndrome,340291748402192384,withdrawal symptom
+400,withdrawals,10073281,withdrawal syndrome,349507022057766912,withdrawal symptom
+401,angry,10002368,anger,343499670053584896,anger
+402,over think,10067192,tachyphrenia,343499670053584896,racing thoughts
+403,tired,10043890,fatigue,342974071161643008,tiredness
+404,think too much,10067192,tachyphrenia,344256177779122176,racing thoughts
+405,all nighter,10022437,insomnia,344503156161515520,insomnia
+406,addiction,10001125,dependence,343095658779127808,addiction
+407,withdrawal,10073281,withdrawal syndrome,340249316469907456,withdrawal symptom
+408,withdrawals,10073281,withdrawal syndrome,348698825512321024,withdrawal symptom
+409,dreadful nights sleep,10040999,sleep disorder,333185474300620800,sleep disturbed
+410,joint pain,10023222,arthralgia,333185474300620800,joint pain
+411,hangover,10019136,hangover,354262122399674369,hangover effect
+412,dry eyes,10013778,dry eye,354262122399674369,dry eyes
+413,hungry,10016336,hunger,349659449692139520,feeling hungry
+414,able to sleep at night,10012804,insomnia,351410557112434688,difficulty sleeping
+415,brain so retarded,10027374,mental impairment,353069706330124288,mental impairment
+416,bloodbath,10005103,haemorrhage,347462639066157057,bleeding
+417,withdrawn ,10048013,social avoidant behaviour,350167875132194816,withdrawn
+418,septic c diff,10054177,clostridial sepsis,341688886319271936,clostridium difficile sepsis
+419,weight gain,10047896,weight increased,350636755659141121,weight gain
+420,zombie,10016384,feeling abnormal,350215594777387009,felt like a zombie
+421,addictive,10012336,drug dependence,332480409654943744,dependence addictive
+422,restlesslegs,10038742,restless legs syndrome,345318152424546304,restless legs
+423,drowsy,10013649,somnolence,351395434624856064,drowsiness
+424,munchies,10016336,hunger,331437863528972288,feeling hungry
+425,not being able to fit into summer wardrobe,10047896,weight increased,331437863528972288,weight gain
+426,addicted,10012336,drug dependence,340329390070173696,dependence addictive
+427,3 days of hell,10016370,malaise,351294528705134592,feeling unwell
+428,addictive,10012336,drug dependence,351294528705134592,dependence addictive
+429,weak knees,10047862,asthenia,345166429974327297,weakness
+430,lower back ache,10024890,back pain,345166429974327297,low back ache
+431,aches,10000424,pain,345166429974327297,ache
+432,headache,10019211,headache,340944956237692928,headache
+433,withdrawls,10073281,withdrawal syndrome,340944956237692928,withdrawal symptom
+434,working any more,10043087,tachyphylaxis,349708387447083009,tachyphylaxis
+435,withdrawl,10048010,withdrawal syndrome,344267687582642177,withdrawal syndrome
+436,rant,10002368,anger,344267687582642177,anger
+437,panic attack,10033664,panic attack,351842240701792256,panic attack
+438,like i'm having a heart attack,10019300,heart rate abnormal,351842240701792256,heart rate abnormal
+439,fuck with your head,10027374,mental impairment,342294447725375488,mental impairment
+440,headaches,10019211,headache,328896519174504449,headache
+441,withdrawl,10073281,withdrawal syndrome,350167409312800768,withdrawal symptom
+442,memory damage,10027175,memory impairment,350167409312800768,memory impairment
+443,stopped working,10043087,tachyphylaxis,354321976845807617,tachyphylaxis
+444,back to sleep,10040995,sleep disorder,342649393196978177,sleep disturbance
+445,cravings,10056484,nicotine dependence,340294493112782848,nicotine craving
+446,groggy,10018730,somnolence,341779643747143681,groggy
+447,wont wake,10019158,somnolence,341779643747143681,hard to awaken
+448,killed my libido,10024870,loss of libido,348555717113942016,loss of libido
+449,gaining weight,10047896,weight increased,346575368041410561,weight gain
+450,feel like death,10016370,malaise,350779886958424065,feeling unwell
+451,gain unwanted pounds,10047896,weight increased,349892793587613697,weight gain
+452,water weight,10047839,fluid retention,349892793587613697,water retention
+453,with drawls,10073281,withdrawal syndrome,342284689148624898,withdrawal symptom
+454,gained weight,10047896,weight increased,346389146169905152,weight gain
+455,no appetite,10003028,decreased appetite,332156923002617859,appetite lost
+456,knocking me about,10016370,malaise,349084992611164160,feeling unwell
+457,hangover,10019136,hangover,343374668801138688,hangover effect
+458,tremors,10044565,tremor,351689824148799489,tremor
+459,tension in my nerves,10043272,tension,351689824148799489,tension nervous
+460,shaking,10040528,tremor,351689824148799489,shaking
+461,migraines,10027599,migraine,341954740059516928,migraine
+462,tolerant,10043087,tachyphylaxis,344470680961679362,tachyphylaxis
+463,sick,10016365,malaise,349189973662134272,feeling sick
+464,halitosis,10019058,breath odour,341332687891611649,halitosis
+465,trying to get up,10019158,somnolence,350668902902145028,hard to awaken
+466,depressed,10012378,depression,351683349422673920,depression
+467,miserable,10016342,feeling abnormal,340686873942966273,feeling miserable
+468,crippled,10022876,disability,353832654724022273,invalid
+469,never have another orgasm,10021574,anorgasmia,333697653349179393,inability to orgasm
+470,restless legs,10038742,restless legs syndrome,351446999637299200,restless legs
+471,sweating,10042661,hyperhidrosis,350606045862830080,sweating
+472,broken sleep,10040999,sleep disorder,351039957969797120,sleep disturbed
+473,groggy in the morning,10018732,somnolence,347149965631553536,groggy on awakening
+474,hard to digest,10012790,dyspepsia,333007591879884802,difficult digestion
+475,vasovagal pre-syncope,10036507,presyncope,333007591879884802,pre-syncope
+476,toxicity,10013746,toxicity to various agents,333007591879884802,drug toxicity
+477,got ten minutes of sleep,10041001,insomnia,352596786940100609,sleep loss
+478,ataxia,10003591,ataxia,341318438989471745,ataxia
+479,dream,10000125,abnormal dreams,340448348303663104,abnormal dreams
+480,flat,10016759,flat affect,347414282138431488,flat affect
+481,weight gain,10047896,weight increased,347414282138431488,weight gain
+482,feeling like you have to poop,10057071,rectal tenesmus,341890864739663872,rectal tenesmus
+483,stay up all night,10041001,insomnia,341890864739663872,sleep loss
+484,haven't slept,10041001,insomnia,345124251742904320,sleep loss
+485,anxiety,10002855,anxiety,341947752005107713,anxiety
+486,irrational,10022989,thinking abnormal,341947752005107713,irrational
+487,coma,10041349,somnolence,345025450898231296,somnolence
+488,sick,10016365,malaise,345284736110960641,feeling sick
+489,tolerance to the sun,10042494,photosensitivity reaction,341996255213400064,sun sensitivity
+490,withdrawal,10048010,withdrawal syndrome,348748124916965377,withdrawal syndrome
+491,ache,10000424,pain,346732358474547200,ache
+492,hungover,10019136,hangover,341763429310267392,hangover effect
+493,depressed,10012378,depression,346476151549612032,depression
+494,wideawake,10012804,insomnia,342891051788402688,difficulty sleeping
+495,15 hours sleep,10041000,hypersomnia,331071076161437696,sleep excessive
+496,withdrawals,10073281,withdrawal syndrome,344389958812983296,withdrawal symptom
+497,gotta wake up,10019158,somnolence,333081207036342272,hard to awaken
+498,knock me the fuck out ,10024855,loss of consciousness,341919706502029313,loss of consciousness
+499,sleep right now,10041014,somnolence,342210117292392448,sleepiness
+500,zombified,10016384,feeling abnormal,332459161407324162,felt like a zombie
+501,couldn't fall asleep,10044698,initial insomnia,343738299350908928,trouble falling asleep
+502,tourettes,10044126,tourette's disorder,344787549706940416,tourette's disorder
+503,twitchy,10045198,muscle twitching,344787549706940416,twitching
+504,headache,10019211,headache,342479732811644929,headache
+505,heart stopped,10007517,cardiac arrest,342681916622909442,cardiac arrest transient
+506,tremors,10044565,tremor,350237950187016194,tremor
+507,leg is itching,10023091,pruritus,352862592072560640,itchy legs
+508,paranoia,10033864,paranoia,352862592072560640,paranoia
+509,zombified,10016384,feeling abnormal,347360872278151168,felt like a zombie
+510,crippled,10049278,gait inability,349202688950542336,unable to walk
+511,urge to vomit,10047700,vomiting,344351386542174208,vomiting
+512,feel disgusting,10028822,nausea,344351386542174208,nauseated
+513,talk a mile a minute,10043111,logorrhoea,344827002508939264,talkativeness
+514,no feelings,10071175,emotional poverty,349208893144043523,lack of feeling emotions
+515,hyper,10020554,psychomotor hyperactivity,340260780266123264,hyperactive
+516,sleeping schedule of a vampire,10041017,insomnia,342537091495895040,sleeplessness
+517,back,10003988,back pain,346343460770557953,back pain
+518,walking painful,10047810,gait disturbance,346343460770557953,walking difficulty
+519,knee pain,10023477,arthralgia,346343460770557953,knee pain
+520,allergic reaction,10001718,hypersensitivity,352936510225522688,allergic reaction
+521,sick,10016365,malaise,350042686507581440,feeling sick
+522,doesn't even work for me anymore,10043087,tachyphylaxis,350042686507581440,tachyphylaxis
+523,vision shake,10052087,oscillopsia,343354898609471488,oscillopsia
+524,burns,10022053,injection site pain,347326324085510144,injection site burning
+525,crazier,10037234,psychotic disorder,351455090193858560,psychosis
+526,erectile dysfunction,10061461,erectile dysfunction,333777166175186944,erectile dysfunction
+527,fast pulse,10037484,heart rate increased,351605957421309952,pulse rapid
+528,not going to go to bed,10022437,insomnia,341819046519517186,insomnia
+529,impotency,10021550,erectile dysfunction,352844700597764096,impotence
+530,grumpy,10023000,irritability,328529078753845248,irritable
+531,exhausted,10015667,fatigue,328529078753845248,exhaustion
+532,hit hard,10039897,sedation,351163750826524672,sedation
+533,exhaustion ,10015667,fatigue,340398510069411842,exhaustion
+534,never sleep,10041001,insomnia,340398510069411842,sleep loss
+535,may not switch your brain off,10067192,tachyphrenia,340398510069411842,racing thoughts
+536,dry mouth,10013781,dry mouth,331501881933312000,dry mouth
+537,withdrawals,10073281,withdrawal syndrome,354458322214191104,withdrawal symptom
+538,loss of circulation ,10036155,poor peripheral circulation,354458322214191104,poor peripheral circulation
+539,weight gain,10047896,weight increased,333675186622701570,weight gain
+540,joint pain,10023222,arthralgia,329669841520836608,joint pain
+541,insomniac,10022437,insomnia,341657848503226369,insomnia
+542,anxious,10016323,anxiety,341657848503226369,feeling anxious
+543,pain,10033371,pain,351492291271213056,pain
+544,did make my legs go,10038742,restless legs syndrome,351687991451860992,restless legs
+545,restlessness,10038743,restlessness,351687991451860992,restlessness
+546,crying,10011469,crying,345979692031025153,crying
+547,withdrawls,10073281,withdrawal syndrome,345979692031025153,withdrawal symptom
+548,after sting,10058683,injection site pain,348907867593658368,injection site stinging
+549,spazzing out,10014559,emotional disorder,342026873712308224,emotional reaction
+550,back pain,10003988,back pain,332511485043548162,back pain
+551,sad,10016364,depressed mood,332511485043548162,feeling sad
+552,crying,10011469,crying,332511485043548162,crying
+553,zap me of all energy,10024862,asthenia,328087000341180416,loss of energy
+554,not feeling good,10016370,malaise,328087000341180416,feeling unwell
+555,lethargy,10024262,lethargy,333933432587554816,lethargic
+556,allergic reaction,10001718,hypersensitivity,345607014812110848,allergic reaction
+557,dreams,10000125,abnormal dreams,348547723034771457,abnormal dreams
+558,brain zaps,10033775,paraesthesia,341598226094383104,paraesthesia
+559,sick,10016365,malaise,347742381237473280,feeling sick
+560,lower back pain,10024891,back pain,346488248320794624,low back pain
+561,crippled,10049278,gait inability,346488248320794624,unable to walk
+562,eat,10003028,decreased appetite,342015253569216514,appetite lost
+563,don't feel fully human,10071175,emotional poverty,342854702708449280,lack of feeling emotions
+564,felt like sumo wrestler,10005264,abdominal distension,344347416289488896,bloated feeling
+565,weight gain,10047896,weight increased,351635820056289281,weight gain
+566, tremors,10044565,tremor,351635820056289281,tremor
+567,high,10016333,euphoric mood,344528512004272129,feeling high
+568,reaction,10001718,hypersensitivity,341636700323344384,allergic reaction
+569,hip joints just started hurting,10033432,arthralgia,350789905833664512,pain in hip
+570,vitamin d malsorption,10047626,vitamin d deficiency,342607933672148992,vitamin d deficiency
+571,calcium problems,10006956,calcium deficiency,342607933672148992,calcium deficiency
+572,steven johnson syndrome,10042030,stevens-johnson syndrome,341876837900746752,stevens johnson syndrome
+573,dizzy,10013573,dizziness,342383575078944768,dizziness
+574,out if it,10041374,feeling abnormal,342383575078944768,spaced out
+575,confused,10010300,confusional state,342383575078944768,confusion
+576,moods are void of stability,10027951,mood swings,340345183008870400,mood swings
+577,horrendous venlafaxine dream,10004063,nightmare,352699823213920256,bad dreams
+578,sick ,10016365,malaise,345280161941430272,feeling sick
+579,sick,10016365,malaise,345280161941430272,feeling sick
+580,ability to cum,10021574,anorgasmia,348146788143861760,inability to orgasm
+581,fluid retention,10016807,fluid retention,347986748795650048,fluid retention
+582,muscle spasms,10028333,muscle spasms,347986748795650048,muscle spasm
+583,mobile,10021417,immobile,347986748795650048,immobile
+584,barely able to stay awake,10041014,somnolence,351724300887273472,sleepiness
+585,respiratory probs,10038683,respiratory disorder,351523364428451840,respiratory disorder
+586,dream all types of crazy,10004969,abnormal dreams,349736979090509824,bizarre dreams
+587,anxious,10016323,anxiety,343836978212642817,feeling anxious
+588,tired,10043890,fatigue,343836978212642817,tiredness
+589,nap,10011865,somnolence,341835868912353280,daytime sleepiness
+590,boner kryptonite,10015118,erectile dysfunction,333121972554825729,erection failure
+591,withdrawal,10073281,withdrawal syndrome,340250799298973696,withdrawal symptom
+592,gained 3stone,10047896,weight increased,342059686394200064,weight gain
+593,disturbed sleep,10040999,sleep disorder,331163351818330114,sleep disturbed
+594,bad dreams,10004063,nightmare,331163351818330114,bad dreams
+595,driving me insane,10048345,mental disorder,344983576493817856,mental state abnormal aggravated
+596,ocd,10029898,obsessive-compulsive disorder,342147988937920512,obsessive-compulsive disorder
+597,bad dreams,10004063,nightmare,331004479497465857,bad dreams
+598,slept through every alarm,10019158,somnolence,332473148018663424,hard to awaken
+599,dissociation,10013457,dissociation,333161437751042048,dissociation
+600,naptime,10041014,somnolence,343491179695964160,sleepiness
+601,tired,10043890,fatigue,343491179695964160,tiredness
+602,doing things difficult,10027348,disturbance in attention,349447249161494530,mental concentration difficulty
+603,fall asleep,10041349,somnolence,349447249161494530,somnolence
+604,dizzy,10013580,dizziness,333444462229479424,dizzy
+605,tired,10043890,fatigue,333444462229479424,tiredness
+606,sleep paralysis,10041002,sleep paralysis,347124997317345280,sleep paralysis
+607,lucid dreaming,10079069,abnormal dreams,347124997317345280,lucid dreams
+608,dark night of the soul,10012374,depressed mood,349860621141028865,depressed mood
+609,stomach ache,10042076,abdominal pain upper,346773119140233217,stomach ache
+610,headache,10019211,headache,346773119140233217,headache
+611,haze,10017565,feeling abnormal,348379241827688448,fuzzy
+612,munchies,10016336,hunger,330742256787156993,feeling hungry
+613,slur,10041053,dysarthria,351514109889617920,slurred speech
+614,zombie,10016384,feeling abnormal,340523944761249794,felt like a zombie
+615,pain,10033371,pain,340523944761249794,pain
+616,hurt,10033371,pain,332308454372950016,pain
+617,feeling like shit,10016370,malaise,336971197185146882,feeling unwell
+618,lightheaded,10024490,dizziness,341752534295248897,light-headed
+619,zombified,10016384,feeling abnormal,353102470534279169,felt like a zombie
+620,gained 80 pounds,10047896,weight increased,348478051098718208,weight gain
+621,feel so drink,10013767,feeling drunk,343238435450015744,drunk-like effect
+622,nauseated,10028822,nausea,343238435450015744,nauseated
+623,cant really walk,10049278,gait inability,343238435450015744,unable to walk
+624,munchies,10016336,hunger,333467863526563840,feeling hungry
+625,pain,10033371,pain,351487964435587074,pain
+626,pee so often,10046600,pollakiuria,349211958056202244,urination frequency of
+627,antsy,10038740,restlessness,340529630492639232,restless
+628,ill,10021345,malaise,348846174846992384,ill feeling
+629,gi effects,10018028,abdominal discomfort,353569952357285889,gastrointestinal upset
+630,sleepiness,10041014,somnolence,353569952357285889,sleepiness
+631,drowsiness,10013649,somnolence,353569952357285889,drowsiness
+632,paraesthesia,10033775,paraesthesia,343659472046153728,paraesthesia
+633,crabby,10023000,irritability,332391358042083328,irritable
+634,sluggish and groggy,10041052,sluggishness,332391358042083328,sluggishness
+635,nasty,10016370,malaise,333286778628870145,feeling unwell
+636,addicted,10012336,drug dependence,340287660444749825,dependence addictive
+637,chest pain,10008479,chest pain,353523202628124672,chest pain
+638,nausea,10028813,nausea,358371997434134529,nausea
+639,dilated pupils,10013014,mydriasis,358371997434134529,dilated pupils
+640,blurry vision,10005889,vision blurred,358371997434134529,blurry vision
+641,headaches,10019211,headache,358371997434134529,headache
+642,no sleeping,10041001,insomnia,342132195806310400,sleep loss
+643,gain weight,10047896,weight increased,347785064433729537,weight gain
+644,sleep,10040995,sleep disorder,347785064433729537,sleep disturbance
+645,like wading through treacle getting up,10018732,somnolence,327354645095784449,groggy on awakening
+646,weight,10047896,weight increased,349248724083544064,weight gain
+647,impotency,10021550,erectile dysfunction,352846236526706689,impotence
+648,grinds the shit out of their teeth,10043176,bruxism,343001295990427648,teeth grinding
+649,eat so much,10021654,increased appetite,347561124721479681,increased appetite
+650,hungry,10016336,hunger,354277272758398977,feeling hungry
+651,allergic,10001718,hypersensitivity,340839013978087424,allergic reaction
+652,hangover,10019136,hangover,333878722874707968,hangover effect
+653,allergic reaction,10001718,hypersensitivity,352936340440092673,allergic reaction
+654,going off of olanzapine is no picnic,10048010,withdrawal syndrome,340773072036560897,withdrawal syndrome
+655,addiction,10001125,dependence,339786137767919618,addiction
+656,coming off effexor was the worst,10048010,withdrawal syndrome,351610112521154561,withdrawal syndrome
+657,gastro pain,10017999,gastrointestinal pain,349900825138692098,gastrointestinal pain
+658,crying,10011469,crying,349900825138692098,crying
+659,can't go back to sleep,10041001,insomnia,344898461449199618,sleep loss
+660,need to be awake,10041349,somnolence,349684697766440960,somnolence
+661,dry mouth,10013781,dry mouth,332273658179493889,dry mouth
+662,shaky,10040528,tremor,345783011658313729,shaking
+663,headache,10019211,headache,344268787182338049,headache
+664,addiction,10001125,dependence,344268787182338049,addiction
+665,dependance,10013663,drug dependence,344268787182338049,drug dependence
+666,sleeping schedule of a fucking vampire,10041001,insomnia,342536907055591424,sleep loss
+667,bone,10036661,priapism,353718423064297473,priapism
+668,headache,10019211,headache,344970612671905793,headache
+669,back pain,10003988,back pain,344970612671905793,back pain
+670,mad,10002368,anger,341917271851151360,anger
+671,pain,10033371,pain,350891051063574529,pain
+672,sleep paralysis,10041002,sleep paralysis,327147666570108928,sleep paralysis
+673,holes in my head,10027374,mental impairment,349165462417977344,mental impairment
+674,depressed,10012378,depression,344600649050243073,depression
+675,make me a bigger asshole,10034719,personality change,342052382705844224,personality change
+676,withdrawals,10073281,withdrawal syndrome,328287774262321153,withdrawal symptom
+677,sweatin,10042661,hyperhidrosis,342307555504173057,sweating
+678,pains,10033371,pain,348807944244166658,pain
+679,burned,10006784,burning sensation,347423789698654209,burning sensation
+680,tired,10043890,fatigue,340811627488239616,tiredness
+681,jitters,10023191,feeling jittery,341958012736507904,jitteriness
+682,restlessness,10038743,restlessness,341958012736507904,restlessness
+683,no legit sex,10040477,sexual dysfunction,340300906463649793,sexual dysfunction
+684,resisting it,10043087,tachyphylaxis,332848240263327744,tachyphylaxis
+685,cravings ,10056465,food craving,351665424720609280,food craving
+686,alcoholism,10001639,alcoholism,351665424720609280,alcoholism
+687,emotional,10014555,affect lability,349644702485716992,emotional lability
+688,depressed,10012378,depression,351442731454828544,depression
+689,depressed,10012374,depressed mood,351442731454828544,depressed mood
+690,angry,10002368,anger,351442731454828544,anger
+691,worsening pain,10033499,pain,345577264949379072,pain worsened
+692,depressed,10012378,depression,342671774519009280,depression
+693,burn my veins,10006784,burning sensation,351490204550447105,burning sensation
+694,zombie,10016384,feeling abnormal,347388933082066947,felt like a zombie
+695,priapism,10036661,priapism,332748904128974848,priapism
+696,addicted,10001125,dependence,340180531025174528,addiction
+697,wonky,10016366,feeling abnormal,342397871229911040,feeling strange
+698,forgetting,10017060,memory impairment,350480290839408640,forgetfulness
+699, withdrawal,10073281,withdrawal syndrome,341294461986430977,withdrawal symptom
+700,bedridden,10048948,bedridden,341115149723250688,bedridden
+701,destroyed my entire body,10022876,disability,341115149723250688,invalid
+702,loopy,10017565,feeling abnormal,345578027834556416,fuzzy
+703,lucidity,10079069,abnormal dreams,348898590124552193,lucid dreams
+704,hurts,10022086,injection site pain,347326633725800448,injection site pain
+705,insomniac,10022437,insomnia,352468992402796544,insomnia
+706,destroyed my lungs,10025082,lung disorder,351521362562654208,lung disorder
+707,chemo,10061758,chemotherapy,351521362562654208,chemotherapy
+708,nocturnal,10041017,insomnia,342476405872939008,sleeplessness
+709,face break out,10000496,acne,358353085535494144,acne
+710,weight,10047896,weight increased,333210857737695232,weight gain
+711,insomnia,10022437,insomnia,343255424683892736,insomnia
+712,sleep,10041001,insomnia,344872069089075200,sleep loss
+713,feels like when you come off heroin,10073281,withdrawal syndrome,341139910352326656,withdrawal symptom
+714,acid like trips,10034376,illusion,329729190993747968,perceptual distortion
+715,withdrawal,10073281,withdrawal syndrome,343656563547967488,withdrawal symptom
+716,sweatin,10042661,hyperhidrosis,332538601629966336,sweating
+717,dreams became vivider,10047666,abnormal dreams,348901778563166209,vivid dreams
+718,coming off effexor is not fun,10048010,withdrawal syndrome,348243864877940736,withdrawal syndrome
+719,lost effectiveness,10043087,tachyphylaxis,341808582465032192,tachyphylaxis
+720,destroyed my liver,10024668,liver injury,342730668704415745,liver damage
+721,tendon rupture,10043248,tendon rupture,353836819030360064,tendon rupture
+722,crippled,10049278,gait inability,353836819030360064,unable to walk
+723,weak,10047862,asthenia,353176251315388416,weakness
+724,not sleeping,10041001,insomnia,342108661340045312,sleep loss
+725,hating food,10049238,food aversion,344583271889379328,food aversion
+726,stressful,10042209,stress,342170584928624640,stress
+727,coma,10041349,somnolence,342344675572727811,somnolence
+728,hating the world,10002368,anger,345297976589172736,anger
+729,tweakin out,10070679,feeling abnormal,342944016616259585,feeling stoned
+730,fluid retention,10016807,fluid retention,348262745730338817,fluid retention
+731,pain,10033371,pain,348262745730338817,pain
+732,withdrawals,10073281,withdrawal syndrome,351679516072087552,withdrawal symptom
+733,sleepy,10041018,somnolence,334022366457917440,sleepy
+734,allergic,10001718,hypersensitivity,358354458083729408,allergic reaction
+735,face break out,10000496,acne,358354458083729408,acne
+736,tolerance,10043087,tachyphylaxis,340739507114610688,tachyphylaxis
+737,come too fast,10036596,premature ejaculation,340739507114610688,premature ejaculation
+738,mood swings,10027951,mood swings,342013591882457089,mood swings
+739,"you can check in, but you can never leave",10013663,drug dependence,349638554021937154,drug dependence
+740,gaps in memory,10027175,memory impairment,345410371047260163,memory impairment
+741,beat up,10048024,fatigue,341809071080497152,worn out
+742,night terrors,10029411,sleep terror,354265959877443586,night terrors
+743,chest hurt,10008479,chest pain,345293061229772800,chest pain
+744,dizzy,10013580,dizziness,345293061229772800,dizzy
+745,increase my weight,10047898,weight increased,349181683293102080,weight increase
+746,fewer hours sleep,10041001,insomnia,327148912026734592,sleep loss
+747,ate,10021654,increased appetite,326784616725880832,increased appetite
+748,sloth,10041052,sluggishness,344551845043245056,sluggishness
+749,weight gain,10047896,weight increased,344551845043245056,weight gain
+750, sleeping 18 hrs a day ,10011865,somnolence,349200053262508033,daytime sleepiness
+751,light nights sleep,10040995,sleep disorder,326614974128611328,sleep disturbance
+752,aching,10062428,pain,349629182269067268,generalized aching
+753,might notice if i got hit in the crotch w/ a lance in a jousting accident,10024870,loss of libido,332946951085645824,loss of libido
+754,portions prob too big,10015598,hyperphagia,346300414737657856,excessive eating
+755,panic attacks,10033665,panic attack,333893811094835200,panic attacks
+756,fucks up my sleep,10040999,sleep disorder,342318826886676480,sleep disturbed
+757,withdrawal,10048010,withdrawal syndrome,349022614959837184,withdrawal syndrome
+758,lost 10 pounds,10047900,weight decreased,348083103367041025,weight loss
+759,cravings,10056465,food craving,328962220069371905,food craving
+760,hunger,10016336,hunger,328962220069371905,feeling hungry
+761,crazy dreams,10004969,abnormal dreams,348910622882271233,bizarre dreams
+762,nosleep,10041001,insomnia,342161425730510848,sleep loss
+763,messed up my attitude,10003743,personality change,347834624304640001,attitude change
+764,mean,10045549,personality disorder,347834624304640001,unpleasant personality
+765,sleep for 15 hours,10041000,hypersomnia,343283285671170048,sleep excessive
+766,negative,10058672,negative thoughts,342646731856572416,negative thoughts
+767,withdrawals,10073281,withdrawal syndrome,340474716039020545,withdrawal symptom
+768,drowsy,10013649,somnolence,326972731151228928,drowsiness
+769,tired,10043890,fatigue,346054053182193665,tiredness
+770,intense dreams,10047666,abnormal dreams,349549083389734912,vivid dreams
+771,could be tired,10022437,insomnia,341767085216645120,insomnia
+772,never sleeping,10041001,insomnia,341767085216645120,sleep loss
+773,zombieish,10016384,feeling abnormal,332166258600591361,felt like a zombie
+774,make those numbers bigger,10047896,weight increased,347632066566955008,weight gain
+775,hating the world,10023000,irritability,345298918160089088,irritable
+776,want to sleeeeep,10022437,insomnia,342157040875106304,insomnia
+777,sick,10016365,malaise,345241637078847489,feeling sick
+778,knocks you outttttttt,10024855,loss of consciousness,346348329573179393,loss of consciousness
+779,headache,10019211,headache,351522228065677312,headache
+780,nausea,10028813,nausea,351522228065677312,nausea
+781,throat,10013789,dry throat,352682252943097858,dry throat
+782,dry nose,10013782,nasal dryness,352682252943097858,dry nose
+783,sicksicksick,10016365,malaise,350461821540511744,feeling sick
+784,withdrawals,10048010,withdrawal syndrome,350461821540511744,withdrawal syndrome
+785,withdraws,10048010,withdrawal syndrome,350461821540511744,withdrawal syndrome
+786,sick,10016365,malaise,350461821540511744,feeling sick
+787,tummy trouble,10045148,abdominal pain,341903484242784256,tummy ache
+788,can't sleep,10041001,insomnia,344746260735086592,sleep loss
+789,withdrawal,10073281,withdrawal syndrome,333427125795291136,withdrawal symptom
+790,cant feel my mouth,10029855,hypoaesthesia oral,347309156950228993,numbness oral
+791,addictive,10012336,drug dependence,347901459817455617,dependence addictive
+792,dead from the waist down,10024870,loss of libido,350041405743316992,loss of libido
+793,zombie,10016384,feeling abnormal,342050583336857600,felt like a zombie
+794,fat,10047896,weight increased,342349802601844737,weight gain
+795,gainin weight,10047896,weight increased,342349802601844737,weight gain
+796,can't cum,10021574,anorgasmia,342349802601844737,inability to orgasm
+797,just now wake up,10019158,somnolence,351727727977570304,hard to awaken
+798,sick,10016365,malaise,354054424613756928,feeling sick
+799,withdrawal,10048010,withdrawal syndrome,354054424613756928,withdrawal syndrome
+800,withdrawals,10073281,withdrawal syndrome,340331870745149440,withdrawal symptom
+801,irritable,10023000,irritability,340331870745149440,irritable
+802,headache,10019211,headache,340331870745149440,headache
+803,no taste,10043134,ageusia,344106817900646401,taste loss
+804,appetite,10074314,appetite disorder,333422979587395584,appetite fluctuation
+805,feel like i need to throw up,10028823,nausea,343743356163207169,nauseous
+806,withdrawal,10073281,withdrawal syndrome,332464487540076544,withdrawal symptom
+807,just woke up,10041349,somnolence,349916421687480320,somnolence
+808,dehydrate,10012174,dehydration,344220746198958080,dehydration
+809,pee way too much,10046600,pollakiuria,344220746198958080,urination frequency of
+810, withdrawal,10073281,withdrawal syndrome,340345154877673473,withdrawal symptom
+811,withdrawal,10073281,withdrawal syndrome,340253546513584128,withdrawal symptom
+812,aches,10000424,pain,350547781091459072,ache
+813,pains,10033371,pain,350547781091459072,pain
+814,tremors in hands,10044577,tremor,351677046755303424,tremor of hands
+815,desperation,10016344,feeling of despair,351677046755303424,feeling of despair
+816,body would rock ,10044565,tremor,351677046755303424,tremor
+817,tremors in hands and legs,10044565,tremor,351677046755303424,tremor
+818,restlessness,10038743,restlessness,351677046755303424,restlessness
+819,drunk,10013767,feeling drunk,332149585260716033,drunk-like effect
+820,dry-mouth,10013781,dry mouth,346719952394416128,dry mouth
+821,no appetite,10003017,decreased appetite,333600785923461120,appetite absent
+822,addiction,10001125,dependence,340261980675907585,addiction
+823,angry,10002368,anger,340613526244704256,anger
+824,withdrawls,10073281,withdrawal syndrome,340613526244704256,withdrawal symptom
+825,miserable,10016342,feeling abnormal,340613526244704256,feeling miserable
+826,drowsy,10013649,somnolence,342222086913261568,drowsiness
+827,weight gain,10047896,weight increased,342222086913261568,weight gain
+828,nosebleed,10029792,epistaxis,344446908271570944,nose bleed
+829,zombie,10016384,feeling abnormal,347260952837754880,felt like a zombie
+830,nightmare,10029412,nightmare,342232503395962880,nightmare
+831,flu iike symptoms,10016791,influenza like illness,343255526232178688,flu like symptoms
+832,sweats,10042661,hyperhidrosis,343255526232178688,sweating
+833,shivers,10040559,chills,343255526232178688,shivers
+834,aches and pains,10000424,pain,343255526232178688,ache
+835,increase my weight,10047896,weight increased,349181810237898752,weight gain
+836,can't sleep,10041001,insomnia,351027118215413761,sleep loss
+837,crazy,10037234,psychotic disorder,351612615128133633,psychosis
+838,hungry,10020466,hunger,344923302919278592,hunger
+839,tear my own face off &amp; eat it,10020467,appetite disorder,344923302919278592,hunger abnormal
+840,cry,10011469,crying,344923302919278592,crying
+841,rip out my teeth,10001495,agitation,340217407362715649,agitated
+842,thirty minutes to type,10010300,confusional state,348283506037764098,confusion
+843,lo0o0py,10017565,feeling abnormal,348283506037764098,fuzzy
+844,waking up without knowing i feel asleep,10041349,somnolence,348283506037764098,somnolence
+845,swollen lower legs,10042700,peripheral swelling,343472402082181120,swelling of legs
+846,back pain,10003988,back pain,343472402082181120,back pain
+847,fluid retention,10016807,fluid retention,343472402082181120,fluid retention
+848,aches,10000424,pain,343472402082181120,ache
+849,painful,10033371,pain,347173948510834688,pain
+850,cooked my brain,10027175,memory impairment,343771158736404481,memory impairment
+851,hallucinations,10019077,hallucination,331478814888689664,hallucinations
+852,breastmilk production,10023666,galactorrhoea,331478814888689664,lactation induced
+853,exacerbates,10076326,condition aggravated,342359425400582144,condition worsened
+854,addicted,10012336,drug dependence,340307896074133504,dependence addictive
+855,discomfort,10013082,discomfort,333014107940872193,discomfort
+856,gorked,10016322,feeling abnormal,333787466597285888,feeling abnormal
+857,panic attack,10033664,panic attack,332830369000853504,panic attack
+858,stopped working,10043087,tachyphylaxis,347620121323372545,tachyphylaxis
+859,veins,10047184,vein disorder,341668123092598784,vein disorder
+860,hungrier,10016336,hunger,331842963699286016,feeling hungry
+861,addiction,10001125,dependence,344829955051495424,addiction
+862,get out of bed,10019158,somnolence,353477521070751744,hard to awaken
+863,cravings,10056465,food craving,354004406896828416,food craving
+864,increased appetite,10021654,increased appetite,354004406896828416,increased appetite
