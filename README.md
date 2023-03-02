@@ -11,7 +11,7 @@ This repository contains the source code used for the experimental session of th
 The datasets used for the experimental session are in the 
 `data` folder, expert for `PROP` that cannot be publicly released.
 
-In the `train.csv` and `test.csv` files the important columns refer to:
+In the `train.csv` and `test.csv` files the relevant columns refer to:
 
 * `ae`: the *ADE* in the original sample text
 * `term`: the preferred term *PT*
