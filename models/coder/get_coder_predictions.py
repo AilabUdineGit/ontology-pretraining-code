@@ -14,46 +14,49 @@ import argparse
 
 from get_coder_embeddings import main as get_coder_embeddings
 
-#---------------------------------------------------------
+# ---------------------------------------------------------
 
 
 def main(model_path, outpath, dataset, split):
-    
     outpath_avg = f"{outpath}/{dataset}/run_{split}"
     outpath_cls = f"{outpath}_cls/{dataset}/run_{split}"
     acc_path = lambda outpath: f"{outpath}/acc.txt"
     pred_path = lambda outpath: f"{outpath}/preds.csv"
-    
+
     if not os.path.exists(outpath_avg):
         os.makedirs(outpath_avg)
     # if not os.path.exists(outpath_cls):
     #     os.makedirs(outpath_cls)
 
     def tokenize_function(examples):
-        return tokenizer(examples[TEXT_COL], padding='longest')
+        return tokenizer(examples[TEXT_COL], padding="longest")
 
     def embed_function(examples):
-        del_keys = [k for k in examples if k not in
-                    ["input_ids", "token_type_ids", "attention_mask"]]
+        del_keys = [
+            k for k in examples if k not in ["input_ids", "token_type_ids", "attention_mask"]
+        ]
         for k in del_keys:
             del examples[k]
-        examples = {k:v.to(device) for k,v in examples.items()}
+        examples = {k: v.to(device) for k, v in examples.items()}
         with torch.no_grad():
             out = model(**examples)[0].cpu()
-        return dict(CLS=out[:,0,:].numpy(), AVG=out.mean(axis=1).numpy())
+        return dict(CLS=out[:, 0, :].numpy(), AVG=out.mean(axis=1).numpy())
 
     def compute_accuracy(real_labels, all_preds):
         accs = []
         for k in range(10):
-            acc_n = np.mean([1 if r in a[:k+1] else 0 for (r,a) in zip(real_labels, all_preds)]) if all_preds is not None else -1
+            acc_n = (
+                np.mean([1 if r in a[: k + 1] else 0 for (r, a) in zip(real_labels, all_preds)])
+                if all_preds is not None
+                else -1
+            )
             accs.append(round(acc_n, 4))
         return accs
 
-
     test_set = f"../dataset/{dataset}/run_{split}/test.csv"
-    
+
     original_model_path = model_path
-    
+
     if not os.path.exists(model_path):
         model_path = model_path.replace("/", "|")
 
@@ -61,11 +64,13 @@ def main(model_path, outpath, dataset, split):
         print("embedding meddra vocabulary first")
         get_coder_embeddings(original_model_path, args.force)
 
-
-    if os.path.exists(pred_path(outpath_avg)) and os.path.exists(pred_path(outpath_cls)) and (not args.force):
+    if (
+        os.path.exists(pred_path(outpath_avg))
+        and os.path.exists(pred_path(outpath_cls))
+        and (not args.force)
+    ):
         print(pred_path(outpath_avg), "and", pred_path(outpath_cls), "already exist")
         return
-
 
     model = AutoModel.from_pretrained(original_model_path)
     tokenizer = AutoTokenizer.from_pretrained("GanjinZero/coder_eng", config=model.config)
@@ -84,9 +89,7 @@ def main(model_path, outpath, dataset, split):
     print(">> tokenizing")
     dataset = dataset.map(tokenize_function, batched=True, batch_size=None)
     dataset.set_format(
-        "torch",
-        columns=["input_ids", "token_type_ids", "attention_mask"],
-        output_all_columns=True
+        "torch", columns=["input_ids", "token_type_ids", "attention_mask"], output_all_columns=True
     )
     print(">> embedding")
     dataset = dataset.map(embed_function, batched=True, batch_size=256)
@@ -102,12 +105,10 @@ def main(model_path, outpath, dataset, split):
     df_cls = df.copy()
     df_cls["model_generated"] = None
 
-
-    for idx,sample in enumerate(tqdm(dataset, desc="calculating similarity")):
-
+    for idx, sample in enumerate(tqdm(dataset, desc="calculating similarity")):
         sim = sim_function(sample["CLS"].unsqueeze(0), all_meddra_cls)
         sort_sim, indices = sim.sort(descending=True)
-        df_cls.at[idx, "model_generated"] = [meddra.ENG.iloc[i] for i in indices[:10].tolist()] 
+        df_cls.at[idx, "model_generated"] = [meddra.ENG.iloc[i] for i in indices[:10].tolist()]
 
         sim = sim_function(sample["AVG"].unsqueeze(0), all_meddra_avg)
         sort_sim, indices = sim.sort(descending=True)
@@ -115,23 +116,30 @@ def main(model_path, outpath, dataset, split):
 
     # for data, op in zip([df_cls, df_avg], [outpath_cls, outpath_avg]):
     for data, op in zip([df_avg], [outpath_avg]):
-
         data.to_csv(pred_path(op), index=None)
         x = compute_accuracy(data.term, data.model_generated)
         print(x)
         x = pd.DataFrame(x, columns=["acc@k"])
         x.to_csv(acc_path(op), index=False)
-        
-        
-if __name__ == '__main__':
-    
+
+
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-p", "--path", required=True, help="path of the coder model")
-    parser.add_argument("-o", "--outpath", required=True, help="name of the main output dir for this model")
-    parser.add_argument("-d", "--dataset", required=True, choices=["cadec", "irms", "smm4h"], help="dataset to test on")
-    parser.add_argument("-s", "--split", required=True, choices=["0","1","2","3"], help="data split to test on")
+    parser.add_argument(
+        "-o", "--outpath", required=True, help="name of the main output dir for this model"
+    )
+    parser.add_argument(
+        "-d",
+        "--dataset",
+        required=True,
+        choices=["cadec", "irms", "smm4h"],
+        help="dataset to test on",
+    )
+    parser.add_argument(
+        "-s", "--split", required=True, choices=["0", "1", "2", "3"], help="data split to test on"
+    )
     parser.add_argument("-f", "--force", action="store_true", help="force to recompute embeddings")
     args = parser.parse_args()
-    
+
     main(args.path, args.outpath, args.dataset, args.split)
-    

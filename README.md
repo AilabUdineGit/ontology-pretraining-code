@@ -24,6 +24,12 @@ by yourself.
 
 ## Models execution
 
+To create an environment `env` and install all the requirements, run:
+
+```
+make venv
+```
+
 In each folder in `models` you can find a `train_test.sh` script to run an example.
 
 

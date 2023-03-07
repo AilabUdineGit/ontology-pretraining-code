@@ -18,6 +18,7 @@ _URLS = "None"
 
 class ADEConfig(datasets.BuilderConfig):
     """BuilderConfig."""
+
     def __init__(self, **kwargs):
         super(ADEConfig, self).__init__(**kwargs)
 
@@ -49,20 +50,19 @@ class ADEDataset(datasets.GeneratorBasedBuilder):
             supervised_keys=None,
             homepage="None",
             citation=_CITATION,
-            
         )
 
     def _split_generators(self, dl_manager):
-        num = ""#input("Choose IRMS dataset to load (1-10): ")
+        num = ""  # input("Choose IRMS dataset to load (1-10): ")
         if self.config.data_dir.split("/")[-1].isnumeric():
-            self.config.data_dir = self.config.data_dir[:self.config.data_dir.rfind("/")]
-            
-        train_path = self.config.data_dir + '/train.pickle'
-        valid_path = self.config.data_dir + '/valid.pickle'
-        test_path = self.config.data_dir + '/test.pickle'
+            self.config.data_dir = self.config.data_dir[: self.config.data_dir.rfind("/")]
+
+        train_path = self.config.data_dir + "/train.pickle"
+        valid_path = self.config.data_dir + "/valid.pickle"
+        test_path = self.config.data_dir + "/test.pickle"
 
         self._shuffle_data()
-        
+
         return [
             datasets.SplitGenerator(
                 name=datasets.Split.TRAIN,
@@ -82,39 +82,35 @@ class ADEDataset(datasets.GeneratorBasedBuilder):
         """This function returns the examples in the raw (text) form."""
         logger.info("generating examples from = %s", datapath)
         key = 0
-        
-        df = pd.read_pickle(datapath).fillna("")
-        
-        for idx, row in df.iterrows():
-    
-                guid = "%s-%s-%s" % (str(key), datatype, row.index)
-                text_a = row.ae #line[1]
-                label = row.term #line[2]
-                
-                yield key, {
-                    "id": guid,
-                    "full_text": row.text,
-                    "text": row.ae,
-                    "label": row.term,
-                    }
-                key = key + 1
 
-        
+        df = pd.read_pickle(datapath).fillna("")
+
+        for idx, row in df.iterrows():
+            guid = "%s-%s-%s" % (str(key), datatype, row.index)
+            text_a = row.ae  # line[1]
+            label = row.term  # line[2]
+
+            yield key, {
+                "id": guid,
+                "full_text": row.text,
+                "text": row.ae,
+                "label": row.term,
+            }
+            key = key + 1
+
     def _shuffle_data(self):
-        
-        train_path = self.config.data_dir + '/train.pickle'
-        valid_path = self.config.data_dir + '/valid.pickle'
-        test_path = self.config.data_dir + '/test.pickle'
-        
-        
-        datapath = self.config.data_dir + '/ae_to_term_all_levels.pickle'
+        train_path = self.config.data_dir + "/train.pickle"
+        valid_path = self.config.data_dir + "/valid.pickle"
+        test_path = self.config.data_dir + "/test.pickle"
+
+        datapath = self.config.data_dir + "/ae_to_term_all_levels.pickle"
         df = pd.read_pickle(datapath).fillna("")
 
         random_ids = pd.Series(df.samp_id.unique()).sample(frac=1).tolist()
         train_perc = 0.8
 
-        train_ids = random_ids[:int(len(random_ids)*0.8)]
-        test_ids = random_ids[int(len(random_ids)*0.8):]
+        train_ids = random_ids[: int(len(random_ids) * 0.8)]
+        test_ids = random_ids[int(len(random_ids) * 0.8) :]
 
         df.index = df.samp_id
 

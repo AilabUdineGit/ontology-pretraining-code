@@ -1,27 +1,14 @@
-
 def setup_parser(parser):
     parser.add_argument(
         "--location",
         type=str,
         default="default",
-        help="Machine on which the code is run. Determines save path variables and deepspeed config."
+        help="Machine on which the code is run. Determines save path variables and deepspeed config.",
     )
+    parser.add_argument("--dataset_test", type=str, default=None, help="")
+    parser.add_argument("--model", type=str, help="Name of the model to finetune/evaluate.")
     parser.add_argument(
-        "--dataset_test",
-        type=str,
-        default=None,
-        help=""
-    )
-    parser.add_argument(
-        "--model",
-        type=str,
-        help="Name of the model to finetune/evaluate."
-    )
-    parser.add_argument(
-        "--dataset",
-        type=str,
-        required=True,
-        help="Name of the dataset to evaluate on."
+        "--dataset", type=str, required=True, help="Name of the dataset to evaluate on."
     )
     parser.add_argument(
         "--epochs",
