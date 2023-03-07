@@ -1,5 +1,5 @@
 datasets==2.2.2
 sklearn
 torch
-transformers==4.19.2
 sentencepiece
+transformers==4.19.2
