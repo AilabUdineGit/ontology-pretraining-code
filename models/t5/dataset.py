@@ -1,5 +1,5 @@
-from torch.utils.data import Dataset
 import pandas as pd
+from torch.utils.data import Dataset
 
 
 def generate_dataset(args, train_or_test, tokenizer, max_length):
@@ -48,7 +48,7 @@ class PrototypeDataset(Dataset):
 
 class MeddraDT(PrototypeDataset):
     def __init__(self, tokenizer, max_length):
-        path = f"../dataset/llt_to_pt/run_0/train.csv"
+        path = "../dataset/llt_to_pt/run_0/train.csv"
         df = pd.read_csv(path, low_memory=False)
         df.loc[:, "prefix"] = "normalize"
         df["ae"] = df["prefix"] + ": " + df["ae"]

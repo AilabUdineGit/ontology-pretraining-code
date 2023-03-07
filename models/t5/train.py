@@ -1,12 +1,18 @@
 import argparse
 import json
 import os
+
 import torch
-from transformers import TrainingArguments, Trainer, T5ForConditionalGeneration, AutoTokenizer
 
 # ---------------------------------------------------
 from cli import setup_parser
 from dataset import generate_dataset
+from transformers import (
+    AutoTokenizer,
+    T5ForConditionalGeneration,
+    Trainer,
+    TrainingArguments,
+)
 
 
 def main(args):
@@ -14,10 +20,8 @@ def main(args):
 
     torch.manual_seed(42)
 
-    base_model = args.base_model
-
     # model_name
-    if args.train_load_path == None:
+    if args.train_load_path is None:
         model = args.model
     else:
         model = os.path.join(args.train_load_path, "model")

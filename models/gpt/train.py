@@ -1,14 +1,15 @@
 import argparse
-from datasets import load_dataset
 import os
 import sys
+
 import torch
-from torch.utils.data import Dataset
-from transformers import TrainingArguments, Trainer, AutoTokenizer
 
 # ---------------------------------------------------
 from cli import setup_parser
 from constants import model_related_const
+from datasets import load_dataset
+from torch.utils.data import Dataset
+from transformers import AutoTokenizer, Trainer, TrainingArguments
 
 # ---------------------------------------------------
 
@@ -32,7 +33,6 @@ def main(train):
     if FROM_PATH:
         MODEL_NAME = MODEL_BASE_PATH + MODEL_NAME
 
-    MODEL = args.model
     SPLIT = args.split
     WEIGHTS_OUTPUT_DIR = f"{MODEL_BASE_PATH}epoch_{args.epochs}|{args.dataset}|run_{SPLIT}|{args.model}|bs_{BATCH_SIZE*GRADIENT_ACCUMULATION_STEPS}"
 
@@ -67,7 +67,6 @@ def main(train):
         **load_dataset_args, download_mode="force_redownload", ignore_verifications=True
     )
     train_set = data["train"]
-    test_set = data["test"]
     # ---------------------------------------------------
 
     before_sample = BEFORE_SAMPLE if len(BEFORE_SAMPLE) > 0 else ""

@@ -1,13 +1,11 @@
-from tqdm import tqdm
-import pandas as pd
-
-import os
-import torch
-
-from datasets import Dataset
-from transformers import AutoTokenizer, AutoModel
-
 import argparse
+import os
+
+import pandas as pd
+import torch
+from datasets import Dataset
+from tqdm import tqdm
+from transformers import AutoModel, AutoTokenizer
 
 # ---------------------------------------------------------
 

@@ -1,17 +1,18 @@
 import argparse
 import json
-import numpy as np
 import os
+
+import numpy as np
 import pandas as pd
-from sklearn.metrics import classification_report
 import torch
-from tqdm import tqdm
-from torch.utils.data import DataLoader, SequentialSampler
-from transformers import T5ForConditionalGeneration, AutoTokenizer
 
 # ---------------------------------------------------
 from cli import setup_parser
 from dataset import generate_dataset
+from sklearn.metrics import classification_report
+from torch.utils.data import DataLoader, SequentialSampler
+from tqdm import tqdm
+from transformers import AutoTokenizer, T5ForConditionalGeneration
 
 
 def main(args):
@@ -70,7 +71,6 @@ def report(generated, aes, terms, args):
         {
             "ae": aes,
             "model_generated": [x[0].lower() for x in generated],
-            #'votes': [x[0].lower() for x in votes],
             "gold_label": terms,
         }
     )
@@ -103,7 +103,6 @@ def report(generated, aes, terms, args):
         {
             "ae": aes,
             "model_generated": [[y.lower() for y in x] for x in generated],
-            #'votes': [[y.lower() for y in x] for x in generated],
             "gold_label": terms,
         }
     )

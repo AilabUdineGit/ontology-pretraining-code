@@ -1,4 +1,5 @@
 import argparse
+
 from cli import setup_parser
 
 if __name__ == "__main__":

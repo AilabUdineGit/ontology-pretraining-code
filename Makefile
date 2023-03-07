@@ -4,9 +4,9 @@ SHELL = /bin/bash
 # Styling
 .PHONY: style
 style:
-	black .
-	flake8
-	isort .
+	python3 -m black .
+	python3 -m flake8
+	python3 -m isort .
 
 # Environment
 .PHONY: venv

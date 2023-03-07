@@ -1,4 +1,4 @@
-from transformers import GPTNeoForCausalLM, GPT2LMHeadModel
+from transformers import GPT2LMHeadModel, GPTNeoForCausalLM
 
 # ---------------------------------------------------
 

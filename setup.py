@@ -18,7 +18,5 @@ setup(
     python_requires=">=3.8",
     packages=find_namespace_packages(),
     install_requires=requirements(),
-    extras_require={
-        "dev": ["black", "flake8", "isort"]
-        }
+    extras_require={"dev": ["black", "flake8", "isort"]},
 )

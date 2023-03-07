@@ -1,19 +1,19 @@
-from MeddraPredictors import MeddraPredictor_unconstrained_multiple
-
 # ---------------------------------------------------
 import argparse
 import os
+
+import numpy as np
 import pandas as pd
 import torch
 
 # ---------------------------------------------------
 from cli import setup_parser
 from constants import model_related_const
+from loader import GeneralDataset
+from MeddraPredictors import MeddraPredictor_unconstrained_multiple
 
 # ---------------------------------------------------
 from sklearn.metrics import classification_report
-import numpy as np
-from loader import GeneralDataset
 
 
 def main(train):
@@ -45,7 +45,6 @@ def main(train):
     if FROM_PATH:
         MODEL_NAME = MODEL_BASE_PATH + MODEL_NAME
 
-    MODEL = args.model
     SPLIT = args.split
     WEIGHTS_OUTPUT_DIR = f"{MODEL_BASE_PATH}epoch_{args.epochs}|{args.dataset}|run_{SPLIT if args.dataset != 'llt_to_pt' else 0}|{args.model}|bs_{BATCH_SIZE*GRADIENT_ACCUMULATION_STEPS}"
 

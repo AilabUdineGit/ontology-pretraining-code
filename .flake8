@@ -1,9 +1,5 @@
 [flake8]
 exclude =
 	env
-ignore = E501, W503, E226, F401
+ignore = E501, W503, E226, F401,E203
 max-line-length = 79
-
-# E501: Line too long
-# W503: Line break occurred before binary operator
-# E226: Missing white space around arithmetic operator

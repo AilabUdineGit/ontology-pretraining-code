@@ -1,4 +1,7 @@
-from transformers import BertForSequenceClassification, AutoModelForSequenceClassification
+from transformers import (
+    AutoModelForSequenceClassification,
+    BertForSequenceClassification,
+)
 
 # ---------------------------------------------------
 

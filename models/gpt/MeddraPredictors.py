@@ -1,18 +1,18 @@
-from torch import nn
-from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
+from torch import nn
 from tqdm import tqdm
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 DEVICE = "cuda"
 torch.manual_seed(42)
 
 
-def batch(l, size=16):
+def batch(text, size=16):
     i = 0
 
-    while i < len(l):
+    while i < len(text):
         i += size
-        yield l[i - size : i]
+        yield text[i - size : i]
 
 
 class MeddraPredictor_unconstrained_multiple(nn.Module):
@@ -38,7 +38,6 @@ class MeddraPredictor_unconstrained_multiple(nn.Module):
         self.model.eval()
 
     def forward(self, test_set):
-        MAX_GEN = self.MAX_GEN
         BATCH_SIZE = 1
 
         print(self.model.device)

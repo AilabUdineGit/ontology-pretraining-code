@@ -1,27 +1,25 @@
-from tqdm import tqdm
-import pandas as pd
-
+import argparse
 import glob
-import torch
 import os
 
 import numpy as np
-
+import pandas as pd
+import torch
 from datasets import Dataset
-from transformers import AutoTokenizer, AutoModel
-
-import argparse
-
 from get_other_embeddings import main as get_other_embeddings
+from tqdm import tqdm
+from transformers import AutoModel, AutoTokenizer
 
 # ---------------------------------------------------------
+
+
+def pred_path(outpath):
+    return f"{outpath}/preds.csv"
 
 
 def main(model_path, outpath, dataset, split):
     outpath_avg = f"{outpath}/{dataset}/run_{split}"
     outpath_cls = f"{outpath}_cls/{dataset}/run_{split}"
-    acc_path = lambda outpath: f"{outpath}/acc.txt"
-    pred_path = lambda outpath: f"{outpath}/preds.csv"
 
     if not os.path.exists(outpath_avg):
         os.makedirs(outpath_avg)
@@ -119,7 +117,7 @@ def main(model_path, outpath, dataset, split):
         x = compute_accuracy(data.term, data.model_generated)
         print(x)
         x = pd.DataFrame(x, columns=["acc@k"])
-        x.to_csv(acc_path(op), index=False)
+        x.to_csv(f"{op}/acc.txt", index=False)
 
 
 if __name__ == "__main__":
@@ -132,7 +130,7 @@ if __name__ == "__main__":
         "-d",
         "--dataset",
         required=True,
-        choices=["cadec", "irms", "smm4h"],
+        choices=["cadec", "smm4h"],
         help="dataset to test on",
     )
     parser.add_argument(

@@ -1,11 +1,9 @@
-"""IRMS Dataset"""
-
 import json
 import os
-import datasets
 import sys
-import pandas as pd
 
+import datasets
+import pandas as pd
 
 logger = datasets.logging.get_logger(__name__)
 
@@ -24,8 +22,6 @@ class ADEConfig(datasets.BuilderConfig):
 
 
 class ADEDataset(datasets.GeneratorBasedBuilder):
-    """IRMS Dataset"""
-
     BUILDER_CONFIGS = [
         ADEConfig(
             name="plain_text",
@@ -53,7 +49,6 @@ class ADEDataset(datasets.GeneratorBasedBuilder):
         )
 
     def _split_generators(self, dl_manager):
-        num = ""  # input("Choose IRMS dataset to load (1-10): ")
         if self.config.data_dir.split("/")[-1].isnumeric():
             self.config.data_dir = self.config.data_dir[: self.config.data_dir.rfind("/")]
 
@@ -87,8 +82,6 @@ class ADEDataset(datasets.GeneratorBasedBuilder):
 
         for idx, row in df.iterrows():
             guid = "%s-%s-%s" % (str(key), datatype, row.index)
-            text_a = row.ae  # line[1]
-            label = row.term  # line[2]
 
             yield key, {
                 "id": guid,
@@ -109,8 +102,8 @@ class ADEDataset(datasets.GeneratorBasedBuilder):
         random_ids = pd.Series(df.samp_id.unique()).sample(frac=1).tolist()
         train_perc = 0.8
 
-        train_ids = random_ids[: int(len(random_ids) * 0.8)]
-        test_ids = random_ids[int(len(random_ids) * 0.8) :]
+        train_ids = random_ids[: int(len(random_ids) * train_perc)]
+        test_ids = random_ids[int(len(random_ids) * train_perc) :]
 
         df.index = df.samp_id
 

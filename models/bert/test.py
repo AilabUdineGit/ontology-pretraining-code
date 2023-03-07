@@ -1,18 +1,17 @@
-from MeddraPredictors import MeddraPredictor_multiple
-
 # ---------------------------------------------------
 import argparse
 import os
+
+# ---------------------------------------------------
+import numpy as np
 import pandas as pd
 import torch
 
 # ---------------------------------------------------
 from cli import setup_parser
 from constants import model_related_const
-
-# ---------------------------------------------------
-import numpy as np
 from loader import GeneralDataset
+from MeddraPredictors import MeddraPredictor_multiple
 
 
 def main(train):
@@ -44,14 +43,13 @@ def main(train):
     if FROM_PATH:
         MODEL_NAME = MODEL_BASE_PATH + MODEL_NAME
 
-    MODEL = args.model
     SPLIT = args.split
     WEIGHTS_OUTPUT_DIR = f"{MODEL_BASE_PATH}epoch_{args.epochs}|{args.dataset}|run_{SPLIT if args.dataset != 'llt_to_pt' else 0}|{args.model}|bs_{BATCH_SIZE*GRADIENT_ACCUMULATION_STEPS}"
 
     if args.test_dataset is not None:
         args.dataset = args.test_dataset
 
-    RESULTS_OUTPUT_DIR = f"{args.outpath}/{args.dataset.replace('irms', 'irm')}/run_{SPLIT}"
+    RESULTS_OUTPUT_DIR = f"{args.outpath}/{args.dataset}/run_{SPLIT}"
 
     if not os.path.exists(RESULTS_OUTPUT_DIR):
         os.makedirs(RESULTS_OUTPUT_DIR)

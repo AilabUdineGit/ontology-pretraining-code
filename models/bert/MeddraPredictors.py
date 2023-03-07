@@ -1,9 +1,9 @@
-from torch import nn
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
-import torch
-from tqdm import tqdm
 import json
 
+import torch
+from torch import nn
+from tqdm import tqdm
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 DEVICE = "cuda"
 torch.manual_seed(42)
@@ -35,10 +35,6 @@ class MeddraPredictor_multiple(nn.Module):
         self.model = model
 
     def forward(self, test_set):
-        MAX_GEN = self.MAX_GEN
-
-        print(self.model.device)
-
         GENERATED = []
 
         with torch.no_grad():
@@ -47,8 +43,6 @@ class MeddraPredictor_multiple(nn.Module):
                 prompt = self.tokenizer(prompt_str, return_tensors="pt").input_ids.to(
                     self.model.device
                 )
-
-                label = torch.tensor(self.label_to_int[samp["label"]])
 
                 out = self.model(prompt)
                 logits = out.logits.squeeze()
