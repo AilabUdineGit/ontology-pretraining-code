@@ -33,11 +33,11 @@ def main(args):
     if args.dataset == "meddra":
         checkpoint_output_path = os.path.join(
             args.train_save_path, "model"
-        )  # f"../../{args.split}/output/{base_model}/"
+        )
     else:
         checkpoint_output_path = os.path.join(
             args.train_save_path, args.dataset, f"run_{args.run}", "model"
-        )  # f"../../{args.split}/output/{base_model}/{args.dataset}/run_{args.run}/"
+        )
 
     os.makedirs(checkpoint_output_path, exist_ok=True)
 

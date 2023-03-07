@@ -13,7 +13,7 @@ from transformers import AutoModel, AutoTokenizer
 def main(model_path, force):
     meddra = pd.read_pickle("../dataset/llt_to_pt/meddra_data.pkl")
     meddra = meddra[["ENG", "level"]]
-    meddra = meddra[(meddra.level == "PT")]  # |(meddra.level=="LLT")]
+    meddra = meddra[(meddra.level == "PT")]
     meddra.ENG = meddra.ENG.str.lower()
     print("meddra terms for each level")
     print(meddra.level.value_counts())

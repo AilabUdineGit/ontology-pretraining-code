@@ -11,7 +11,7 @@ from transformers import AutoModel, AutoTokenizer
 
 
 def main(model_path, force):
-    meddra = pd.read_pickle("../dataset/llt_to_pt/meddra_data.pkl")
+    meddra = pd.read_pickle("../data/meddra/meddra.pkl")
     meddra = meddra[["ENG", "level"]]
     meddra = meddra[(meddra.level == "PT")]
     meddra.ENG = meddra.ENG.str.lower()
