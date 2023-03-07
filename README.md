@@ -1,15 +1,17 @@
-# Ontology Pretraining code
+<h1 align="center"> <p>Ontology Pretraining</p></h1>
+<h3 align="center"> Generalizing over Long Tail Concepts for Medical Term Normalization </h3>
+
 
 This repository contains the source code used for the experimental session of the ["Generalizing over Long Tail Concepts for Medical Term Normalization"](https://aclanthology.org/2022.emnlp-main.588/) paper.
 
-This code could produce some errors. The updated version will be released soon.
+⚠️ This code could produce some errors. The updated version will be released soon.
 
 ## Datasets
 
 The datasets used for the experimental session are in the 
 `data` folder, expert for `PROP` that cannot be publicly released.
 
-In the `train.csv` and `test.csv` files the important columns refer to:
+In the `train.csv` and `test.csv` files the relevant columns refer to:
 
 * `ae`: the *ADE* in the original sample text
 * `term`: the preferred term *PT*
