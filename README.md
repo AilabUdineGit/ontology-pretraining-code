@@ -4,12 +4,12 @@
 
 This repository contains the source code used for the experimental session of the ["Generalizing over Long Tail Concepts for Medical Term Normalization"](https://aclanthology.org/2022.emnlp-main.588/) paper.
 
-⚠️ This code could produce some errors. The updated version will be released soon.
+⚠️ This code may produce some errors. The updated version will be released soon.
 
 ## Datasets
 
 The datasets used for the experimental session are in the 
-`data` folder, expert for `PROP` that cannot be publicly released.
+`data` folder, except for `PROP` that cannot be released publicly.
 
 In the `train.csv` and `test.csv` files the relevant columns refer to:
 
