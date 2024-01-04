@@ -34,6 +34,7 @@ In each folder in `models` you can find a `train_test.sh` script to run an examp
 
 ## TODO
 
+- [ ] Improve execution instructions
 - [ ] Provide evaluation script
 - [ ] fix some paths
 
